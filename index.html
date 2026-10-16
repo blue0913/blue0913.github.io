@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f6f7f9">
+  <meta name="description" content="智理环宇 AI·PHYSICA：关于人工智能、理论物理与复杂系统的个人空间。完整科研入门指南、文献阅读方法与科研资源速查。">
+  <meta property="og:title" content="智理环宇 · AI·PHYSICA">
+  <meta property="og:description" content="探索 · 思考 · 连接。从工具使用到文献阅读，为科研的第一步找到路径。">
+  <title>智理环宇 · AI·PHYSICA</title>
+  <link rel="icon" href="assets/brand.png" type="image/png">
+  <link rel="stylesheet" href="styles.css">
+  <script type="module" src="app.js"></script>
+</head>
+<body>
+  <a href="#main-content" class="skip-link">跳转到正文</a>
+  <header class="site-header">
+    <div class="header-inner container">
+      <a class="brand" href="#/" aria-label="智理环宇，返回首页">
+        <img src="assets/brand.png" width="46" height="46" alt="">
+        <span class="brand-wordmark"><strong>智理环宇</strong><small>AI·PHYSICA</small></span>
+      </a>
+      <nav class="desktop-nav" aria-label="主导航">
+        <a href="#/" data-nav="home">首页</a><a href="#/guide" data-nav="guide">科研指南</a><a href="#/resources" data-nav="resources">资源速查</a><a href="#/about" data-nav="about">关于本站</a>
+      </nav>
+      <div class="header-tools">
+        <button class="search-trigger" data-action="search" aria-label="搜索指南"><span aria-hidden="true">⌕</span><span>搜索</span><kbd>/</kbd></button>
+        <button class="icon-button menu-toggle" data-action="menu" aria-label="展开导航" aria-expanded="false" aria-controls="mobile-nav">☰</button>
+      </div>
+    </div>
+    <nav id="mobile-nav" class="mobile-nav" aria-label="手机导航" hidden><a href="#/">首页</a><a href="#/guide">科研指南</a><a href="#/resources">资源速查</a><a href="#/about">关于本站</a></nav>
+  </header>
+  <main id="main-content" tabindex="-1"><div id="app" aria-busy="true"><div class="container page-intro"><p class="eyebrow">AI·PHYSICA</p><h1 class="page-title">正在打开科研空间…</h1></div></div></main>
+  <footer class="site-footer"><div class="footer-inner container"><div class="footer-brand">智理环宇 <span>·</span> AI·PHYSICA<small>探索 · 思考 · 连接</small></div><p class="footer-note">指南原著：Chaos公社<br>2026年8月 · V1.0</p><div class="footer-links"><a href="#/guide">完整目录 ↗</a><a href="#/about">关于与版权 ↗</a></div></div></footer>
+  <dialog id="search-dialog" aria-labelledby="search-dialog-title"><div class="modal-header"><h2 id="search-dialog-title">在指南中寻找答案</h2><button class="icon-button close-dialog" data-action="close-search" aria-label="关闭搜索">×</button></div><label class="modal-search"><span aria-hidden="true">⌕</span><input id="global-search" type="search" maxlength="120" placeholder="试试 Zotero、Python、文献阅读…" autocomplete="off" aria-label="搜索全文"></label><div id="modal-results" class="modal-results" aria-live="polite"></div><div class="search-modal-footer"><span>搜索章节标题与完整正文</span><span><kbd>Esc</kbd> 关闭</span></div></dialog>
+  <dialog id="image-dialog" aria-label="原文插图放大预览"><div class="modal-header"><span>原文插图</span><button class="icon-button close-dialog" data-action="close-image" aria-label="关闭图片">×</button></div><div class="image-modal-content"><img id="preview-image" alt=""><p id="image-caption" class="image-caption"></p></div></dialog>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <button class="back-to-top icon-button" data-action="top" aria-label="回到顶部" hidden>↑</button>
+  <noscript><div class="container error-panel">请开启浏览器的 JavaScript，以浏览完整目录和指南。</div></noscript>
+</body>
+</html>

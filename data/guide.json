@@ -1,0 +1,6140 @@
+{
+  "version": "1.0",
+  "title": "研究生科研入门指南",
+  "author": "Chaos公社",
+  "edition": "2026年8月·V1.0",
+  "groups": [
+    {
+      "id": "chapter1",
+      "title": "第一章 科研工具使用要求"
+    },
+    {
+      "id": "chapter2",
+      "title": "第二章 文献查找与阅读规范"
+    },
+    {
+      "id": "appendixA",
+      "title": "附录A：科研工具与资源分类速查表"
+    },
+    {
+      "id": "appendixB",
+      "title": "附录B：arXiv相关分类速查"
+    },
+    {
+      "id": "appendixC",
+      "title": "附录C：推荐学习资源"
+    }
+  ],
+  "sections": [
+    {
+      "id": "cover",
+      "title": "封面与版本",
+      "groupId": "chapter1",
+      "topic": "原文署名与版本",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 0,
+          "text": "研究生科研入门指南"
+        },
+        {
+          "type": "paragraph",
+          "text": "Chaos公社"
+        },
+        {
+          "type": "paragraph",
+          "text": "2026年8月·V1.0"
+        }
+      ],
+      "route": "/guide-packs/part01/read?id=cover",
+      "searchText": "研究生科研入门指南\nChaos公社\n2026年8月·V1.0",
+      "characterCount": 28,
+      "readingMinutes": 1
+    },
+    {
+      "title": "第一章 科研工具使用要求",
+      "groupId": "chapter1",
+      "topic": "第一章 科研工具使用要求",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "第一章 科研工具使用要求",
+          "level": 0
+        },
+        {
+          "type": "paragraph",
+          "text": "科研工具直接关系到研究效率。掌握合适的工具不仅能提升工作效率，还能帮助开拓研究思路、规范科研流程。本章按用途将科研工具分为四类：文献检索与管理工具、数据分析与计算工具、写作排版工具、其他实用工具，并逐项说明各类工具的使用要求与访问方式。"
+        }
+      ],
+      "id": "section-002",
+      "route": "/guide-packs/part01/read?id=section-002",
+      "searchText": "第一章 科研工具使用要求\n科研工具直接关系到研究效率。掌握合适的工具不仅能提升工作效率，还能帮助开拓研究思路、规范科研流程。本章按用途将科研工具分为四类：文献检索与管理工具、数据分析与计算工具、写作排版工具、其他实用工具，并逐项说明各类工具的使用要求与访问方式。",
+      "characterCount": 129,
+      "readingMinutes": 1
+    },
+    {
+      "title": "1 文献检索与管理工具",
+      "groupId": "chapter1",
+      "topic": "1 文献检索与管理工具",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "1 文献检索与管理工具",
+          "level": 1
+        },
+        {
+          "type": "paragraph",
+          "text": "文献是科研工作的基础。检索、获取、管理与阅读贯穿研究全程，能否高效完成这一链条，是研究生最基础、也最核心的能力。本节按用途将常用资源归为七类：中文文献数据库、英文文献数据库、预印本平台、文献检索工具、专利检索工具、期刊检索与评价工具，以及文献管理工具。每类均有详细介绍，可按目录定位直接跳转；文末附件另附对应工具的表格链接，便于快速查找与下载。"
+        }
+      ],
+      "id": "section-003",
+      "route": "/guide-packs/part01/read?id=section-003",
+      "searchText": "1 文献检索与管理工具\n文献是科研工作的基础。检索、获取、管理与阅读贯穿研究全程，能否高效完成这一链条，是研究生最基础、也最核心的能力。本节按用途将常用资源归为七类：中文文献数据库、英文文献数据库、预印本平台、文献检索工具、专利检索工具、期刊检索与评价工具，以及文献管理工具。每类均有详细介绍，可按目录定位直接跳转；文末附件另附对应工具的表格链接，便于快速查找与下载。",
+      "characterCount": 182,
+      "readingMinutes": 1
+    },
+    {
+      "title": "1.1 中文文献数据库",
+      "groupId": "chapter1",
+      "topic": "1 文献检索与管理工具",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "1.1 中文文献数据库",
+          "level": 2
+        },
+        {
+          "type": "heading",
+          "text": "1.1.1 中国知网（CNKI）",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "国内最权威的中文学术文献数据库，涵盖期刊论文、学位论文、会议论文、报纸、年鉴等多种文献类型，是检索中文文献的首选平台。支持 CAJ 和 PDF 两种格式下载，推荐优先下载 PDF 格式；若无 PDF 版本，可访问知网英文版。适用场景：检索中文期刊论文、硕博学位论文、会议论文；了解国内研究现状；撰写中文文献综述。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://www.cnki.net/",
+          "runs": [
+            {
+              "text": "访问网址：",
+              "bold": true
+            },
+            {
+              "text": "https://www.cnki.net/"
+            }
+          ],
+          "links": [
+            {
+              "label": "https://www.cnki.net/",
+              "url": "https://www.cnki.net/"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/guide/part01/static/image1.jpg",
+          "width": 2000,
+          "height": 1638,
+          "alt": "指南原文配图 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "操作要点：通过学校 IP 或校园 VPN 访问知网首页，选择“高级检索”，在“主题”字段输入核心关键词，可使用逻辑运算符（AND/OR/NOT）组合检索；利用“文献来源”筛选期刊级别（如 SCI、EI、CSSCI、北大核心），用“发表时间”限定近年文献；点击文献标题查看摘要与关键词，判断相关性后下载全文，再利用“引文网络”功能追踪文献的引用关系，拓展阅读范围。"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：无法下载全文时确认是否通过校园网或VPN访问；检索结果过多时增加限定条件（缩小时间范围、限定核心期刊、添加排除词）；检索结果过少时尝试扩展同义词，使用“主题”而非“篇名”字段。知网还提供CNKI学术搜索（https://scholar.cnki.net/），支持DOI查询和外文全文免费下载。",
+          "runs": [
+            {
+              "text": "使用提示：",
+              "bold": true
+            },
+            {
+              "text": "无法下载全文时确认是否通过校园网或VPN访问；检索结果过多时增加限定条件（缩小时间范围、限定核心期刊、添加排除词）；检索结果过少时尝试扩展同义词，使用“主题”而非“篇名”字段。知网还提供CNKI学术搜索（https://scholar.cnki.net/），支持DOI查询和外文全文免费下载。"
+            }
+          ],
+          "links": [
+            {
+              "label": "https://scholar.cnki.net/",
+              "url": "https://scholar.cnki.net/"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "1.1.2 万方数据（WanfangData）",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "国内重要的综合性学术数据库，在学位论文收录方面具有特色优势，部分高校的学位论文仅在万方收录。适用场景：查找国内硕博学位论文（尤其是知网未收录的）；检索中文期刊和会议论文；作为知网的重要补充。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://www.wanfangdata.com.cn/",
+          "runs": [
+            {
+              "text": "访问网址：",
+              "bold": true
+            },
+            {
+              "text": "https://www.wanfangdata.com.cn/"
+            }
+          ],
+          "links": [
+            {
+              "label": "https://www.wanfangdata.com.cn/",
+              "url": "https://www.wanfangdata.com.cn/"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/guide/part01/static/image2.jpg",
+          "width": 2000,
+          "height": 1820,
+          "alt": "指南原文配图 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "操作要点：通过学校 IP 登录万方数据首页；选择文献类型（期刊/学位论文/会议等），输入检索词；利用左侧筛选栏按年份、学科、期刊类型等进行二次筛选，下载所需文献。"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：万方在学位论文方面与知网互补，建议两个数据库交叉检索以确保覆盖面；万方检测（https://check.wanfangdata.com.cn/）可用于论文查重。",
+          "runs": [
+            {
+              "text": "使用提示：",
+              "bold": true
+            },
+            {
+              "text": "万方在学位论文方面与知网互补，建议两个数据库交叉检索以确保覆盖面；万方检测（https://check.wanfangdata.com.cn/）可用于论文查重。"
+            }
+          ],
+          "links": [
+            {
+              "label": "https://check.wanfangdata.com.cn/",
+              "url": "https://check.wanfangdata.com.cn/"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "1.1.3 维普中文期刊服务平台（VIP）",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "国内老牌期刊数据库，收录 14000 余种科技期刊、5600 万篇期刊全文，与知网有一定互补性，部分期刊在维普独有收录。适用场景：作为知网和万方的补充检索渠道；查找知网未收录的期刊文献；进行文献计量分析。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://lib.cqvip.com/",
+          "runs": [
+            {
+              "text": "访问网址：",
+              "bold": true
+            },
+            {
+              "text": "https://lib.cqvip.com/"
+            }
+          ],
+          "links": [
+            {
+              "label": "https://lib.cqvip.com/",
+              "url": "https://lib.cqvip.com/"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/guide/part01/static/image3.jpg",
+          "width": 1949,
+          "height": 2312,
+          "alt": "指南原文配图 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "操作要点：通过学校 IP 访问维普平台，在检索框中输入关键词，选择检索字段，利用筛选功能限定年份、学科、期刊类型，下载所需文献。"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：维普与知网的收录范围不完全重叠，可以三者交叉使用以提高查全率；维普还提供论文检测服务（http://vpcs.cqvip.com/）。",
+          "runs": [
+            {
+              "text": "使用提示：",
+              "bold": true
+            },
+            {
+              "text": "维普与知网的收录范围不完全重叠，可以三者交叉使用以提高查全率；维普还提供论文检测服务（http://vpcs.cqvip.com/）。"
+            }
+          ],
+          "links": [
+            {
+              "label": "http://vpcs.cqvip.com/",
+              "url": "http://vpcs.cqvip.com/"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "1.1.4 PubScholar（中国科学院公益学术平台）",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "中国科学院主导建设的公益学术平台，整合了中科院科技成果、科技出版和学术交流资源，提供公益性学术资源检索、内容获取和交流共享服务。适用场景：免费获取中文学术文献；查找中科院系统的科研成果；在学校数据库权限不足时作为替代渠道。"
+        },
+        {
+          "type": "image",
+          "src": "assets/guide/part01/static/image4.jpg",
+          "width": 2000,
+          "height": 947,
+          "alt": "指南原文配图 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://pubscholar.cn",
+          "runs": [
+            {
+              "text": "访问网址：",
+              "bold": true
+            },
+            {
+              "text": "https://pubscholar.cn"
+            }
+          ],
+          "links": [
+            {
+              "label": "https://pubscholar.cn",
+              "url": "https://pubscholar.cn"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：作为公益性平台，部分资源可能受版权限制无法全文下载；建议与知网、万方配合使用以提高文献获取率。",
+          "runs": [
+            {
+              "text": "使用提示：",
+              "bold": true
+            },
+            {
+              "text": "作为公益性平台，部分资源可能受版权限制无法全文下载；建议与知网、万方配合使用以提高文献获取率。"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "1.1.5 ChinaXiv（中国科学院科技论文预发布平台）",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "中国科学院建设的科技论文预发布平台，是国内对标 arXiv 的预印本平台，面向国内科研人员提供预印本发布与获取服务。适用场景：获取国内最新研究成果的预印本，了解国内前沿研究动态。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://chinaxiv.org/home.htm",
+          "runs": [
+            {
+              "text": "访问网址：",
+              "bold": true
+            },
+            {
+              "text": "https://chinaxiv.org/home.htm"
+            }
+          ],
+          "links": [
+            {
+              "label": "https://chinaxiv.org/home.htm",
+              "url": "https://chinaxiv.org/home.htm"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/guide/part01/static/image5.jpg",
+          "width": 1912,
+          "height": 906,
+          "alt": "指南原文配图 5"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：访问 ChinaXiv 首页，注册账号，按学科分类浏览或关键词检索，下载预印本 PDF 全文。可与 arXiv 互补使用，ChinaXiv 侧重中文文献和国内研究。"
+        }
+      ],
+      "id": "section-004",
+      "route": "/guide-packs/part01/read?id=section-004",
+      "searchText": "1.1 中文文献数据库\n1.1.1 中国知网（CNKI）\n国内最权威的中文学术文献数据库，涵盖期刊论文、学位论文、会议论文、报纸、年鉴等多种文献类型，是检索中文文献的首选平台。支持 CAJ 和 PDF 两种格式下载，推荐优先下载 PDF 格式；若无 PDF 版本，可访问知网英文版。适用场景：检索中文期刊论文、硕博学位论文、会议论文；了解国内研究现状；撰写中文文献综述。\n访问网址：https://www.cnki.net/\n\n操作要点：通过学校 IP 或校园 VPN 访问知网首页，选择“高级检索”，在“主题”字段输入核心关键词，可使用逻辑运算符（AND/OR/NOT）组合检索；利用“文献来源”筛选期刊级别（如 SCI、EI、CSSCI、北大核心），用“发表时间”限定近年文献；点击文献标题查看摘要与关键词，判断相关性后下载全文，再利用“引文网络”功能追踪文献的引用关系，拓展阅读范围。\n使用提示：无法下载全文时确认是否通过校园网或VPN访问；检索结果过多时增加限定条件（缩小时间范围、限定核心期刊、添加排除词）；检索结果过少时尝试扩展同义词，使用“主题”而非“篇名”字段。知网还提供CNKI学术搜索（https://scholar.cnki.net/），支持DOI查询和外文全文免费下载。\n1.1.2 万方数据（WanfangData）\n国内重要的综合性学术数据库，在学位论文收录方面具有特色优势，部分高校的学位论文仅在万方收录。适用场景：查找国内硕博学位论文（尤其是知网未收录的）；检索中文期刊和会议论文；作为知网的重要补充。\n访问网址：https://www.wanfangdata.com.cn/\n\n操作要点：通过学校 IP 登录万方数据首页；选择文献类型（期刊/学位论文/会议等），输入检索词；利用左侧筛选栏按年份、学科、期刊类型等进行二次筛选，下载所需文献。\n使用提示：万方在学位论文方面与知网互补，建议两个数据库交叉检索以确保覆盖面；万方检测（https://check.wanfangdata.com.cn/）可用于论文查重。\n1.1.3 维普中文期刊服务平台（VIP）\n国内老牌期刊数据库，收录 14000 余种科技期刊、5600 万篇期刊全文，与知网有一定互补性，部分期刊在维普独有收录。适用场景：作为知网和万方的补充检索渠道；查找知网未收录的期刊文献；进行文献计量分析。\n访问网址：https://lib.cqvip.com/\n\n操作要点：通过学校 IP 访问维普平台，在检索框中输入关键词，选择检索字段，利用筛选功能限定年份、学科、期刊类型，下载所需文献。\n使用提示：维普与知网的收录范围不完全重叠，可以三者交叉使用以提高查全率；维普还提供论文检测服务（http://vpcs.cqvip.com/）。\n1.1.4 PubScholar（中国科学院公益学术平台）\n中国科学院主导建设的公益学术平台，整合了中科院科技成果、科技出版和学术交流资源，提供公益性学术资源检索、内容获取和交流共享服务。适用场景：免费获取中文学术文献；查找中科院系统的科研成果；在学校数据库权限不足时作为替代渠道。\n\n访问网址：https://pubscholar.cn\n使用提示：作为公益性平台，部分资源可能受版权限制无法全文下载；建议与知网、万方配合使用以提高文献获取率。\n1.1.5 ChinaXiv（中国科学院科技论文预发布平台）\n中国科学院建设的科技论文预发布平台，是国内对标 arXiv 的预印本平台，面向国内科研人员提供预印本发布与获取服务。适用场景：获取国内最新研究成果的预印本，了解国内前沿研究动态。\n访问网址：https://chinaxiv.org/home.htm\n\n使用提示：访问 ChinaXiv 首页，注册账号，按学科分类浏览或关键词检索，下载预印本 PDF 全文。可与 arXiv 互补使用，ChinaXiv 侧重中文文献和国内研究。",
+      "characterCount": 1570,
+      "readingMinutes": 4
+    },
+    {
+      "title": "1.2 英文文献数据库",
+      "groupId": "chapter1",
+      "topic": "1 文献检索与管理工具",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "1.2 英文文献数据库",
+          "level": 2
+        },
+        {
+          "type": "heading",
+          "text": "1.2.1 Web of Science（WoS）",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "全球最权威的引文索引数据库，收录 SCI（Science Citation Index Expanded）、SSCI、CPCI 等核心引文索引，是检索高质量英文文献和进行引文分析的首选工具。支持主题（Topic）、标题（Title）、作者（Author）等多字段检索，自动生成包含发文趋势、高被引论文等的引文分析报告。适用场景：检索高质量英文文献；进行引文分析和领域趋势分析；评估期刊影响因子；导出文献到管理软件。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://access.clarivate.com/wos",
+          "runs": [
+            {
+              "text": "访问网址：",
+              "bold": true
+            },
+            {
+              "text": "https://access.clarivate.com/wos"
+            }
+          ],
+          "links": [
+            {
+              "label": "https://access.clarivate.com/wos",
+              "url": "https://access.clarivate.com/wos"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/guide/part02/static/image6.jpg",
+          "width": 2000,
+          "height": 1733,
+          "alt": "指南原文配图 6"
+        },
+        {
+          "type": "paragraph",
+          "text": "操作要点：通过学校 IP 或 VPN 登录 Web of Science，选择“Web of Science Core Collection”作为检索数据库，在检索框中选择字段（通常选“Topic”）并输入关键词组合；使用引号进行精确短语检索、星号（*）进行截词检索，利用左侧筛选栏限定文献类型（Article/Review）、年份、学科类别和开放获取状态；点击“Create Citation Report”生成引文分析报告，选择所需文献，导出为 EndNote/RIS 格式或下载全文。"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：WoS本身不提供全文下载，需通过其链接跳转到出版商页面；检索式构建困难时，先用关键词初步检索，分析高相关文献中的术语，再据此优化检索式；建议利用学校图书馆的全文链接服务（“FindIt”按钮）获取全文。",
+          "runs": [
+            {
+              "text": "使用提示：",
+              "bold": true
+            },
+            {
+              "text": "WoS本身不提供全文下载，需通过其链接跳转到出版商页面；检索式构建困难时，先用关键词初步检索，分析高相关文献中的术语，再据此优化检索式；建议利用学校图书馆的全文链接服务（“FindIt”按钮）获取全文。"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "1.2.2 Nature",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "创刊于 1869 年，世界领先的多学科科学期刊，发表经同行评审的突破性研究，是自然科学领域最具影响力的期刊之一。适用场景：追踪顶级期刊的最新研究成果；阅读领域内高影响力的综述文章；了解科学前沿动态。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://www.nature.com/",
+          "runs": [
+            {
+              "text": "访问网址：",
+              "bold": true
+            },
+            {
+              "text": "https://www.nature.com/"
+            }
+          ],
+          "links": [
+            {
+              "label": "https://www.nature.com/",
+              "url": "https://www.nature.com/"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/guide/part02/static/image7.jpg",
+          "width": 2000,
+          "height": 1655,
+          "alt": "指南原文配图 7"
+        },
+        {
+          "type": "paragraph",
+          "text": "操作要点：按期刊或主题浏览，或使用检索功能搜索关键词，下载所需文章的 PDF 全文。"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：Nature 系列期刊大多需要订阅，通过学校 IP 访问；部分文章为开放获取（Open Access），可直接免费下载；Nature 的 News&Views 栏目是了解领域前沿的优质资源。"
+        },
+        {
+          "type": "heading",
+          "text": "1.2.3 ScienceDirect",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "Elsevier 公司的全文数据库，世界领先的科学、技术和医学研究来源，收录该出版社旗下的众多高质量期刊，在物理、数学、工程等领域具有重要地位。适用场景：下载 Elsevier 旗下期刊的文献全文（如 CSF、Chaos 等）；按学科浏览相关领域期刊。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://www.sciencedirect.com/",
+          "runs": [
+            {
+              "text": "访问网址：",
+              "bold": true
+            },
+            {
+              "text": "https://www.sciencedirect.com/"
+            }
+          ],
+          "links": [
+            {
+              "label": "https://www.sciencedirect.com/",
+              "url": "https://www.sciencedirect.com/"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/guide/part02/static/image8.jpg",
+          "width": 2000,
+          "height": 1612,
+          "alt": "指南原文配图 8"
+        },
+        {
+          "type": "paragraph",
+          "text": "操作要点：在检索框中输入关键词，或按学科分类浏览，利用筛选功能限定文章类型、年份、开放获取状态，下载所需文献的 PDF 全文。"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：ScienceDirect 与 Scopus 同属 Elsevier，两者可关联使用；未订阅的文章可查看摘要，全文可通过学校图书馆或文献互助平台获取；关注 Chaos 等与非线性动力学相关的期刊。"
+        },
+        {
+          "type": "heading",
+          "text": "1.2.4 MDPI",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "全球最大的开放获取（Open Access）出版商之一，所有发表文章均可免费下载，出版涵盖科学、工程、数学等领域的同行评审期刊。适用场景：免费获取开放获取期刊文献；查找 Mathematics、Entropy、Symmetry 等期刊中与非线性动力学、混沌控制相关的文章。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://www.mdpi.com",
+          "runs": [
+            {
+              "text": "访问网址：",
+              "bold": true
+            },
+            {
+              "text": "https://www.mdpi.com"
+            }
+          ],
+          "links": [
+            {
+              "label": "https://www.mdpi.com",
+              "url": "https://www.mdpi.com"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/guide/part02/static/image9.jpg",
+          "width": 2000,
+          "height": 1516,
+          "alt": "指南原文配图 9"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：MDPI 所有文章免费获取，是补充文献来源的重要渠道；注意甄别文章质量，开放获取期刊的审稿标准可能因期刊而异。"
+        },
+        {
+          "type": "heading",
+          "text": "1.2.5 Springer",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "全球领先的学术出版集团，出版大量科学、技术和医学领域的期刊和图书，在数学、物理、工程等领域具有重要影响力。适用场景：下载 Springer 旗下期刊文献（如 Nonlinear Dynamics 等）；查找学术专著和系列丛书。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://link.springer.com",
+          "runs": [
+            {
+              "text": "访问网址：",
+              "bold": true
+            },
+            {
+              "text": "https://link.springer.com"
+            }
+          ],
+          "links": [
+            {
+              "label": "https://link.springer.com",
+              "url": "https://link.springer.com"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/guide/part02/static/image10.jpg",
+          "width": 2000,
+          "height": 1458,
+          "alt": "指南原文配图 10"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：Springer 出版的 Nonlinear Dynamics 等期刊与非线性动力学方向密切相关；部分内容为开放获取，其余需学校订阅。"
+        },
+        {
+          "type": "heading",
+          "text": "1.2.6 IEEE Xplore",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "电气电子工程师学会（IEEE）的数字图书馆，是控制工程、信号处理、通信、计算机科学等领域的重要文献来源。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://ieeexplore.ieee.org/",
+          "runs": [
+            {
+              "text": "访问网址：",
+              "bold": true
+            },
+            {
+              "text": "https://ieeexplore.ieee.org/"
+            }
+          ],
+          "links": [
+            {
+              "label": "https://ieeexplore.ieee.org/",
+              "url": "https://ieeexplore.ieee.org/"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/guide/part02/static/image11.jpg",
+          "width": 2000,
+          "height": 1398,
+          "alt": "指南原文配图 11"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：在检索框中输入关键词，可选择在元数据或全文中检索，利用左侧筛选栏限定内容类型（Conferences/Journals/Standards）和年份，下载所需文献。适用场景：检索控制工程、信号处理、系统科学领域的期刊和会议论文，查找 IEEE Transactions 系列期刊文章；其会议论文（如 CDC、ACC）也是重要的文献来源。"
+        },
+        {
+          "type": "heading",
+          "text": "1.2.7 MathSciNet",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "美国数学学会（AMS）出版的数学评论数据库，收录数学及相关领域的文献评论和引文信息，是数学和理论物理领域不可或缺的检索工具。可在检索框中选择检索字段（Author/Title/Review Text/Anywhere 等），输入检索词，利用 MSC 分类号进行主题检索（如 37-xx 动力系统、93-xx 系统与控制），查看文献的 Mathematical Review 评论，了解文献的核心内容与学术评价。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://mathscinet.ams.org/mathscinet/publications-search",
+          "runs": [
+            {
+              "text": "访问网址：",
+              "bold": true
+            },
+            {
+              "text": "https://mathscinet.ams.org/mathscinet/publications-search"
+            }
+          ],
+          "links": [
+            {
+              "label": "https://mathscinet.ams.org/mathscinet/publications-search",
+              "url": "https://mathscinet.ams.org/mathscinet/publications-search"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/guide/part02/static/image12.jpg",
+          "width": 2000,
+          "height": 1099,
+          "alt": "指南原文配图 12"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：MSC分类号37（Dynamical Systems）和93（Systemsand Control）与非线性动力学、控制工程方向直接相关；MathSciNet的Review评论是判断文献质量的重要参考；与zbMATHOpen（https://zbmath.org/）互补使用。",
+          "runs": [
+            {
+              "text": "使用提示：",
+              "bold": true
+            },
+            {
+              "text": "MSC分类号37（Dynamical Systems）和93（Systemsand Control）与非线性动力学、控制工程方向直接相关；MathSciNet的Review评论是判断文献质量的重要参考；与zbMATHOpen（https://zbmath.org/）互补使用。"
+            }
+          ],
+          "links": [
+            {
+              "label": "https://zbmath.org/",
+              "url": "https://zbmath.org/"
+            }
+          ]
+        }
+      ],
+      "id": "section-005",
+      "route": "/guide-packs/part02/read?id=section-005",
+      "searchText": "1.2 英文文献数据库\n1.2.1 Web of Science（WoS）\n全球最权威的引文索引数据库，收录 SCI（Science Citation Index Expanded）、SSCI、CPCI 等核心引文索引，是检索高质量英文文献和进行引文分析的首选工具。支持主题（Topic）、标题（Title）、作者（Author）等多字段检索，自动生成包含发文趋势、高被引论文等的引文分析报告。适用场景：检索高质量英文文献；进行引文分析和领域趋势分析；评估期刊影响因子；导出文献到管理软件。\n访问网址：https://access.clarivate.com/wos\n\n操作要点：通过学校 IP 或 VPN 登录 Web of Science，选择“Web of Science Core Collection”作为检索数据库，在检索框中选择字段（通常选“Topic”）并输入关键词组合；使用引号进行精确短语检索、星号（*）进行截词检索，利用左侧筛选栏限定文献类型（Article/Review）、年份、学科类别和开放获取状态；点击“Create Citation Report”生成引文分析报告，选择所需文献，导出为 EndNote/RIS 格式或下载全文。\n使用提示：WoS本身不提供全文下载，需通过其链接跳转到出版商页面；检索式构建困难时，先用关键词初步检索，分析高相关文献中的术语，再据此优化检索式；建议利用学校图书馆的全文链接服务（“FindIt”按钮）获取全文。\n1.2.2 Nature\n创刊于 1869 年，世界领先的多学科科学期刊，发表经同行评审的突破性研究，是自然科学领域最具影响力的期刊之一。适用场景：追踪顶级期刊的最新研究成果；阅读领域内高影响力的综述文章；了解科学前沿动态。\n访问网址：https://www.nature.com/\n\n操作要点：按期刊或主题浏览，或使用检索功能搜索关键词，下载所需文章的 PDF 全文。\n使用提示：Nature 系列期刊大多需要订阅，通过学校 IP 访问；部分文章为开放获取（Open Access），可直接免费下载；Nature 的 News&Views 栏目是了解领域前沿的优质资源。\n1.2.3 ScienceDirect\nElsevier 公司的全文数据库，世界领先的科学、技术和医学研究来源，收录该出版社旗下的众多高质量期刊，在物理、数学、工程等领域具有重要地位。适用场景：下载 Elsevier 旗下期刊的文献全文（如 CSF、Chaos 等）；按学科浏览相关领域期刊。\n访问网址：https://www.sciencedirect.com/\n\n操作要点：在检索框中输入关键词，或按学科分类浏览，利用筛选功能限定文章类型、年份、开放获取状态，下载所需文献的 PDF 全文。\n使用提示：ScienceDirect 与 Scopus 同属 Elsevier，两者可关联使用；未订阅的文章可查看摘要，全文可通过学校图书馆或文献互助平台获取；关注 Chaos 等与非线性动力学相关的期刊。\n1.2.4 MDPI\n全球最大的开放获取（Open Access）出版商之一，所有发表文章均可免费下载，出版涵盖科学、工程、数学等领域的同行评审期刊。适用场景：免费获取开放获取期刊文献；查找 Mathematics、Entropy、Symmetry 等期刊中与非线性动力学、混沌控制相关的文章。\n访问网址：https://www.mdpi.com\n\n使用提示：MDPI 所有文章免费获取，是补充文献来源的重要渠道；注意甄别文章质量，开放获取期刊的审稿标准可能因期刊而异。\n1.2.5 Springer\n全球领先的学术出版集团，出版大量科学、技术和医学领域的期刊和图书，在数学、物理、工程等领域具有重要影响力。适用场景：下载 Springer 旗下期刊文献（如 Nonlinear Dynamics 等）；查找学术专著和系列丛书。\n访问网址：https://link.springer.com\n\n使用提示：Springer 出版的 Nonlinear Dynamics 等期刊与非线性动力学方向密切相关；部分内容为开放获取，其余需学校订阅。\n1.2.6 IEEE Xplore\n电气电子工程师学会（IEEE）的数字图书馆，是控制工程、信号处理、通信、计算机科学等领域的重要文献来源。\n访问网址：https://ieeexplore.ieee.org/\n\n使用提示：在检索框中输入关键词，可选择在元数据或全文中检索，利用左侧筛选栏限定内容类型（Conferences/Journals/Standards）和年份，下载所需文献。适用场景：检索控制工程、信号处理、系统科学领域的期刊和会议论文，查找 IEEE Transactions 系列期刊文章；其会议论文（如 CDC、ACC）也是重要的文献来源。\n1.2.7 MathSciNet\n美国数学学会（AMS）出版的数学评论数据库，收录数学及相关领域的文献评论和引文信息，是数学和理论物理领域不可或缺的检索工具。可在检索框中选择检索字段（Author/Title/Review Text/Anywhere 等），输入检索词，利用 MSC 分类号进行主题检索（如 37-xx 动力系统、93-xx 系统与控制），查看文献的 Mathematical Review 评论，了解文献的核心内容与学术评价。\n访问网址：https://mathscinet.ams.org/mathscinet/publications-search\n\n使用提示：MSC分类号37（Dynamical Systems）和93（Systemsand Control）与非线性动力学、控制工程方向直接相关；MathSciNet的Review评论是判断文献质量的重要参考；与zbMATHOpen（https://zbmath.org/）互补使用。",
+      "characterCount": 2334,
+      "readingMinutes": 6
+    },
+    {
+      "title": "1.3 预印本平台",
+      "groupId": "chapter1",
+      "topic": "1 文献检索与管理工具",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "1.3 预印本平台",
+          "level": 2
+        },
+        {
+          "type": "heading",
+          "text": "1.3.1 arXiv",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "全球最大的预印本（preprint）平台，尤其在物理、数学、计算机科学、定量生物学等领域，是获取最新研究成果的首选渠道。许多研究者在正式发表前会将论文上传至 arXiv，因此这里的文献通常比正式出版早数月甚至一年以上。适用场景：获取物理/数学领域的最新研究成果；追踪领域前沿动态；免费下载发表在付费期刊上的论文预印本版本。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://arxiv.org/",
+          "runs": [
+            {
+              "text": "访问网址：",
+              "bold": true
+            },
+            {
+              "text": "https://arxiv.org/"
+            }
+          ],
+          "links": [
+            {
+              "label": "https://arxiv.org/",
+              "url": "https://arxiv.org/"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/guide/part02/static/image13.jpg",
+          "width": 2000,
+          "height": 1895,
+          "alt": "指南原文配图 13"
+        },
+        {
+          "type": "paragraph",
+          "text": "操作要点：访问arXiv首页，通过检索框搜索关键词或作者，或按分类浏览最新文献；对非线性动力学与混沌控制方向，点击摘要页查看论文信息，下载PDF全文或源文件；还可使用 arXiv API 或RSS订阅，跟踪感兴趣分类的最新论文。"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：arXiv不进行同行评审，但大部分上传者是领域内活跃研究者，建议将arXiv论文与正式发表版本对照阅读；利用 RSS/邮件订阅实现自动化文献追踪，是保持领域敏感度的高效方式。"
+        }
+      ],
+      "id": "section-006",
+      "route": "/guide-packs/part02/read?id=section-006",
+      "searchText": "1.3 预印本平台\n1.3.1 arXiv\n全球最大的预印本（preprint）平台，尤其在物理、数学、计算机科学、定量生物学等领域，是获取最新研究成果的首选渠道。许多研究者在正式发表前会将论文上传至 arXiv，因此这里的文献通常比正式出版早数月甚至一年以上。适用场景：获取物理/数学领域的最新研究成果；追踪领域前沿动态；免费下载发表在付费期刊上的论文预印本版本。\n访问网址：https://arxiv.org/\n\n操作要点：访问arXiv首页，通过检索框搜索关键词或作者，或按分类浏览最新文献；对非线性动力学与混沌控制方向，点击摘要页查看论文信息，下载PDF全文或源文件；还可使用 arXiv API 或RSS订阅，跟踪感兴趣分类的最新论文。\n使用提示：arXiv不进行同行评审，但大部分上传者是领域内活跃研究者，建议将arXiv论文与正式发表版本对照阅读；利用 RSS/邮件订阅实现自动化文献追踪，是保持领域敏感度的高效方式。",
+      "characterCount": 403,
+      "readingMinutes": 2
+    },
+    {
+      "title": "1.4 文献检索工具",
+      "groupId": "chapter1",
+      "topic": "1 文献检索与管理工具",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "1.4 文献检索工具",
+          "level": 2
+        },
+        {
+          "type": "heading",
+          "text": "1.4.1 百度学术",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "百度推出的学术资源搜索平台，提供海量中英文文献检索，涵盖各类学术期刊、学位、会议论文，是国内使用最便捷的学术搜索引擎之一。适用场景：快速查找文献信息；作为 Google Scholar 的国内替代；初步了解某主题的文献概况。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://xueshu.baidu.com/",
+          "runs": [
+            {
+              "text": "访问网址：",
+              "bold": true
+            },
+            {
+              "text": "https://xueshu.baidu.com/"
+            }
+          ],
+          "links": [
+            {
+              "label": "https://xueshu.baidu.com/",
+              "url": "https://xueshu.baidu.com/"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/guide/part03/static/image14.jpg",
+          "width": 2000,
+          "height": 1523,
+          "alt": "指南原文配图 14"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：访问百度学术首页，在检索框中输入关键词、文献标题或作者，利用筛选功能限定年份、学科、文献类型，点击文献链接跳转到来源数据库获取全文。百度学术的检索结果可能不如 WoS 精确，适合初步检索和快速了解。"
+        },
+        {
+          "type": "heading",
+          "text": "1.4.2 Google Scholar（谷歌学术）",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "全球最大的学术搜索引擎，覆盖面广，适合快速查找文献和了解研究全貌，也是追踪引用情况的便捷工具。适用场景：快速查找文献；追踪引用情况；配置图书馆链接获取全文；建立个人学术档案。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://scholar.google.com/",
+          "runs": [
+            {
+              "text": "访问网址：",
+              "bold": true
+            },
+            {
+              "text": "https://scholar.google.com/"
+            }
+          ],
+          "links": [
+            {
+              "label": "https://scholar.google.com/",
+              "url": "https://scholar.google.com/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "（国内镜像：https://xs.xasa.top/#google_vignette）",
+          "links": [
+            {
+              "label": "https://xs.xasa.top/#google_vignette",
+              "url": "https://xs.xasa.top/#google_vignette"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/guide/part03/static/image15.jpg",
+          "width": 1912,
+          "height": 906,
+          "alt": "指南原文配图 15"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：在检索框中输入关键词或文献标题，点击“被引用次数”查看引用情况，追踪后续研究，点击右侧“PDF”或“全文链接”获取文献。国内访问需VPN或使用镜像站（如https://xs.xasa.top/#google_vignette）；建议在设置中配置学校图书馆链接以直接获取全文。Google Scholar的检索覆盖面广但精度不如WoS，适合初步检索和快速查找。",
+          "links": [
+            {
+              "label": "https://xs.xasa.top/#google_vignette",
+              "url": "https://xs.xasa.top/#google_vignette"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "1.4.3 Sci-Hub",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "提供学术论文免费下载的网站，覆盖面广，通过DOI号即可下载大部分文献的PDF全文。适用场景：快速下载单篇文献。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://sci-hub.ee/（域名经常变化，可通过科研通https://www.ablesci.com/获取实时可用域名）",
+          "runs": [
+            {
+              "text": "访问网址：",
+              "bold": true
+            },
+            {
+              "text": "https://sci-hub.ee/（域名经常变化，可通过科研通https://www.ablesci.com/获取实时可用域名）"
+            }
+          ],
+          "links": [
+            {
+              "label": "https://sci-hub.ee/",
+              "url": "https://sci-hub.ee/"
+            },
+            {
+              "label": "https://www.ablesci.com/",
+              "url": "https://www.ablesci.com/"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/guide/part03/static/image16.jpg",
+          "width": 1912,
+          "height": 906,
+          "alt": "指南原文配图 16"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：获取文献的DOI号（可在数据库文献详情页找到），访问Sci-Hub并在检索框中输入DOI号，点击下载。Sci-Hub域名经常更换，可通过科研通平台的SCI-Hub域名实时监测功能获取可用域名。"
+        }
+      ],
+      "id": "section-007",
+      "route": "/guide-packs/part03/read?id=section-007",
+      "searchText": "1.4 文献检索工具\n1.4.1 百度学术\n百度推出的学术资源搜索平台，提供海量中英文文献检索，涵盖各类学术期刊、学位、会议论文，是国内使用最便捷的学术搜索引擎之一。适用场景：快速查找文献信息；作为 Google Scholar 的国内替代；初步了解某主题的文献概况。\n访问网址：https://xueshu.baidu.com/\n\n使用提示：访问百度学术首页，在检索框中输入关键词、文献标题或作者，利用筛选功能限定年份、学科、文献类型，点击文献链接跳转到来源数据库获取全文。百度学术的检索结果可能不如 WoS 精确，适合初步检索和快速了解。\n1.4.2 Google Scholar（谷歌学术）\n全球最大的学术搜索引擎，覆盖面广，适合快速查找文献和了解研究全貌，也是追踪引用情况的便捷工具。适用场景：快速查找文献；追踪引用情况；配置图书馆链接获取全文；建立个人学术档案。\n访问网址：https://scholar.google.com/\n（国内镜像：https://xs.xasa.top/#google_vignette）\n\n使用提示：在检索框中输入关键词或文献标题，点击“被引用次数”查看引用情况，追踪后续研究，点击右侧“PDF”或“全文链接”获取文献。国内访问需VPN或使用镜像站（如https://xs.xasa.top/#google_vignette）；建议在设置中配置学校图书馆链接以直接获取全文。Google Scholar的检索覆盖面广但精度不如WoS，适合初步检索和快速查找。\n1.4.3 Sci-Hub\n提供学术论文免费下载的网站，覆盖面广，通过DOI号即可下载大部分文献的PDF全文。适用场景：快速下载单篇文献。\n访问网址：https://sci-hub.ee/（域名经常变化，可通过科研通https://www.ablesci.com/获取实时可用域名）\n\n使用提示：获取文献的DOI号（可在数据库文献详情页找到），访问Sci-Hub并在检索框中输入DOI号，点击下载。Sci-Hub域名经常更换，可通过科研通平台的SCI-Hub域名实时监测功能获取可用域名。",
+      "characterCount": 867,
+      "readingMinutes": 3
+    },
+    {
+      "title": "1.5 专利检索工具",
+      "groupId": "chapter1",
+      "topic": "1 文献检索与管理工具",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "1.5 专利检索工具",
+          "level": 2
+        },
+        {
+          "type": "heading",
+          "text": "1.5.1 国家知识产权局（CNIPA）",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "中国国家知识产权局官方网站，提供专利检索、专利申请、专利法律状态查询等服务的权威平台。适用场景：检索中国专利；查询专利法律状态；了解专利申请流程。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://www.cnipa.gov.cn/（专利检索及分析系统（PSS-System）：https://pss-system.cponline.cnipa.gov.cn/conventionalSearch）",
+          "runs": [
+            {
+              "text": "访问网址：",
+              "bold": true
+            },
+            {
+              "text": "https://www.cnipa.gov.cn/（专利检索及分析系统（PSS-System）：https://pss-system.cponline.cnipa.gov.cn/conventionalSearch）"
+            }
+          ],
+          "links": [
+            {
+              "label": "https://www.cnipa.gov.cn/",
+              "url": "https://www.cnipa.gov.cn/"
+            },
+            {
+              "label": "https://pss-system.cponline.cnipa.gov.cn/conventionalSearch",
+              "url": "https://pss-system.cponline.cnipa.gov.cn/conventionalSearch"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/guide/part03/static/image17.jpg",
+          "width": 1912,
+          "height": 906,
+          "alt": "指南原文配图 17"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：访问国家知识产权局官网，进入“专利检索”或直接访问专利检索及分析系统，输入专利名称、申请号、申请人或关键词进行检索，查看专利详情、法律状态和全文。作为官方平台，数据权威可靠；PSS-System 提供高级分析功能，可进行专利趋势分析、申请人分析等。"
+        },
+        {
+          "type": "heading",
+          "text": "1.5.2 专利之星检索系统",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "专业的专利检索分析平台，致力于让科研人员更便捷地获取专利信息，提供中外专利检索、专利下载、专利分析等功能。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://cprs.patentstar.com.cn/",
+          "runs": [
+            {
+              "text": "访问网址：",
+              "bold": true
+            },
+            {
+              "text": "https://cprs.patentstar.com.cn/"
+            }
+          ],
+          "links": [
+            {
+              "label": "https://cprs.patentstar.com.cn/",
+              "url": "https://cprs.patentstar.com.cn/"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/guide/part03/static/image18.jpg",
+          "width": 1912,
+          "height": 906,
+          "alt": "指南原文配图 18"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：访问专利之星检索系统，注册账号，在检索框中输入关键词、专利号或申请人，利用高级检索功能组合多个检索条件，查看专利详情并下载全文。",
+          "runs": [
+            {
+              "text": "使用提示：",
+              "bold": true
+            },
+            {
+              "text": "访问专利之星检索系统，注册账号，在检索框中输入关键词、专利号或申请人，利用高级检索功能组合多个检索条件，查看专利详情并下载全文。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "注：部分功能需注册登录后使用；支持中英文专利检索，覆盖范围广。"
+        },
+        {
+          "type": "heading",
+          "text": "1.5.3 中国专利下载",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "提供中国专利全文打包下载服务的平台，可通过专利号直接下载专利全文PDF。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://www.drugfuture.com/cnpat/cn_patent.asp",
+          "runs": [
+            {
+              "text": "访问网址：",
+              "bold": true
+            },
+            {
+              "text": "https://www.drugfuture.com/cnpat/cn_patent.asp"
+            }
+          ],
+          "links": [
+            {
+              "label": "https://www.drugfuture.com/cnpat/cn_patent.asp",
+              "url": "https://www.drugfuture.com/cnpat/cn_patent.asp"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/guide/part03/static/image19.jpg",
+          "width": 1912,
+          "height": 906,
+          "alt": "指南原文配图 19"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：该平台还提供美国专利下载（https://www.drugfuture.com/uspat/us_patent.asp）和欧洲专利下载（https://www.drugfuture.com/eppat/patent.asp），覆盖范围广泛。",
+          "runs": [
+            {
+              "text": "使用提示：",
+              "bold": true
+            },
+            {
+              "text": "该平台还提供美国专利下载（https://www.drugfuture.com/uspat/us_patent.asp）和欧洲专利下载（https://www.drugfuture.com/eppat/patent.asp），覆盖范围广泛。"
+            }
+          ],
+          "links": [
+            {
+              "label": "https://www.drugfuture.com/uspat/us_patent.asp",
+              "url": "https://www.drugfuture.com/uspat/us_patent.asp"
+            },
+            {
+              "label": "https://www.drugfuture.com/eppat/patent.asp",
+              "url": "https://www.drugfuture.com/eppat/patent.asp"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "1.5.4 佰腾专利",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "覆盖全球 108 个国家、区域与组织的专利检索平台，数据量达 1.8 亿+件，提供专利查询、检索、下载、分析、价值评估等综合服务。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://www.baiten.cn/",
+          "runs": [
+            {
+              "text": "访问网址：",
+              "bold": true
+            },
+            {
+              "text": "https://www.baiten.cn/"
+            }
+          ],
+          "links": [
+            {
+              "label": "https://www.baiten.cn/",
+              "url": "https://www.baiten.cn/"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/guide/part03/static/image20.jpg",
+          "width": 1912,
+          "height": 906,
+          "alt": "指南原文配图 20"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：访问佰腾专利官网，注册账号，在检索框中输入关键词、专利号或申请人，利用筛选功能限定国家、日期、专利类型，查看专利详情，下载全文或进行分析。"
+        },
+        {
+          "type": "paragraph",
+          "text": "佰腾的数据覆盖面广，适合跨国专利检索；部分高级分析功能需付费会员。"
+        }
+      ],
+      "id": "section-008",
+      "route": "/guide-packs/part03/read?id=section-008",
+      "searchText": "1.5 专利检索工具\n1.5.1 国家知识产权局（CNIPA）\n中国国家知识产权局官方网站，提供专利检索、专利申请、专利法律状态查询等服务的权威平台。适用场景：检索中国专利；查询专利法律状态；了解专利申请流程。\n访问网址：https://www.cnipa.gov.cn/（专利检索及分析系统（PSS-System）：https://pss-system.cponline.cnipa.gov.cn/conventionalSearch）\n\n使用提示：访问国家知识产权局官网，进入“专利检索”或直接访问专利检索及分析系统，输入专利名称、申请号、申请人或关键词进行检索，查看专利详情、法律状态和全文。作为官方平台，数据权威可靠；PSS-System 提供高级分析功能，可进行专利趋势分析、申请人分析等。\n1.5.2 专利之星检索系统\n专业的专利检索分析平台，致力于让科研人员更便捷地获取专利信息，提供中外专利检索、专利下载、专利分析等功能。\n访问网址：https://cprs.patentstar.com.cn/\n\n使用提示：访问专利之星检索系统，注册账号，在检索框中输入关键词、专利号或申请人，利用高级检索功能组合多个检索条件，查看专利详情并下载全文。\n注：部分功能需注册登录后使用；支持中英文专利检索，覆盖范围广。\n1.5.3 中国专利下载\n提供中国专利全文打包下载服务的平台，可通过专利号直接下载专利全文PDF。\n访问网址：https://www.drugfuture.com/cnpat/cn_patent.asp\n\n使用提示：该平台还提供美国专利下载（https://www.drugfuture.com/uspat/us_patent.asp）和欧洲专利下载（https://www.drugfuture.com/eppat/patent.asp），覆盖范围广泛。\n1.5.4 佰腾专利\n覆盖全球 108 个国家、区域与组织的专利检索平台，数据量达 1.8 亿+件，提供专利查询、检索、下载、分析、价值评估等综合服务。\n访问网址：https://www.baiten.cn/\n\n使用提示：访问佰腾专利官网，注册账号，在检索框中输入关键词、专利号或申请人，利用筛选功能限定国家、日期、专利类型，查看专利详情，下载全文或进行分析。\n佰腾的数据覆盖面广，适合跨国专利检索；部分高级分析功能需付费会员。",
+      "characterCount": 971,
+      "readingMinutes": 3
+    },
+    {
+      "title": "1.6 期刊检索与评价工具",
+      "groupId": "chapter1",
+      "topic": "1 文献检索与管理工具",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "1.6 期刊检索与评价工具",
+          "level": 2
+        },
+        {
+          "type": "heading",
+          "text": "1.6.1 JCR（Journal Citation Reports）分区",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "科睿唯安（Clarivate Analytics）发布的期刊引证报告，提供期刊影响因子（Impact Factor）和 JCR 分区，是评估期刊学术影响力的国际标准工具。适用场景：查询期刊影响因子与 JCR 分区（Q1-Q4）、期刊排名与比较，以及五年影响因子、特征因子等指标。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://jcr.clarivate.com/jcr/home",
+          "runs": [
+            {
+              "text": "访问网址：",
+              "bold": true
+            },
+            {
+              "text": "https://jcr.clarivate.com/jcr/home"
+            }
+          ],
+          "links": [
+            {
+              "label": "https://jcr.clarivate.com/jcr/home",
+              "url": "https://jcr.clarivate.com/jcr/home"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/guide/part04/static/image21.jpg",
+          "width": 1912,
+          "height": 906,
+          "alt": "指南原文配图 21"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：JCR 分区按学科进行，同一期刊在不同学科中的分区可能不同；JCR 与中科院分区（期刊分区表）是两套独立的分区体系，建议结合使用。"
+        },
+        {
+          "type": "heading",
+          "text": "1.6.2 LetPub",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "中科院 SCI 论文英语润色和投稿分析平台，提供期刊查询、投稿经验分享、影响因子查询等服务，是国内科研人员常用的期刊信息查询工具。适用场景：SCI 期刊查询（影响因子、分区、审稿周期、录用比例）；投稿经验分享与用户评价；论文英语润色服务；中科院分区查询等。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://www.letpub.com.cn/index.php?page=journalapp",
+          "runs": [
+            {
+              "text": "访问网址：",
+              "bold": true
+            },
+            {
+              "text": "https://www.letpub.com.cn/index.php?page=journalapp"
+            }
+          ],
+          "links": [
+            {
+              "label": "https://www.letpub.com.cn/index.php?page=journalapp",
+              "url": "https://www.letpub.com.cn/index.php?page=journalapp"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/guide/part04/static/image22.jpg",
+          "width": 2000,
+          "height": 1574,
+          "alt": "指南原文配图 22"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：访问 LetPub 官网，在期刊查询框中输入期刊名称，查看期刊的影响因子、分区、审稿周期、录用难度等信息，浏览其他用户的投稿经验分享。"
+        },
+        {
+          "type": "paragraph",
+          "text": "LetPub 的用户投稿经验分享非常有参考价值，可帮助评估期刊的审稿效率和录用难度；投稿经验为用户自愿分享，仅供参考。"
+        },
+        {
+          "type": "heading",
+          "text": "1.6.3 科研通（AbleSci）",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "免费的非营利性文献互助与科研服务平台，提供文献互助获取、期刊查询、SCI-Hub 域名监测、科研导航等综合功能，通过 AI 机器人和志愿者协作获取文献。适用场景：获取学校未订阅的付费文献；查询期刊影响因子和分区；获取 SCI-Hub 可用域名；科研工具导航。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://www.ablesci.com/",
+          "runs": [
+            {
+              "text": "访问网址：",
+              "bold": true
+            },
+            {
+              "text": "https://www.ablesci.com/"
+            }
+          ],
+          "links": [
+            {
+              "label": "https://www.ablesci.com/",
+              "url": "https://www.ablesci.com/"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/guide/part04/static/image23.jpg",
+          "width": 1912,
+          "height": 906,
+          "alt": "指南原文配图 23"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：注册科研通账号并绑定微信，在“发布文献求助”页面输入文献的 DOI 号、标题或链接，系统自动识别文献信息，由 AI 机器人或志愿者快速提供下载；通过签到、应助等方式积累积分用于发布求助，并可用期刊查询功能查询影响因子和分区。"
+        },
+        {
+          "type": "paragraph",
+          "text": "尽量提供完整的文献信息（DOI号最佳）以提高求助成功率；新用户注册时可填写邀请码获得初始积分；积分不足时平台有保护机制（低于30分时签到双倍积分）。推荐一站式科研工具导航（https://www.ablesci.com/daohang）。",
+          "links": [
+            {
+              "label": "https://www.ablesci.com/daohang",
+              "url": "https://www.ablesci.com/daohang"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "1.6.4 熊猫学术",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "谷歌学术镜像站，内置 SCI-Hub 一键下载功能，提供学术检索、文献分析、期刊排行查询等综合服务，是国内访问谷歌学术的便捷替代方案。适用场景：无障碍使用谷歌学术；一键下载文献 PDF；快速查询期刊分区信息。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://sc.panda985.com/index.html",
+          "runs": [
+            {
+              "text": "访问网址：",
+              "bold": true
+            },
+            {
+              "text": "https://sc.panda985.com/index.html"
+            }
+          ],
+          "links": [
+            {
+              "label": "https://sc.panda985.com/index.html",
+              "url": "https://sc.panda985.com/index.html"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/guide/part04/static/image24.jpg",
+          "width": 2000,
+          "height": 1355,
+          "alt": "指南原文配图 24"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：访问熊猫学术网站，在检索框中输入关键词、文献标题或 DOI 号，浏览检索结果，点击右侧下载链接直接获取 PDF，利用期刊排行功能查询目标期刊的分区和影响因子。熊猫学术是镜像站点，非谷歌官方运营，避免在此页面登录个人 Google 账号；内置下载功能可直接获取大部分文献 PDF，非常便捷；建议与 Google Scholar 原站配合使用。"
+        }
+      ],
+      "id": "section-009",
+      "route": "/guide-packs/part04/read?id=section-009",
+      "searchText": "1.6 期刊检索与评价工具\n1.6.1 JCR（Journal Citation Reports）分区\n科睿唯安（Clarivate Analytics）发布的期刊引证报告，提供期刊影响因子（Impact Factor）和 JCR 分区，是评估期刊学术影响力的国际标准工具。适用场景：查询期刊影响因子与 JCR 分区（Q1-Q4）、期刊排名与比较，以及五年影响因子、特征因子等指标。\n访问网址：https://jcr.clarivate.com/jcr/home\n\n使用提示：JCR 分区按学科进行，同一期刊在不同学科中的分区可能不同；JCR 与中科院分区（期刊分区表）是两套独立的分区体系，建议结合使用。\n1.6.2 LetPub\n中科院 SCI 论文英语润色和投稿分析平台，提供期刊查询、投稿经验分享、影响因子查询等服务，是国内科研人员常用的期刊信息查询工具。适用场景：SCI 期刊查询（影响因子、分区、审稿周期、录用比例）；投稿经验分享与用户评价；论文英语润色服务；中科院分区查询等。\n访问网址：https://www.letpub.com.cn/index.php?page=journalapp\n\n使用提示：访问 LetPub 官网，在期刊查询框中输入期刊名称，查看期刊的影响因子、分区、审稿周期、录用难度等信息，浏览其他用户的投稿经验分享。\nLetPub 的用户投稿经验分享非常有参考价值，可帮助评估期刊的审稿效率和录用难度；投稿经验为用户自愿分享，仅供参考。\n1.6.3 科研通（AbleSci）\n免费的非营利性文献互助与科研服务平台，提供文献互助获取、期刊查询、SCI-Hub 域名监测、科研导航等综合功能，通过 AI 机器人和志愿者协作获取文献。适用场景：获取学校未订阅的付费文献；查询期刊影响因子和分区；获取 SCI-Hub 可用域名；科研工具导航。\n访问网址：https://www.ablesci.com/\n\n使用提示：注册科研通账号并绑定微信，在“发布文献求助”页面输入文献的 DOI 号、标题或链接，系统自动识别文献信息，由 AI 机器人或志愿者快速提供下载；通过签到、应助等方式积累积分用于发布求助，并可用期刊查询功能查询影响因子和分区。\n尽量提供完整的文献信息（DOI号最佳）以提高求助成功率；新用户注册时可填写邀请码获得初始积分；积分不足时平台有保护机制（低于30分时签到双倍积分）。推荐一站式科研工具导航（https://www.ablesci.com/daohang）。\n1.6.4 熊猫学术\n谷歌学术镜像站，内置 SCI-Hub 一键下载功能，提供学术检索、文献分析、期刊排行查询等综合服务，是国内访问谷歌学术的便捷替代方案。适用场景：无障碍使用谷歌学术；一键下载文献 PDF；快速查询期刊分区信息。\n访问网址：https://sc.panda985.com/index.html\n\n使用提示：访问熊猫学术网站，在检索框中输入关键词、文献标题或 DOI 号，浏览检索结果，点击右侧下载链接直接获取 PDF，利用期刊排行功能查询目标期刊的分区和影响因子。熊猫学术是镜像站点，非谷歌官方运营，避免在此页面登录个人 Google 账号；内置下载功能可直接获取大部分文献 PDF，非常便捷；建议与 Google Scholar 原站配合使用。",
+      "characterCount": 1323,
+      "readingMinutes": 4
+    },
+    {
+      "title": "1.7 文献管理工具",
+      "groupId": "chapter1",
+      "topic": "1 文献检索与管理工具",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "1.7 文献管理工具",
+          "level": 2
+        },
+        {
+          "type": "heading",
+          "text": "1.7.1 Zotero",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "免费开源的文献管理工具，支持浏览器插件一键抓取文献信息，具备强大的 PDF 管理和笔记功能，是研究生管理文献的首选工具。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://www.zotero.org/",
+          "runs": [
+            {
+              "text": "访问网址：",
+              "bold": true
+            },
+            {
+              "text": "https://www.zotero.org/"
+            }
+          ],
+          "links": [
+            {
+              "label": "https://www.zotero.org/",
+              "url": "https://www.zotero.org/"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/guide/part04/static/image25.jpg",
+          "width": 1154,
+          "height": 717,
+          "alt": "指南原文配图 25"
+        },
+        {
+          "type": "paragraph",
+          "text": "核心功能：安装 Zotero Connector 浏览器插件后，可在知网、Web of Science、arXiv 等页面一键抓取文献元数据和 PDF；通过文件夹分类和标签系统管理文献；支持在文献条目下添加笔记（支持 Markdown）；可在 Word/LaTeX 中插入引用，自动生成参考文献列表等。"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：可参考链接（https://mp.weixin.qq.com/s/yJIPKmNuHj7_NxEBc6I-NA）进行学习或直接在B站上搜索。",
+          "runs": [
+            {
+              "text": "使用提示：",
+              "bold": true
+            },
+            {
+              "text": "可参考链接（https://mp.weixin.qq.com/s/yJIPKmNuHj7_NxEBc6I-NA）进行学习或直接在B站上搜索。"
+            }
+          ],
+          "links": [
+            {
+              "label": "https://mp.weixin.qq.com/s/yJIPKmNuHj7_NxEBc6I-NA",
+              "url": "https://mp.weixin.qq.com/s/yJIPKmNuHj7_NxEBc6I-NA"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "1.7.2 EndNote",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "文献管理软件，与 Web of Science 深度整合，在高校中使用广泛，适合大规模文献管理，可与 Web of Science 联合使用。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://endnote.com/",
+          "runs": [
+            {
+              "text": "访问网址：",
+              "bold": true
+            },
+            {
+              "text": "https://endnote.com/"
+            }
+          ],
+          "links": [
+            {
+              "label": "https://endnote.com/",
+              "url": "https://endnote.com/"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/guide/part04/static/image26.jpg",
+          "width": 1070,
+          "height": 715,
+          "alt": "指南原文配图 26"
+        },
+        {
+          "type": "paragraph",
+          "text": "核心功能：文献库管理，支持大规模文献库；PDF标注与阅读；通过EndNote插件在Word中插入引用；引文报告生成；自动分类文献等。",
+          "runs": [
+            {
+              "text": "核心功能：",
+              "bold": true
+            },
+            {
+              "text": "文献库管理，支持大规模文献库；PDF标注与阅读；通过EndNote插件在Word中插入引用；引文报告生成；自动分类文献等。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：与WoS深度整合，从WoS导出文献到EndNote最为便捷。可参考链接（https://mp.weixin.qq.com/s/PuxeMp5XHtu-YhMDFpOR3Q）进行学习或直接在B站上搜索。",
+          "runs": [
+            {
+              "text": "使用提示：",
+              "bold": true
+            },
+            {
+              "text": "与WoS深度整合，从WoS导出文献到EndNote最为便捷。可参考链接（https://mp.weixin.qq.com/s/PuxeMp5XHtu-YhMDFpOR3Q）进行学习或直接在B站上搜索。"
+            }
+          ],
+          "links": [
+            {
+              "label": "https://mp.weixin.qq.com/s/PuxeMp5XHtu-YhMDFpOR3Q",
+              "url": "https://mp.weixin.qq.com/s/PuxeMp5XHtu-YhMDFpOR3Q"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "1.7.3 NoteExpress",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "国产文献管理软件，支持两大主流写作软件（Word和WPS），提供超过4000种参考文献输出样式，在国内高校中有一定用户基础。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：http://www.inoteexpress.com/",
+          "runs": [
+            {
+              "text": "访问网址：",
+              "bold": true
+            },
+            {
+              "text": "http://www.inoteexpress.com/"
+            }
+          ],
+          "links": [
+            {
+              "label": "http://www.inoteexpress.com/",
+              "url": "http://www.inoteexpress.com/"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/guide/part04/static/image27.jpg",
+          "width": 915,
+          "height": 434,
+          "alt": "指南原文配图 27"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：文献管理与检索；Word/WPS 引用插入；4000+ 种参考文献输出样式；笔记与标注功能等。NoteExpress 对 WPS 的支持优于 Zotero 和 EndNote，若课题组使用 WPS 而非 Word，它是较好的选择；参考文献样式覆盖国内标准较全面。"
+        },
+        {
+          "type": "heading",
+          "text": "1.7.4 Mendeley",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "Elsevier公司的免费文献管理工具，具有社交功能（关注研究者、推荐文献），PDF阅读体验较好。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://www.mendeley.com/",
+          "runs": [
+            {
+              "text": "访问网址：",
+              "bold": true
+            },
+            {
+              "text": "https://www.mendeley.com/"
+            }
+          ],
+          "links": [
+            {
+              "label": "https://www.mendeley.com/",
+              "url": "https://www.mendeley.com/"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/guide/part04/static/image28.jpg",
+          "width": 1912,
+          "height": 906,
+          "alt": "指南原文配图 28"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：作为补充免费文献管理替代方案；PDF阅读标注；文献推荐发现等。",
+          "runs": [
+            {
+              "text": "使用提示：",
+              "bold": true
+            },
+            {
+              "text": "作为补充免费文献管理替代方案；PDF阅读标注；文献推荐发现等。"
+            }
+          ]
+        }
+      ],
+      "id": "section-010",
+      "route": "/guide-packs/part04/read?id=section-010",
+      "searchText": "1.7 文献管理工具\n1.7.1 Zotero\n免费开源的文献管理工具，支持浏览器插件一键抓取文献信息，具备强大的 PDF 管理和笔记功能，是研究生管理文献的首选工具。\n访问网址：https://www.zotero.org/\n\n核心功能：安装 Zotero Connector 浏览器插件后，可在知网、Web of Science、arXiv 等页面一键抓取文献元数据和 PDF；通过文件夹分类和标签系统管理文献；支持在文献条目下添加笔记（支持 Markdown）；可在 Word/LaTeX 中插入引用，自动生成参考文献列表等。\n使用提示：可参考链接（https://mp.weixin.qq.com/s/yJIPKmNuHj7_NxEBc6I-NA）进行学习或直接在B站上搜索。\n1.7.2 EndNote\n文献管理软件，与 Web of Science 深度整合，在高校中使用广泛，适合大规模文献管理，可与 Web of Science 联合使用。\n访问网址：https://endnote.com/\n\n核心功能：文献库管理，支持大规模文献库；PDF标注与阅读；通过EndNote插件在Word中插入引用；引文报告生成；自动分类文献等。\n使用提示：与WoS深度整合，从WoS导出文献到EndNote最为便捷。可参考链接（https://mp.weixin.qq.com/s/PuxeMp5XHtu-YhMDFpOR3Q）进行学习或直接在B站上搜索。\n1.7.3 NoteExpress\n国产文献管理软件，支持两大主流写作软件（Word和WPS），提供超过4000种参考文献输出样式，在国内高校中有一定用户基础。\n访问网址：http://www.inoteexpress.com/\n\n使用提示：文献管理与检索；Word/WPS 引用插入；4000+ 种参考文献输出样式；笔记与标注功能等。NoteExpress 对 WPS 的支持优于 Zotero 和 EndNote，若课题组使用 WPS 而非 Word，它是较好的选择；参考文献样式覆盖国内标准较全面。\n1.7.4 Mendeley\nElsevier公司的免费文献管理工具，具有社交功能（关注研究者、推荐文献），PDF阅读体验较好。\n访问网址：https://www.mendeley.com/\n\n使用提示：作为补充免费文献管理替代方案；PDF阅读标注；文献推荐发现等。",
+      "characterCount": 957,
+      "readingMinutes": 3
+    },
+    {
+      "title": "2.1 MATLAB",
+      "groupId": "chapter1",
+      "topic": "2 数据分析与计算工具",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "2 数据分析与计算工具",
+          "level": 1
+        },
+        {
+          "type": "heading",
+          "text": "2.1 MATLAB",
+          "level": 2
+        },
+        {
+          "type": "paragraph",
+          "text": "MathWorks公司开发的数值计算与可视化软件，在控制工程、信号处理、动力学仿真等领域是行业标准工具，也是课题组最常用的计算平台之一。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://www.mathworks.com/",
+          "runs": [
+            {
+              "text": "访问网址：",
+              "bold": true
+            },
+            {
+              "text": "https://www.mathworks.com/"
+            }
+          ],
+          "links": [
+            {
+              "label": "https://www.mathworks.com/",
+              "url": "https://www.mathworks.com/"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/guide/part04/static/image29.jpg",
+          "width": 1912,
+          "height": 906,
+          "alt": "指南原文配图 29"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：MATLAB Onramp（https://www.mathworks.com/learn/tutorials/matlab-onramp）是官方免费入门课程，约 2 小时即可完成；推荐配合 MATLAB 官方文档（https://www.mathworks.com/help/matlab/）学习。",
+          "links": [
+            {
+              "label": "https://www.mathworks.com/learn/tutorials/matlab-onramp",
+              "url": "https://www.mathworks.com/learn/tutorials/matlab-onramp"
+            },
+            {
+              "label": "https://www.mathworks.com/help/matlab/",
+              "url": "https://www.mathworks.com/help/matlab/"
+            }
+          ]
+        }
+      ],
+      "id": "section-011",
+      "route": "/guide-packs/part04/read?id=section-011",
+      "searchText": "2 数据分析与计算工具\n2.1 MATLAB\nMathWorks公司开发的数值计算与可视化软件，在控制工程、信号处理、动力学仿真等领域是行业标准工具，也是课题组最常用的计算平台之一。\n访问网址：https://www.mathworks.com/\n\n使用提示：MATLAB Onramp（https://www.mathworks.com/learn/tutorials/matlab-onramp）是官方免费入门课程，约 2 小时即可完成；推荐配合 MATLAB 官方文档（https://www.mathworks.com/help/matlab/）学习。",
+      "characterCount": 268,
+      "readingMinutes": 1
+    },
+    {
+      "title": "2.2 Mathematica",
+      "groupId": "chapter1",
+      "topic": "2 数据分析与计算工具",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "2.2 Mathematica",
+          "level": 2
+        },
+        {
+          "type": "paragraph",
+          "text": "Wolfram Research 公司开发的符号计算软件，在数学推导、符号运算、可视化方面具有无可替代的优势，是数学领域的重要工具。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://www.wolfram.com/mathematica/",
+          "runs": [
+            {
+              "text": "访问网址：",
+              "bold": true
+            },
+            {
+              "text": "https://www.wolfram.com/mathematica/"
+            }
+          ],
+          "links": [
+            {
+              "label": "https://www.wolfram.com/mathematica/",
+              "url": "https://www.wolfram.com/mathematica/"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/guide/part04/static/image30.jpg",
+          "width": 1280,
+          "height": 800,
+          "alt": "指南原文配图 30"
+        },
+        {
+          "type": "paragraph",
+          "text": "适用场景：数学公式符号推导；解析求解微分方程；绘制高质量图形和动画；编写交互式计算文档。使用提示：Wolfram Cloud 提供免费版，无需安装即可使用基本功能；Mathematica 的符号计算能力在处理复杂数学推导时远优于 MATLAB；推荐使用 Manipulate 函数制作交互式演示。"
+        }
+      ],
+      "id": "section-012",
+      "route": "/guide-packs/part04/read?id=section-012",
+      "searchText": "2.2 Mathematica\nWolfram Research 公司开发的符号计算软件，在数学推导、符号运算、可视化方面具有无可替代的优势，是数学领域的重要工具。\n访问网址：https://www.wolfram.com/mathematica/\n\n适用场景：数学公式符号推导；解析求解微分方程；绘制高质量图形和动画；编写交互式计算文档。使用提示：Wolfram Cloud 提供免费版，无需安装即可使用基本功能；Mathematica 的符号计算能力在处理复杂数学推导时远优于 MATLAB；推荐使用 Manipulate 函数制作交互式演示。",
+      "characterCount": 261,
+      "readingMinutes": 1
+    },
+    {
+      "title": "2.3 Python",
+      "groupId": "chapter1",
+      "topic": "2 数据分析与计算工具",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "2.3 Python",
+          "level": 2
+        },
+        {
+          "type": "paragraph",
+          "text": "免费开源的通用编程语言，在科学计算领域日益重要，是MATLAB的重要替代和补充。对于需要进行大规模数据处理、机器学习或与其他系统集成的场景，Python具有明显优势。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://www.python.org/（推荐发行版Anaconda：https://www.anaconda.com/）",
+          "runs": [
+            {
+              "text": "访问网址：",
+              "bold": true
+            },
+            {
+              "text": "https://www.python.org/（推荐发行版Anaconda：https://www.anaconda.com/）"
+            }
+          ],
+          "links": [
+            {
+              "label": "https://www.python.org/",
+              "url": "https://www.python.org/"
+            },
+            {
+              "label": "https://www.anaconda.com/",
+              "url": "https://www.anaconda.com/"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/guide/part05/static/image31.jpg",
+          "width": 1280,
+          "height": 800,
+          "alt": "指南原文配图 31"
+        },
+        {
+          "type": "paragraph",
+          "text": "适用场景：科学计算与数据分析；机器学习与数据挖掘；大规模仿真；开源代码复现。推荐安装 Anaconda 发行版，已预装 NumPy、SciPy、Matplotlib 等科学计算库；Python 官方教程（https://docs.python.org/3/tutorial/）和 SciPy 讲座（https://scipy-lectures.org/）是优质学习资源；对控制工程和动力学仿真，MATLAB 仍是行业标准，建议优先掌握 MATLAB，以 Python 作为补充。",
+          "links": [
+            {
+              "label": "https://docs.python.org/3/tutorial/",
+              "url": "https://docs.python.org/3/tutorial/"
+            },
+            {
+              "label": "https://scipy-lectures.org/",
+              "url": "https://scipy-lectures.org/"
+            }
+          ]
+        }
+      ],
+      "id": "section-013",
+      "route": "/guide-packs/part05/read?id=section-013",
+      "searchText": "2.3 Python\n免费开源的通用编程语言，在科学计算领域日益重要，是MATLAB的重要替代和补充。对于需要进行大规模数据处理、机器学习或与其他系统集成的场景，Python具有明显优势。\n访问网址：https://www.python.org/（推荐发行版Anaconda：https://www.anaconda.com/）\n\n适用场景：科学计算与数据分析；机器学习与数据挖掘；大规模仿真；开源代码复现。推荐安装 Anaconda 发行版，已预装 NumPy、SciPy、Matplotlib 等科学计算库；Python 官方教程（https://docs.python.org/3/tutorial/）和 SciPy 讲座（https://scipy-lectures.org/）是优质学习资源；对控制工程和动力学仿真，MATLAB 仍是行业标准，建议优先掌握 MATLAB，以 Python 作为补充。",
+      "characterCount": 389,
+      "readingMinutes": 1
+    },
+    {
+      "title": "2.4 专业领域工具",
+      "groupId": "chapter1",
+      "topic": "2 数据分析与计算工具",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "2.4 专业领域工具",
+          "level": 2
+        },
+        {
+          "type": "heading",
+          "text": "2.4.1 AUTO（分岔分析软件）",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "开源的分岔分析软件，用于连续动力系统的分岔点计算和稳定性分析，是非线性动力学研究的专业工具。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://github.com/auto-07p/auto-07p",
+          "runs": [
+            {
+              "text": "访问网址：",
+              "bold": true
+            },
+            {
+              "text": "https://github.com/auto-07p/auto-07p"
+            }
+          ],
+          "links": [
+            {
+              "label": "https://github.com/auto-07p/auto-07p",
+              "url": "https://github.com/auto-07p/auto-07p"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "核心功能：分岔点计算、稳定性分析、周期轨道追踪、同宿轨道计算。"
+        },
+        {
+          "type": "paragraph",
+          "text": "适用场景：动力系统分岔分析；平衡点稳定性追踪；周期解的延拓计算。"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：属于专业研究工具，与 MATLAB/Python 的数值仿真互补使用。"
+        },
+        {
+          "type": "heading",
+          "text": "2.4.2 XPPAUT",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "动力系统数值模拟和分岔分析工具，与 AUTO 结合使用，适合求解和分析常微分方程系统的动力学行为。编写 ODE 定义文件，运行数值仿真，使用内置 AUTO 进行分岔分析。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：http://www.math.pitt.edu/~bard/xpp/xpp.html",
+          "runs": [
+            {
+              "text": "访问网址：",
+              "bold": true
+            },
+            {
+              "text": "http://www.math.pitt.edu/~bard/xpp/xpp.html"
+            }
+          ],
+          "links": [
+            {
+              "label": "http://www.math.pitt.edu/~bard/xpp/xpp.html",
+              "url": "http://www.math.pitt.edu/~bard/xpp/xpp.html"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "核心功能：ODE 数值积分、相图绘制、分岔分析（内嵌 AUTO）、Poincaré 截面。"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：界面较为简陋但功能强大，是非线性动力学领域的经典工具；建议参考Ermentrout的官方教程学习。"
+        }
+      ],
+      "id": "section-014",
+      "route": "/guide-packs/part05/read?id=section-014",
+      "searchText": "2.4 专业领域工具\n2.4.1 AUTO（分岔分析软件）\n开源的分岔分析软件，用于连续动力系统的分岔点计算和稳定性分析，是非线性动力学研究的专业工具。\n访问网址：https://github.com/auto-07p/auto-07p\n核心功能：分岔点计算、稳定性分析、周期轨道追踪、同宿轨道计算。\n适用场景：动力系统分岔分析；平衡点稳定性追踪；周期解的延拓计算。\n使用提示：属于专业研究工具，与 MATLAB/Python 的数值仿真互补使用。\n2.4.2 XPPAUT\n动力系统数值模拟和分岔分析工具，与 AUTO 结合使用，适合求解和分析常微分方程系统的动力学行为。编写 ODE 定义文件，运行数值仿真，使用内置 AUTO 进行分岔分析。\n访问网址：http://www.math.pitt.edu/~bard/xpp/xpp.html\n核心功能：ODE 数值积分、相图绘制、分岔分析（内嵌 AUTO）、Poincaré 截面。\n使用提示：界面较为简陋但功能强大，是非线性动力学领域的经典工具；建议参考Ermentrout的官方教程学习。",
+      "characterCount": 448,
+      "readingMinutes": 2
+    },
+    {
+      "title": "3.1 LaTeX",
+      "groupId": "chapter1",
+      "topic": "3 写作排版工具",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "3 写作排版工具",
+          "level": 1
+        },
+        {
+          "type": "heading",
+          "text": "3.1 LaTeX",
+          "level": 2
+        },
+        {
+          "type": "paragraph",
+          "text": "学术排版的标准工具，在数学、物理、计算机等领域是论文写作的事实标准。LaTeX 在数学公式排版、参考文献管理、交叉引用处理方面远优于 Word，是定量研究领域研究生的必备技能。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://www.latex-project.org/",
+          "runs": [
+            {
+              "text": "访问网址：",
+              "bold": true
+            },
+            {
+              "text": "https://www.latex-project.org/"
+            }
+          ],
+          "links": [
+            {
+              "label": "https://www.latex-project.org/",
+              "url": "https://www.latex-project.org/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "（在线平台Overleaf：https://www.overleaf.com/）",
+          "links": [
+            {
+              "label": "https://www.overleaf.com/",
+              "url": "https://www.overleaf.com/"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/guide/part05/static/image32.jpg",
+          "width": 1280,
+          "height": 800,
+          "alt": "指南原文配图 32"
+        },
+        {
+          "type": "image",
+          "src": "assets/guide/part05/static/image33.jpg",
+          "width": 1280,
+          "height": 800,
+          "alt": "指南原文配图 33"
+        },
+        {
+          "type": "paragraph",
+          "text": "适用场景：撰写学术论文；编写包含大量数学公式的文档；学位论文排版；期刊投稿。推荐新手使用 Overleaf：无需安装，在线编辑，实时预览，支持协作。"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：建议从Overleaf入手，先使用模板修改，逐步学习语法；推荐学习资源：Overleaf官方文档（https://www.overleaf.com/learn）、《一份不太简短的LaTeX2e介绍》；如果导师使用Word，可将LaTeX生成的PDF供导师批注，或使用Pandoc工具转换为Word格式。",
+          "links": [
+            {
+              "label": "https://www.overleaf.com/learn",
+              "url": "https://www.overleaf.com/learn"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "本地学习资源包：安装包内已附带一套完整的LaTeX学习资料，按编号00～11的目录清单（安装文件、入门电子书、讲义、数学公式、表格、插图、参考文献、beamer、TikZ、辅助工具、视频教程、标准规范）整理，可按需查阅。",
+          "runs": [
+            {
+              "text": "本地学习资源包",
+              "bold": true
+            },
+            {
+              "text": "：安装包内已附带一套完整的LaTeX学习资料，按编号00～11的目录清单（安装文件、入门电子书、讲义、数学公式、表格、插图、参考文献、beamer、TikZ、辅助工具、视频教程、标准规范）整理，可按需查阅。"
+            }
+          ]
+        }
+      ],
+      "id": "section-015",
+      "route": "/guide-packs/part05/read?id=section-015",
+      "searchText": "3 写作排版工具\n3.1 LaTeX\n学术排版的标准工具，在数学、物理、计算机等领域是论文写作的事实标准。LaTeX 在数学公式排版、参考文献管理、交叉引用处理方面远优于 Word，是定量研究领域研究生的必备技能。\n访问网址：https://www.latex-project.org/\n（在线平台Overleaf：https://www.overleaf.com/）\n\n\n适用场景：撰写学术论文；编写包含大量数学公式的文档；学位论文排版；期刊投稿。推荐新手使用 Overleaf：无需安装，在线编辑，实时预览，支持协作。\n使用提示：建议从Overleaf入手，先使用模板修改，逐步学习语法；推荐学习资源：Overleaf官方文档（https://www.overleaf.com/learn）、《一份不太简短的LaTeX2e介绍》；如果导师使用Word，可将LaTeX生成的PDF供导师批注，或使用Pandoc工具转换为Word格式。\n本地学习资源包：安装包内已附带一套完整的LaTeX学习资料，按编号00～11的目录清单（安装文件、入门电子书、讲义、数学公式、表格、插图、参考文献、beamer、TikZ、辅助工具、视频教程、标准规范）整理，可按需查阅。",
+      "characterCount": 515,
+      "readingMinutes": 2
+    },
+    {
+      "title": "3.2 OnlineLaTeX",
+      "groupId": "chapter1",
+      "topic": "3 写作排版工具",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "3.2 OnlineLaTeX",
+          "level": 2
+        },
+        {
+          "type": "paragraph",
+          "text": "中文在线 LaTeX 网站，支持多人协作，相较英文界面更加友好。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://onlinelatex.com/login",
+          "runs": [
+            {
+              "text": "访问网址：",
+              "bold": true
+            },
+            {
+              "text": "https://onlinelatex.com/login"
+            }
+          ],
+          "links": [
+            {
+              "label": "https://onlinelatex.com/login",
+              "url": "https://onlinelatex.com/login"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/guide/part05/static/image34.jpg",
+          "width": 1700,
+          "height": 959,
+          "alt": "指南原文配图 34"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：可自行注册一个 139 邮箱使用，OnlineLaTeX 文档中心和模板中有使用教程及常见模板可供选择。"
+        }
+      ],
+      "id": "section-016",
+      "route": "/guide-packs/part05/read?id=section-016",
+      "searchText": "3.2 OnlineLaTeX\n中文在线 LaTeX 网站，支持多人协作，相较英文界面更加友好。\n访问网址：https://onlinelatex.com/login\n\n使用提示：可自行注册一个 139 邮箱使用，OnlineLaTeX 文档中心和模板中有使用教程及常见模板可供选择。",
+      "characterCount": 132,
+      "readingMinutes": 1
+    },
+    {
+      "title": "3.3 Microsoft Word",
+      "groupId": "chapter1",
+      "topic": "3 写作排版工具",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "3.3 Microsoft Word",
+          "level": 2
+        },
+        {
+          "type": "paragraph",
+          "text": "硕博论文写作的主要工具，建议不要使用 WPS 编写。注意：数学公式请用内置公式编辑器或 MathType 等工具编写。"
+        }
+      ],
+      "id": "section-017",
+      "route": "/guide-packs/part05/read?id=section-017",
+      "searchText": "3.3 Microsoft Word\n硕博论文写作的主要工具，建议不要使用 WPS 编写。注意：数学公式请用内置公式编辑器或 MathType 等工具编写。",
+      "characterCount": 71,
+      "readingMinutes": 1
+    },
+    {
+      "title": "4.1 版本控制工具：Git 与 GitHub",
+      "groupId": "chapter1",
+      "topic": "4 其他实用工具",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "4 其他实用工具",
+          "level": 1
+        },
+        {
+          "type": "heading",
+          "text": "4.1 版本控制工具：Git 与 GitHub",
+          "level": 2
+        },
+        {
+          "type": "paragraph",
+          "text": "Git是分布式版本控制系统，GitHub是基于Git的代码托管平台。对于涉及编程的研究，版本控制是管理代码、确保可复现性的必备工具。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：Git（https://git-scm.com/）、GitHub（https://github.com/）",
+          "links": [
+            {
+              "label": "https://git-scm.com/",
+              "url": "https://git-scm.com/"
+            },
+            {
+              "label": "https://github.com/",
+              "url": "https://github.com/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "适用场景：科研代码版本管理；代码备份与分享；参与开源科研项目；课题组代码协作。"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：每次提交应写清晰的提交信息（commit message），说明本次修改的内容和原因；不要将大型数据文件（>100 MB）直接提交到 Git 仓库，可使用 Git LFS 或单独管理。"
+        }
+      ],
+      "id": "section-018",
+      "route": "/guide-packs/part05/read?id=section-018",
+      "searchText": "4 其他实用工具\n4.1 版本控制工具：Git 与 GitHub\nGit是分布式版本控制系统，GitHub是基于Git的代码托管平台。对于涉及编程的研究，版本控制是管理代码、确保可复现性的必备工具。\n访问网址：Git（https://git-scm.com/）、GitHub（https://github.com/）\n适用场景：科研代码版本管理；代码备份与分享；参与开源科研项目；课题组代码协作。\n使用提示：每次提交应写清晰的提交信息（commit message），说明本次修改的内容和原因；不要将大型数据文件（>100 MB）直接提交到 Git 仓库，可使用 Git LFS 或单独管理。",
+      "characterCount": 280,
+      "readingMinutes": 1
+    },
+    {
+      "title": "4.2 笔记管理工具",
+      "groupId": "chapter1",
+      "topic": "4 其他实用工具",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "4.2 笔记管理工具",
+          "level": 2
+        },
+        {
+          "type": "heading",
+          "text": "4.2.1 Obsidian",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "基于本地Markdown文件的笔记管理工具，支持双向链接和知识图谱，适合构建个人科研知识库。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://obsidian.md/",
+          "links": [
+            {
+              "label": "https://obsidian.md/",
+              "url": "https://obsidian.md/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "适用场景：构建个人科研知识库；文献笔记管理；研究思路梳理。"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：Obsidian基于本地文件，数据完全自主可控；推荐建立文献笔记、概念笔记、项目笔记的分类体系；与Zotero可通过插件实现联动。"
+        },
+        {
+          "type": "heading",
+          "text": "4.2.2 Notion",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "综合性笔记与项目管理工具，支持数据库、看板、日历等多种视图。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://www.notion.so/",
+          "links": [
+            {
+              "label": "https://www.notion.so/",
+              "url": "https://www.notion.so/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "适用场景：团队协作和项目管理；任务进度追踪。"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：可作为Obsidian的补充，用于团队协作场景；免费版有工作空间大小限制。"
+        }
+      ],
+      "id": "section-019",
+      "route": "/guide-packs/part05/read?id=section-019",
+      "searchText": "4.2 笔记管理工具\n4.2.1 Obsidian\n基于本地Markdown文件的笔记管理工具，支持双向链接和知识图谱，适合构建个人科研知识库。\n访问网址：https://obsidian.md/\n适用场景：构建个人科研知识库；文献笔记管理；研究思路梳理。\n使用提示：Obsidian基于本地文件，数据完全自主可控；推荐建立文献笔记、概念笔记、项目笔记的分类体系；与Zotero可通过插件实现联动。\n4.2.2 Notion\n综合性笔记与项目管理工具，支持数据库、看板、日历等多种视图。\n访问网址：https://www.notion.so/\n适用场景：团队协作和项目管理；任务进度追踪。\n使用提示：可作为Obsidian的补充，用于团队协作场景；免费版有工作空间大小限制。",
+      "characterCount": 324,
+      "readingMinutes": 1
+    },
+    {
+      "title": "4.3 科研社区",
+      "groupId": "chapter1",
+      "topic": "4 其他实用工具",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "4.3 科研社区",
+          "level": 2
+        },
+        {
+          "type": "heading",
+          "text": "4.3.1 知乎",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "中文互联网高质量的问答社区和原创内容平台，涵盖大量科研经验分享、工具推荐、学术讨论等内容。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://www.zhihu.com/",
+          "links": [
+            {
+              "label": "https://www.zhihu.com/",
+              "url": "https://www.zhihu.com/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "适用场景：关注科研相关话题（如“科研”“论文写作”“MATLAB”等）；搜索科研工具使用经验和方法论；获取科研经验和工具推荐；了解学术生态；解决科研中的常见问题。"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：知乎内容质量参差不齐，需甄别；关注高赞回答和认证用户；对于专业学术问题，仍以正式文献为准。"
+        },
+        {
+          "type": "heading",
+          "text": "4.3.2 小木虫",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "学术科研互动平台，会员主要来自国内各大院校、科研院所的博硕士研究生，是国内最活跃的学术社区之一。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://muchong.com/bbs/",
+          "links": [
+            {
+              "label": "https://muchong.com/bbs/",
+              "url": "https://muchong.com/bbs/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "适用场景：文献求助；论文投稿经验交流；基金申请咨询；考研考博信息获取。"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：小木虫在理工科领域用户活跃度高；文献求助板块是获取付费文献的重要渠道；发帖前先搜索是否已有类似问题的解答。"
+        },
+        {
+          "type": "heading",
+          "text": "4.3.3 GitHub",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "全球最大的代码托管平台和开发者社区，也是科研人员分享开源代码、参与科研项目协作的重要平台。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://github.com/",
+          "links": [
+            {
+              "label": "https://github.com/",
+              "url": "https://github.com/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "适用场景：寻找开源科研代码；分享自己的科研代码；参与开源项目协作。"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：GitHub 上有大量高质量科研代码，搜索关键词即可发现；使用前注意阅读 License 协议；为自己的科研代码创建仓库并编写清晰的 README。"
+        },
+        {
+          "type": "heading",
+          "text": "4.3.4 ResearchGate",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "全球最大的学术社交网站之一，可访问1.6亿+出版物，连接2500万+研究人员，是建立学术档案和获取文献的重要平台。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://www.researchgate.net/",
+          "links": [
+            {
+              "label": "https://www.researchgate.net/",
+              "url": "https://www.researchgate.net/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "适用场景：建立学术档案；向作者直接请求论文全文；追踪领域内研究者的最新工作。"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：ResearchGate是获取付费文献的重要补充渠道，许多作者会在上面分享论文预印本；完善个人档案有助于学术交流和影响力提升。"
+        },
+        {
+          "type": "heading",
+          "text": "4.3.5 中国科学网",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "由中科院、工程院和基金委主管的综合性科学网站，目标建成最具影响力的全球华人科学社区。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://www.sciencenet.cn/",
+          "links": [
+            {
+              "label": "https://www.sciencenet.cn/",
+              "url": "https://www.sciencenet.cn/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "适用场景：了解国内科研动态和政策；阅读科学家博客和观点；获取科研资讯。"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：科学网的博客栏目有许多资深科学家的科研心得和经验分享，值得关注。"
+        }
+      ],
+      "id": "section-020",
+      "route": "/guide-packs/part05/read?id=section-020",
+      "searchText": "4.3 科研社区\n4.3.1 知乎\n中文互联网高质量的问答社区和原创内容平台，涵盖大量科研经验分享、工具推荐、学术讨论等内容。\n访问网址：https://www.zhihu.com/\n适用场景：关注科研相关话题（如“科研”“论文写作”“MATLAB”等）；搜索科研工具使用经验和方法论；获取科研经验和工具推荐；了解学术生态；解决科研中的常见问题。\n使用提示：知乎内容质量参差不齐，需甄别；关注高赞回答和认证用户；对于专业学术问题，仍以正式文献为准。\n4.3.2 小木虫\n学术科研互动平台，会员主要来自国内各大院校、科研院所的博硕士研究生，是国内最活跃的学术社区之一。\n访问网址：https://muchong.com/bbs/\n适用场景：文献求助；论文投稿经验交流；基金申请咨询；考研考博信息获取。\n使用提示：小木虫在理工科领域用户活跃度高；文献求助板块是获取付费文献的重要渠道；发帖前先搜索是否已有类似问题的解答。\n4.3.3 GitHub\n全球最大的代码托管平台和开发者社区，也是科研人员分享开源代码、参与科研项目协作的重要平台。\n访问网址：https://github.com/\n适用场景：寻找开源科研代码；分享自己的科研代码；参与开源项目协作。\n使用提示：GitHub 上有大量高质量科研代码，搜索关键词即可发现；使用前注意阅读 License 协议；为自己的科研代码创建仓库并编写清晰的 README。\n4.3.4 ResearchGate\n全球最大的学术社交网站之一，可访问1.6亿+出版物，连接2500万+研究人员，是建立学术档案和获取文献的重要平台。\n访问网址：https://www.researchgate.net/\n适用场景：建立学术档案；向作者直接请求论文全文；追踪领域内研究者的最新工作。\n使用提示：ResearchGate是获取付费文献的重要补充渠道，许多作者会在上面分享论文预印本；完善个人档案有助于学术交流和影响力提升。\n4.3.5 中国科学网\n由中科院、工程院和基金委主管的综合性科学网站，目标建成最具影响力的全球华人科学社区。\n访问网址：https://www.sciencenet.cn/\n适用场景：了解国内科研动态和政策；阅读科学家博客和观点；获取科研资讯。\n使用提示：科学网的博客栏目有许多资深科学家的科研心得和经验分享，值得关注。",
+      "characterCount": 952,
+      "readingMinutes": 3
+    },
+    {
+      "title": "4.4 AI辅助工具",
+      "groupId": "chapter1",
+      "topic": "4 其他实用工具",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "4.4 AI辅助工具",
+          "level": 2
+        },
+        {
+          "type": "paragraph",
+          "text": "AI 可用于辅助理解复杂概念、调试代码错误、润色语言表达等。以下介绍几款常用 AI，大家可自行选择（注意：部分国外 AI 需 VPN 访问）。"
+        },
+        {
+          "type": "heading",
+          "text": "4.4.1 ChatGPT",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "OpenAI开发的大语言模型，在科研中可辅助文献阅读、代码调试、论文润色、概念解释等工作，是目前能力最全面的AI助手之一。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://chatgpt.com/",
+          "links": [
+            {
+              "label": "https://chatgpt.com/",
+              "url": "https://chatgpt.com/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "适用场景：辅助理解复杂文献；代码调试；论文润色；概念学习。"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：免费版使用 GPT-3.5/4o-mini，付费版（ChatGPT Plus）使用 GPT-4，能力更强；国内访问需 VPN；切勿将未发表的科研数据输入公开版本。"
+        },
+        {
+          "type": "heading",
+          "text": "4.4.2 WorkBuddy",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "集成了 AI 对话、文档创作、数据分析、代码开发等功能的综合性 AI 工作平台，支持多模型切换和插件扩展。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://www.workbuddy.cn/",
+          "links": [
+            {
+              "label": "https://www.workbuddy.cn/",
+              "url": "https://www.workbuddy.cn/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "适用场景：科研文档创作；数据分析与报告生成；代码辅助开发。"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：WorkBuddy集成了多种能力，适合需要多种工具协同的科研场景；支持中文交互，对国内用户友好。"
+        },
+        {
+          "type": "heading",
+          "text": "4.4.3 DeepSeek（深度求索）",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "国内领先的 AI 大模型平台，提供免费的高性能大语言模型服务，在代码生成、数学推理、逻辑分析等方面表现突出。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://www.deepseek.com/",
+          "links": [
+            {
+              "label": "https://www.deepseek.com/",
+              "url": "https://www.deepseek.com/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "适用场景：代码辅助；数学推导辅助；论文润色；概念解释。"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：DeepSeek国内可直接访问，无需VPN；在代码和数学推理方面表现优秀；免费使用。"
+        },
+        {
+          "type": "heading",
+          "text": "4.4.4 豆包",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "字节跳动推出的AI助手，支持文本对话、文档阅读、翻译等功能，国内可直接访问。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://www.doubao.com/",
+          "links": [
+            {
+              "label": "https://www.doubao.com/",
+              "url": "https://www.doubao.com/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "适用场景：日常科研问答；文档快速阅读与摘要；翻译辅助。"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：国内可直接访问，使用便捷；适合日常快速问答和文档阅读辅助。"
+        },
+        {
+          "type": "heading",
+          "text": "4.4.5 Kimi",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "月之暗面推出的AI助手，以超长文本处理能力著称，支持上传多个文件进行联合分析，适合处理长文献和长报告。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://kimi.moonshot.cn/",
+          "links": [
+            {
+              "label": "https://kimi.moonshot.cn/",
+              "url": "https://kimi.moonshot.cn/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "适用场景：长文献快速阅读与摘要；多文档联合分析；研究报告生成。"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：Kimi的超长文本处理能力是其核心优势，适合阅读长篇文献；可同时上传多个PDF文件进行对比分析；国内可直接访问。"
+        }
+      ],
+      "id": "section-021",
+      "route": "/guide-packs/part05/read?id=section-021",
+      "searchText": "4.4 AI辅助工具\nAI 可用于辅助理解复杂概念、调试代码错误、润色语言表达等。以下介绍几款常用 AI，大家可自行选择（注意：部分国外 AI 需 VPN 访问）。\n4.4.1 ChatGPT\nOpenAI开发的大语言模型，在科研中可辅助文献阅读、代码调试、论文润色、概念解释等工作，是目前能力最全面的AI助手之一。\n访问网址：https://chatgpt.com/\n适用场景：辅助理解复杂文献；代码调试；论文润色；概念学习。\n使用提示：免费版使用 GPT-3.5/4o-mini，付费版（ChatGPT Plus）使用 GPT-4，能力更强；国内访问需 VPN；切勿将未发表的科研数据输入公开版本。\n4.4.2 WorkBuddy\n集成了 AI 对话、文档创作、数据分析、代码开发等功能的综合性 AI 工作平台，支持多模型切换和插件扩展。\n访问网址：https://www.workbuddy.cn/\n适用场景：科研文档创作；数据分析与报告生成；代码辅助开发。\n使用提示：WorkBuddy集成了多种能力，适合需要多种工具协同的科研场景；支持中文交互，对国内用户友好。\n4.4.3 DeepSeek（深度求索）\n国内领先的 AI 大模型平台，提供免费的高性能大语言模型服务，在代码生成、数学推理、逻辑分析等方面表现突出。\n访问网址：https://www.deepseek.com/\n适用场景：代码辅助；数学推导辅助；论文润色；概念解释。\n使用提示：DeepSeek国内可直接访问，无需VPN；在代码和数学推理方面表现优秀；免费使用。\n4.4.4 豆包\n字节跳动推出的AI助手，支持文本对话、文档阅读、翻译等功能，国内可直接访问。\n访问网址：https://www.doubao.com/\n适用场景：日常科研问答；文档快速阅读与摘要；翻译辅助。\n使用提示：国内可直接访问，使用便捷；适合日常快速问答和文档阅读辅助。\n4.4.5 Kimi\n月之暗面推出的AI助手，以超长文本处理能力著称，支持上传多个文件进行联合分析，适合处理长文献和长报告。\n访问网址：https://kimi.moonshot.cn/\n适用场景：长文献快速阅读与摘要；多文档联合分析；研究报告生成。\n使用提示：Kimi的超长文本处理能力是其核心优势，适合阅读长篇文献；可同时上传多个PDF文件进行对比分析；国内可直接访问。",
+      "characterCount": 949,
+      "readingMinutes": 3
+    },
+    {
+      "title": "4.5 翻译工具",
+      "groupId": "chapter1",
+      "topic": "4 其他实用工具",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "4.5 翻译工具",
+          "level": 2
+        },
+        {
+          "type": "heading",
+          "text": "4.5.1 百度翻译",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "百度推出的在线翻译服务，支持中英互译及多种语言翻译，提供文档翻译功能，是国内使用最广泛的翻译工具之一。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://fanyi.baidu.com/",
+          "links": [
+            {
+              "label": "https://fanyi.baidu.com/",
+              "url": "https://fanyi.baidu.com/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "适用场景：日常文本翻译；文档批量翻译；中英文献互译。"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：百度翻译对中英互译的效果较好；文档翻译可保留原文格式；专业术语翻译需人工校对。"
+        },
+        {
+          "type": "heading",
+          "text": "4.5.2 谷歌翻译（Google Translate）",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "Google推出的在线翻译服务，支持100+语种互译，翻译质量在多语种场景下表现优秀。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://translate.google.com/",
+          "links": [
+            {
+              "label": "https://translate.google.com/",
+              "url": "https://translate.google.com/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "适用场景：多语种文献翻译；英文文献阅读辅助。"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：国内访问需VPN；谷歌翻译在英译中方面质量较高，但专业术语仍需人工校对。"
+        },
+        {
+          "type": "heading",
+          "text": "4.5.3 有道词典",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "网易推出的词典与翻译工具，提供单词查询、句子翻译、文档翻译等功能，适合科研阅读中的即时查词。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://dict.youdao.com/",
+          "links": [
+            {
+              "label": "https://dict.youdao.com/",
+              "url": "https://dict.youdao.com/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "适用场景：阅读英文文献时即时查词；专业术语查询；句子翻译。"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：有道词典桌面客户端的屏幕取词功能在阅读PDF文献时非常实用；专业词典模式可提供更准确的学术术语翻译。"
+        },
+        {
+          "type": "heading",
+          "text": "4.5.4 DeepL",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "基于深度学习的翻译工具，在学术文本翻译质量方面被广泛认为是目前最优秀的机器翻译工具之一，尤其擅长保持原文的语意和语序。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://www.deepl.com/",
+          "links": [
+            {
+              "label": "https://www.deepl.com/",
+              "url": "https://www.deepl.com/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "适用场景：学术论文翻译；长文本翻译；专业文献翻译。"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：DeepL 在学术文本翻译质量上明显优于其他翻译工具；免费版有字符限制，付费版（DeepL Pro）支持无限翻译和文档翻译；建议作为科研翻译的首选工具。"
+        }
+      ],
+      "id": "section-022",
+      "route": "/guide-packs/part05/read?id=section-022",
+      "searchText": "4.5 翻译工具\n4.5.1 百度翻译\n百度推出的在线翻译服务，支持中英互译及多种语言翻译，提供文档翻译功能，是国内使用最广泛的翻译工具之一。\n访问网址：https://fanyi.baidu.com/\n适用场景：日常文本翻译；文档批量翻译；中英文献互译。\n使用提示：百度翻译对中英互译的效果较好；文档翻译可保留原文格式；专业术语翻译需人工校对。\n4.5.2 谷歌翻译（Google Translate）\nGoogle推出的在线翻译服务，支持100+语种互译，翻译质量在多语种场景下表现优秀。\n访问网址：https://translate.google.com/\n适用场景：多语种文献翻译；英文文献阅读辅助。\n使用提示：国内访问需VPN；谷歌翻译在英译中方面质量较高，但专业术语仍需人工校对。\n4.5.3 有道词典\n网易推出的词典与翻译工具，提供单词查询、句子翻译、文档翻译等功能，适合科研阅读中的即时查词。\n访问网址：https://dict.youdao.com/\n适用场景：阅读英文文献时即时查词；专业术语查询；句子翻译。\n使用提示：有道词典桌面客户端的屏幕取词功能在阅读PDF文献时非常实用；专业词典模式可提供更准确的学术术语翻译。\n4.5.4 DeepL\n基于深度学习的翻译工具，在学术文本翻译质量方面被广泛认为是目前最优秀的机器翻译工具之一，尤其擅长保持原文的语意和语序。\n访问网址：https://www.deepl.com/\n适用场景：学术论文翻译；长文本翻译；专业文献翻译。\n使用提示：DeepL 在学术文本翻译质量上明显优于其他翻译工具；免费版有字符限制，付费版（DeepL Pro）支持无限翻译和文档翻译；建议作为科研翻译的首选工具。",
+      "characterCount": 700,
+      "readingMinutes": 2
+    },
+    {
+      "title": "4.6 基金项目查询工具",
+      "groupId": "chapter1",
+      "topic": "4 其他实用工具",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "4.6 基金项目查询工具",
+          "level": 2
+        },
+        {
+          "type": "heading",
+          "text": "4.6.1 国家自然科学基金查询系统",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "国家自然科学基金项目查询系统，收录 1986 年至今已获批的国家自然科学基金项目，可查询项目名称、负责人、金额、摘要等信息。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：http://fund.keyanzhiku.com/Index/index.html（科研Z库）",
+          "links": [
+            {
+              "label": "http://fund.keyanzhiku.com/Index/index.html",
+              "url": "http://fund.keyanzhiku.com/Index/index.html"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "适用场景：了解领域内基金资助方向；查找潜在合作者的研究项目；撰写基金申请书前调研。"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：通过查询已获批项目可以了解领域内的研究热点和资助方向，对撰写基金申请和选择研究方向有重要参考价值。"
+        },
+        {
+          "type": "heading",
+          "text": "4.6.2 国家自然科学基金委员会",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "国家自然科学基金委员会官方网站，发布基金申请指南、政策法规、资助项目公告等权威信息。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://www.nsfc.gov.cn/",
+          "links": [
+            {
+              "label": "https://www.nsfc.gov.cn/",
+              "url": "https://www.nsfc.gov.cn/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "适用场景：了解基金申请流程和要求；查询学科代码；获取最新政策信息。"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：关注官网的申请指南更新，了解最新资助方向和政策变化。"
+        },
+        {
+          "type": "heading",
+          "text": "4.6.3 NSF（美国国家科学基金会）",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "美国国家科学基金会官方网站，可通过 NSF Award Search 查询美国资助的科研项目，了解国际前沿研究方向。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://www.nsf.gov/",
+          "links": [
+            {
+              "label": "https://www.nsf.gov/",
+              "url": "https://www.nsf.gov/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "适用场景：了解美国和国际前沿研究方向；查找国际合作机会。"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：NSF项目数据库公开可查，是了解国际研究趋势的重要渠道。"
+        }
+      ],
+      "id": "section-023",
+      "route": "/guide-packs/part05/read?id=section-023",
+      "searchText": "4.6 基金项目查询工具\n4.6.1 国家自然科学基金查询系统\n国家自然科学基金项目查询系统，收录 1986 年至今已获批的国家自然科学基金项目，可查询项目名称、负责人、金额、摘要等信息。\n访问网址：http://fund.keyanzhiku.com/Index/index.html（科研Z库）\n适用场景：了解领域内基金资助方向；查找潜在合作者的研究项目；撰写基金申请书前调研。\n使用提示：通过查询已获批项目可以了解领域内的研究热点和资助方向，对撰写基金申请和选择研究方向有重要参考价值。\n4.6.2 国家自然科学基金委员会\n国家自然科学基金委员会官方网站，发布基金申请指南、政策法规、资助项目公告等权威信息。\n访问网址：https://www.nsfc.gov.cn/\n适用场景：了解基金申请流程和要求；查询学科代码；获取最新政策信息。\n使用提示：关注官网的申请指南更新，了解最新资助方向和政策变化。\n4.6.3 NSF（美国国家科学基金会）\n美国国家科学基金会官方网站，可通过 NSF Award Search 查询美国资助的科研项目，了解国际前沿研究方向。\n访问网址：https://www.nsf.gov/\n适用场景：了解美国和国际前沿研究方向；查找国际合作机会。\n使用提示：NSF项目数据库公开可查，是了解国际研究趋势的重要渠道。",
+      "characterCount": 547,
+      "readingMinutes": 2
+    },
+    {
+      "title": "4.7 在线学习平台",
+      "groupId": "chapter1",
+      "topic": "4 其他实用工具",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "4.7 在线学习平台",
+          "level": 2
+        },
+        {
+          "type": "heading",
+          "text": "4.7.1 中国大学MOOC（慕课）",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "国内优质中文MOOC学习平台，拥有985高校提供的千余门课程，涵盖数学、物理、工程、计算机等学科。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://www.icourse163.org/",
+          "links": [
+            {
+              "label": "https://www.icourse163.org/",
+              "url": "https://www.icourse163.org/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "适用场景：补充基础知识；学习新技能；预习或复习课程内容。"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：推荐搜索与研究方向相关的课程进行系统学习；课程免费学习，证书认证可能需要付费。"
+        },
+        {
+          "type": "heading",
+          "text": "4.7.2 学堂在线",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "清华大学发起的慕课平台，运行来自国内外高校超过2300门课程，在理工科课程方面资源丰富。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://www.xuetangx.com/",
+          "links": [
+            {
+              "label": "https://www.xuetangx.com/",
+              "url": "https://www.xuetangx.com/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "适用场景：学习国内外高校优质课程；补充专业基础知识。"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：学堂在线在理工科课程方面资源丰富，尤其清华大学的课程质量较高。"
+        },
+        {
+          "type": "heading",
+          "text": "4.7.3 edX",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "麻省理工和哈佛共办的MOOC平台，提供从免费课程到完整学位的选择，涵盖科学、工程、数学等领域。"
+        },
+        {
+          "type": "paragraph",
+          "text": "访问网址：https://www.edx.org/",
+          "links": [
+            {
+              "label": "https://www.edx.org/",
+              "url": "https://www.edx.org/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "适用场景：学习国际顶尖大学课程；获取国际认证证书；提升专业英语能力。"
+        },
+        {
+          "type": "paragraph",
+          "text": "使用提示：edX的Audit模式可以免费学习课程内容（不含证书）；推荐关注MIT的数学、物理和电气工程课程。"
+        }
+      ],
+      "id": "section-024",
+      "route": "/guide-packs/part05/read?id=section-024",
+      "searchText": "4.7 在线学习平台\n4.7.1 中国大学MOOC（慕课）\n国内优质中文MOOC学习平台，拥有985高校提供的千余门课程，涵盖数学、物理、工程、计算机等学科。\n访问网址：https://www.icourse163.org/\n适用场景：补充基础知识；学习新技能；预习或复习课程内容。\n使用提示：推荐搜索与研究方向相关的课程进行系统学习；课程免费学习，证书认证可能需要付费。\n4.7.2 学堂在线\n清华大学发起的慕课平台，运行来自国内外高校超过2300门课程，在理工科课程方面资源丰富。\n访问网址：https://www.xuetangx.com/\n适用场景：学习国内外高校优质课程；补充专业基础知识。\n使用提示：学堂在线在理工科课程方面资源丰富，尤其清华大学的课程质量较高。\n4.7.3 edX\n麻省理工和哈佛共办的MOOC平台，提供从免费课程到完整学位的选择，涵盖科学、工程、数学等领域。\n访问网址：https://www.edx.org/\n适用场景：学习国际顶尖大学课程；获取国际认证证书；提升专业英语能力。\n使用提示：edX的Audit模式可以免费学习课程内容（不含证书）；推荐关注MIT的数学、物理和电气工程课程。",
+      "characterCount": 492,
+      "readingMinutes": 2
+    },
+    {
+      "title": "4.8 电脑常用工具软件",
+      "groupId": "chapter1",
+      "topic": "4 其他实用工具",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "4.8 电脑常用工具软件",
+          "level": 2
+        },
+        {
+          "type": "paragraph",
+          "text": "下面这些软件覆盖卸载、压缩解压、全盘搜索、看图、播放、截图、磁盘清理等日常高频需求，全部免费，无广告、无捆绑、不占资源，对新手友好，适配各版本 Windows，装好后基本不用再折腾。具体安装包见附录 C.5。"
+        },
+        {
+          "type": "heading",
+          "text": "4.8.1 卸载工具 Geek Uninstaller",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "Windows 自带的卸载程序和多数管家的卸载功能只能删掉软件主体，注册表、缓存、安装日志会残留在系统里，日积月累导致磁盘占用上涨、系统变卡、软件冲突。Geek Uninstaller 就是专门解决这个问题的，界面极简、功能专一，是装机时很实用的卸载工具。"
+        },
+        {
+          "type": "paragraph",
+          "text": "适用场景：日常卸载软件、清理顽固残留、修复因残留导致的安装故障。新手、办公族、学生都适用。"
+        },
+        {
+          "type": "heading",
+          "text": "4.8.2 压缩解压 Bandizip",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "Bandizip 同时支持 Windows 和 macOS，跨系统使用体验一致，适合多设备办公的用户。支持的压缩格式超过 30 种，ZIP、7Z、RAR、TAR、ISO、GZ 等常用格式自不必说，ALZ、EGG 这类小众格式也能处理，基本不会遇到打不开压缩包的情况。安装包小、运行时内存占用低，老电脑也能流畅运行。日常解压、批量打包都能快速响应，兼顾兼容性和轻量，是装机的实用选择。"
+        },
+        {
+          "type": "paragraph",
+          "text": "适用场景：解压/打包文件、加密压缩、批量处理。"
+        },
+        {
+          "type": "heading",
+          "text": "4.8.3 文件搜索 Everything",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "Windows 自带搜索速度慢，文件多、目录层级深时尤其明显。Everything 通过建立索引实现毫秒级全盘搜索，是提高找文件效率的常用工具。"
+        },
+        {
+          "type": "paragraph",
+          "text": "适用场景：忘记文件保存位置、快速找文档/图片/安装包、批量整理文件。"
+        },
+        {
+          "type": "heading",
+          "text": "4.8.4 视频播放 PotPlayer",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "系统自带播放器解码不全、格式受限，主流播放器又往往带广告和会员。PotPlayer 是纯本地播放器，口碑一直不错。"
+        },
+        {
+          "type": "paragraph",
+          "text": "适用场景：本地视频播放、网课倍速观看、高清影视播放、音频聆听。"
+        },
+        {
+          "type": "heading",
+          "text": "4.8.5 图片查看 Honeyview",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "系统自带照片应用打开慢、格式支持少、不好批量操作。Honeyview 主打轻量、快速，适合日常看图。"
+        },
+        {
+          "type": "paragraph",
+          "text": "适用场景：日常图片浏览、手机照片查看、RAW 原片预览、批量处理图片格式。"
+        },
+        {
+          "type": "heading",
+          "text": "4.8.6 截图工具 Snipaste",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "系统自带截图功能单一，不能精准标注，也不能置顶预览。Snipaste 是轻量的专业截图工具，办公场景很实用。"
+        },
+        {
+          "type": "paragraph",
+          "text": "适用场景：办公截图批注、网课截图记录、教程制作、日常素材截图。"
+        },
+        {
+          "type": "heading",
+          "text": "4.8.7 磁盘清理 WizTree",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "电脑变卡、磁盘爆红，通常是大文件和冗余缓存占着空间。普通清理工具扫描慢、清理不彻底，WizTree 的特点是扫描快、占用看得清。"
+        },
+        {
+          "type": "paragraph",
+          "text": "适用场景：磁盘空间不足、清理冗余文件、优化存储、排查空间占用大户。"
+        }
+      ],
+      "id": "section-025",
+      "route": "/guide-packs/part05/read?id=section-025",
+      "searchText": "4.8 电脑常用工具软件\n下面这些软件覆盖卸载、压缩解压、全盘搜索、看图、播放、截图、磁盘清理等日常高频需求，全部免费，无广告、无捆绑、不占资源，对新手友好，适配各版本 Windows，装好后基本不用再折腾。具体安装包见附录 C.5。\n4.8.1 卸载工具 Geek Uninstaller\nWindows 自带的卸载程序和多数管家的卸载功能只能删掉软件主体，注册表、缓存、安装日志会残留在系统里，日积月累导致磁盘占用上涨、系统变卡、软件冲突。Geek Uninstaller 就是专门解决这个问题的，界面极简、功能专一，是装机时很实用的卸载工具。\n适用场景：日常卸载软件、清理顽固残留、修复因残留导致的安装故障。新手、办公族、学生都适用。\n4.8.2 压缩解压 Bandizip\nBandizip 同时支持 Windows 和 macOS，跨系统使用体验一致，适合多设备办公的用户。支持的压缩格式超过 30 种，ZIP、7Z、RAR、TAR、ISO、GZ 等常用格式自不必说，ALZ、EGG 这类小众格式也能处理，基本不会遇到打不开压缩包的情况。安装包小、运行时内存占用低，老电脑也能流畅运行。日常解压、批量打包都能快速响应，兼顾兼容性和轻量，是装机的实用选择。\n适用场景：解压/打包文件、加密压缩、批量处理。\n4.8.3 文件搜索 Everything\nWindows 自带搜索速度慢，文件多、目录层级深时尤其明显。Everything 通过建立索引实现毫秒级全盘搜索，是提高找文件效率的常用工具。\n适用场景：忘记文件保存位置、快速找文档/图片/安装包、批量整理文件。\n4.8.4 视频播放 PotPlayer\n系统自带播放器解码不全、格式受限，主流播放器又往往带广告和会员。PotPlayer 是纯本地播放器，口碑一直不错。\n适用场景：本地视频播放、网课倍速观看、高清影视播放、音频聆听。\n4.8.5 图片查看 Honeyview\n系统自带照片应用打开慢、格式支持少、不好批量操作。Honeyview 主打轻量、快速，适合日常看图。\n适用场景：日常图片浏览、手机照片查看、RAW 原片预览、批量处理图片格式。\n4.8.6 截图工具 Snipaste\n系统自带截图功能单一，不能精准标注，也不能置顶预览。Snipaste 是轻量的专业截图工具，办公场景很实用。\n适用场景：办公截图批注、网课截图记录、教程制作、日常素材截图。\n4.8.7 磁盘清理 WizTree\n电脑变卡、磁盘爆红，通常是大文件和冗余缓存占着空间。普通清理工具扫描慢、清理不彻底，WizTree 的特点是扫描快、占用看得清。\n适用场景：磁盘空间不足、清理冗余文件、优化存储、排查空间占用大户。",
+      "characterCount": 1074,
+      "readingMinutes": 3
+    },
+    {
+      "title": "第二章 文献查找与阅读规范",
+      "groupId": "chapter2",
+      "topic": "第二章 文献查找与阅读规范",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "第二章 文献查找与阅读规范",
+          "level": 0
+        },
+        {
+          "type": "paragraph",
+          "text": "文献是科研的基石。高效的文献查找能力是研究生最重要的基本功之一，而规范的阅读方法则决定了文献阅读的深度和效率。本章将系统阐述文献检索策略、获取渠道、阅读方法、笔记整理和文献综述写作的完整规范，并涵盖专利检索、期刊评价和基金项目查询的方法。"
+        }
+      ],
+      "id": "section-026",
+      "route": "/guide-packs/part05/read?id=section-026",
+      "searchText": "第二章 文献查找与阅读规范\n文献是科研的基石。高效的文献查找能力是研究生最重要的基本功之一，而规范的阅读方法则决定了文献阅读的深度和效率。本章将系统阐述文献检索策略、获取渠道、阅读方法、笔记整理和文献综述写作的完整规范，并涵盖专利检索、期刊评价和基金项目查询的方法。",
+      "characterCount": 131,
+      "readingMinutes": 1
+    },
+    {
+      "title": "1.1 检索前的准备",
+      "groupId": "chapter2",
+      "topic": "1 文献检索",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "1 文献检索",
+          "level": 1
+        },
+        {
+          "type": "heading",
+          "text": "1.1 检索前的准备",
+          "level": 2
+        },
+        {
+          "type": "paragraph",
+          "text": "在开始检索之前，需要明确以下问题："
+        },
+        {
+          "type": "paragraph",
+          "text": "研究问题的明确化：用一句话概括你想研究的核心问题；如果暂时无法精确表述，先写下几个关键词和初步的研究方向描述。"
+        },
+        {
+          "type": "paragraph",
+          "text": "关键词的提取与扩展：从研究问题中提取核心关键词，并扩展同义词、近义词、上位概念和下位概念。例如，“混沌控制”可扩展为 chaos control、chaos synchronization、chaos suppression、feedback control of chaos、OGY method 等。"
+        },
+        {
+          "type": "paragraph",
+          "text": "中英文关键词对照：确保同时准备中文和英文关键词，因为不同数据库的收录语言不同。"
+        },
+        {
+          "type": "paragraph",
+          "text": "检索范围的界定：确定检索的时间范围、文献类型（期刊/会议/综述/学位论文/专利）和学科范围。"
+        }
+      ],
+      "id": "section-027",
+      "route": "/guide-packs/part05/read?id=section-027",
+      "searchText": "1 文献检索\n1.1 检索前的准备\n在开始检索之前，需要明确以下问题：\n研究问题的明确化：用一句话概括你想研究的核心问题；如果暂时无法精确表述，先写下几个关键词和初步的研究方向描述。\n关键词的提取与扩展：从研究问题中提取核心关键词，并扩展同义词、近义词、上位概念和下位概念。例如，“混沌控制”可扩展为 chaos control、chaos synchronization、chaos suppression、feedback control of chaos、OGY method 等。\n中英文关键词对照：确保同时准备中文和英文关键词，因为不同数据库的收录语言不同。\n检索范围的界定：确定检索的时间范围、文献类型（期刊/会议/综述/学位论文/专利）和学科范围。",
+      "characterCount": 314,
+      "readingMinutes": 1
+    },
+    {
+      "title": "1.2 检索式构建方法",
+      "groupId": "chapter2",
+      "topic": "1 文献检索",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "1.2 检索式构建方法",
+          "level": 2
+        },
+        {
+          "type": "paragraph",
+          "text": "检索式是文献检索的核心，一个好的检索式能够大幅提升检索效率和精准度。"
+        },
+        {
+          "type": "paragraph",
+          "text": "布尔逻辑运算符："
+        },
+        {
+          "type": "paragraph",
+          "text": "AND（与）：检索结果必须同时包含两个关键词，用于缩小检索范围；"
+        },
+        {
+          "type": "paragraph",
+          "text": "OR（或）：检索结果包含任一关键词，用于扩展同义词；"
+        },
+        {
+          "type": "paragraph",
+          "text": "NOT（非）：排除包含某关键词的结果，用于过滤无关文献。"
+        },
+        {
+          "type": "paragraph",
+          "text": "检索式构建示例（以“混沌控制”为例）："
+        },
+        {
+          "type": "paragraph",
+          "text": "Web of Science 检索式："
+        },
+        {
+          "type": "paragraph",
+          "text": "Topic=(“chaos control” OR “chaos synchronization” OR “chaos suppression” OR “feedback control of chaos”) AND Topic=(nonlinear* OR dynamical system*)"
+        },
+        {
+          "type": "paragraph",
+          "text": "知网检索式："
+        },
+        {
+          "type": "paragraph",
+          "text": "主题=(“混沌控制” OR “混沌同步” OR “混沌抑制”) AND 主题=(“非线性” OR “动力系统” OR “动力学”)"
+        },
+        {
+          "type": "paragraph",
+          "text": "检索策略的层次化方法："
+        },
+        {
+          "type": "paragraph",
+          "text": "广撒网阶段：使用较宽泛的检索式进行初步检索，了解该领域的文献规模和大致方向；"
+        },
+        {
+          "type": "paragraph",
+          "text": "聚焦阶段：根据初步检索结果中高相关文献的关键词和主题词，优化检索式，缩小范围；"
+        },
+        {
+          "type": "paragraph",
+          "text": "溯源阶段：通过高相关文献的参考文献（向前溯源）和施引文献（向后追踪），发现检索式可能遗漏的重要文献；"
+        },
+        {
+          "type": "paragraph",
+          "text": "补充阶段：使用不同的数据库进行交叉检索，确保覆盖面。"
+        }
+      ],
+      "id": "section-028",
+      "route": "/guide-packs/part05/read?id=section-028",
+      "searchText": "1.2 检索式构建方法\n检索式是文献检索的核心，一个好的检索式能够大幅提升检索效率和精准度。\n布尔逻辑运算符：\nAND（与）：检索结果必须同时包含两个关键词，用于缩小检索范围；\nOR（或）：检索结果包含任一关键词，用于扩展同义词；\nNOT（非）：排除包含某关键词的结果，用于过滤无关文献。\n检索式构建示例（以“混沌控制”为例）：\nWeb of Science 检索式：\nTopic=(“chaos control” OR “chaos synchronization” OR “chaos suppression” OR “feedback control of chaos”) AND Topic=(nonlinear* OR dynamical system*)\n知网检索式：\n主题=(“混沌控制” OR “混沌同步” OR “混沌抑制”) AND 主题=(“非线性” OR “动力系统” OR “动力学”)\n检索策略的层次化方法：\n广撒网阶段：使用较宽泛的检索式进行初步检索，了解该领域的文献规模和大致方向；\n聚焦阶段：根据初步检索结果中高相关文献的关键词和主题词，优化检索式，缩小范围；\n溯源阶段：通过高相关文献的参考文献（向前溯源）和施引文献（向后追踪），发现检索式可能遗漏的重要文献；\n补充阶段：使用不同的数据库进行交叉检索，确保覆盖面。",
+      "characterCount": 529,
+      "readingMinutes": 2
+    },
+    {
+      "title": "1.3 专利检索策略",
+      "groupId": "chapter2",
+      "topic": "1 文献检索",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "1.3 专利检索策略",
+          "level": 2
+        },
+        {
+          "type": "paragraph",
+          "text": "对于涉及技术创新或应用研究的研究生，专利检索是了解技术发展现状和避免重复研发的重要手段。"
+        },
+        {
+          "type": "paragraph",
+          "text": "专利检索方法："
+        },
+        {
+          "type": "paragraph",
+          "text": "关键词检索：在佰腾专利（https://www.baiten.cn/）或专利之星（https://cprs.patentstar.com.cn/）中输入技术关键词",
+          "links": [
+            {
+              "label": "https://www.baiten.cn/",
+              "url": "https://www.baiten.cn/"
+            },
+            {
+              "label": "https://cprs.patentstar.com.cn/",
+              "url": "https://cprs.patentstar.com.cn/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "申请人/发明人检索：追踪特定企业或研究团队的专利布局"
+        },
+        {
+          "type": "paragraph",
+          "text": "专利分类号检索：利用国际专利分类号（IPC）按技术领域检索"
+        },
+        {
+          "type": "paragraph",
+          "text": "引证检索：通过专利的引用关系追踪技术发展脉络"
+        },
+        {
+          "type": "paragraph",
+          "text": "专利检索注意事项："
+        },
+        {
+          "type": "paragraph",
+          "text": "专利文献的技术内容通常比学术论文更详细，但写作风格不同"
+        },
+        {
+          "type": "paragraph",
+          "text": "注意区分发明专利、实用新型和外观设计"
+        },
+        {
+          "type": "paragraph",
+          "text": "查看专利的法律状态（有效/失效/审查中），了解技术的实际应用情况"
+        }
+      ],
+      "id": "section-029",
+      "route": "/guide-packs/part05/read?id=section-029",
+      "searchText": "1.3 专利检索策略\n对于涉及技术创新或应用研究的研究生，专利检索是了解技术发展现状和避免重复研发的重要手段。\n专利检索方法：\n关键词检索：在佰腾专利（https://www.baiten.cn/）或专利之星（https://cprs.patentstar.com.cn/）中输入技术关键词\n申请人/发明人检索：追踪特定企业或研究团队的专利布局\n专利分类号检索：利用国际专利分类号（IPC）按技术领域检索\n引证检索：通过专利的引用关系追踪技术发展脉络\n专利检索注意事项：\n专利文献的技术内容通常比学术论文更详细，但写作风格不同\n注意区分发明专利、实用新型和外观设计\n查看专利的法律状态（有效/失效/审查中），了解技术的实际应用情况",
+      "characterCount": 304,
+      "readingMinutes": 1
+    },
+    {
+      "title": "1.4 期刊评价方法",
+      "groupId": "chapter2",
+      "topic": "1 文献检索",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "1.4 期刊评价方法",
+          "level": 2
+        },
+        {
+          "type": "paragraph",
+          "text": "选择合适的投稿期刊是论文发表的关键环节。以下工具可以帮助评估期刊质量："
+        },
+        {
+          "type": "paragraph",
+          "text": "JCR分区（https://jcr.clarivate.com/）：查询期刊的影响因子和JCR分区（Q1-Q4），是国际通用的期刊评价标准。",
+          "links": [
+            {
+              "label": "https://jcr.clarivate.com/",
+              "url": "https://jcr.clarivate.com/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "中科院分区（https://www.fenqubiao.com/）：查询期刊的中科院分区（1区-4区），国内高校科研评价通常以此为标准。",
+          "links": [
+            {
+              "label": "https://www.fenqubiao.com/",
+              "url": "https://www.fenqubiao.com/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "LetPub（https://www.letpub.com.cn/）：查看期刊的审稿周期、录用比例、投稿经验等实用信息。",
+          "links": [
+            {
+              "label": "https://www.letpub.com.cn/",
+              "url": "https://www.letpub.com.cn/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "熊猫学术（https://sc.panda985.com/）：快速查询期刊的JCR分区和影响因子。",
+          "links": [
+            {
+              "label": "https://sc.panda985.com/",
+              "url": "https://sc.panda985.com/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "期刊选择建议："
+        },
+        {
+          "type": "paragraph",
+          "text": "首先确定论文的主题和水平，匹配相应分区的期刊；"
+        },
+        {
+          "type": "paragraph",
+          "text": "在LetPub上查看目标期刊的审稿周期和录用难度；"
+        },
+        {
+          "type": "paragraph",
+          "text": "关注期刊的Scope是否与论文主题匹配；"
+        },
+        {
+          "type": "paragraph",
+          "text": "注意避免 predatory journals（掠夺性期刊），可通过 Beall's List 或 JCR 是否收录来判断。"
+        }
+      ],
+      "id": "section-030",
+      "route": "/guide-packs/part05/read?id=section-030",
+      "searchText": "1.4 期刊评价方法\n选择合适的投稿期刊是论文发表的关键环节。以下工具可以帮助评估期刊质量：\nJCR分区（https://jcr.clarivate.com/）：查询期刊的影响因子和JCR分区（Q1-Q4），是国际通用的期刊评价标准。\n中科院分区（https://www.fenqubiao.com/）：查询期刊的中科院分区（1区-4区），国内高校科研评价通常以此为标准。\nLetPub（https://www.letpub.com.cn/）：查看期刊的审稿周期、录用比例、投稿经验等实用信息。\n熊猫学术（https://sc.panda985.com/）：快速查询期刊的JCR分区和影响因子。\n期刊选择建议：\n首先确定论文的主题和水平，匹配相应分区的期刊；\n在LetPub上查看目标期刊的审稿周期和录用难度；\n关注期刊的Scope是否与论文主题匹配；\n注意避免 predatory journals（掠夺性期刊），可通过 Beall's List 或 JCR 是否收录来判断。",
+      "characterCount": 421,
+      "readingMinutes": 2
+    },
+    {
+      "title": "1.5 基金项目查询方法",
+      "groupId": "chapter2",
+      "topic": "1 文献检索",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "1.5 基金项目查询方法",
+          "level": 2
+        },
+        {
+          "type": "paragraph",
+          "text": "了解领域内的基金项目分布有助于把握研究热点和资助方向："
+        },
+        {
+          "type": "paragraph",
+          "text": "国内基金查询：通过科研 Z 库国自然查询系统（http://fund.keyanzhiku.com/）检索已获批的国自然项目，了解领域内的研究热点和资助方向。",
+          "links": [
+            {
+              "label": "http://fund.keyanzhiku.com/",
+              "url": "http://fund.keyanzhiku.com/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "国际基金查询：通过 NSF Award Search（https://www.nsf.gov/）查询美国资助的相关项目。",
+          "links": [
+            {
+              "label": "https://www.nsf.gov/",
+              "url": "https://www.nsf.gov/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "应用场景：撰写基金申请前调研领域内已有项目；选择研究方向时了解资助趋势。"
+        }
+      ],
+      "id": "section-031",
+      "route": "/guide-packs/part05/read?id=section-031",
+      "searchText": "1.5 基金项目查询方法\n了解领域内的基金项目分布有助于把握研究热点和资助方向：\n国内基金查询：通过科研 Z 库国自然查询系统（http://fund.keyanzhiku.com/）检索已获批的国自然项目，了解领域内的研究热点和资助方向。\n国际基金查询：通过 NSF Award Search（https://www.nsf.gov/）查询美国资助的相关项目。\n应用场景：撰写基金申请前调研领域内已有项目；选择研究方向时了解资助趋势。",
+      "characterCount": 208,
+      "readingMinutes": 1
+    },
+    {
+      "title": "1.6 检索效率评估",
+      "groupId": "chapter2",
+      "topic": "1 文献检索",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "1.6 检索效率评估",
+          "level": 2
+        },
+        {
+          "type": "paragraph",
+          "text": "检索完成后，需要评估检索结果的全面性和精准性："
+        },
+        {
+          "type": "paragraph",
+          "text": "查全率评估：检查领域内的经典文献和高被引文献是否都出现在检索结果中。如果遗漏，说明检索式需要扩展。"
+        },
+        {
+          "type": "paragraph",
+          "text": "查准率评估：检查检索结果中无关文献的比例。如果过高，说明检索式需要收紧。"
+        },
+        {
+          "type": "paragraph",
+          "text": "迭代优化：文献检索是一个迭代过程，通常需要2-3轮优化才能达到满意的效果。"
+        }
+      ],
+      "id": "section-032",
+      "route": "/guide-packs/part05/read?id=section-032",
+      "searchText": "1.6 检索效率评估\n检索完成后，需要评估检索结果的全面性和精准性：\n查全率评估：检查领域内的经典文献和高被引文献是否都出现在检索结果中。如果遗漏，说明检索式需要扩展。\n查准率评估：检查检索结果中无关文献的比例。如果过高，说明检索式需要收紧。\n迭代优化：文献检索是一个迭代过程，通常需要2-3轮优化才能达到满意的效果。",
+      "characterCount": 154,
+      "readingMinutes": 1
+    },
+    {
+      "title": "2.1 正规数据库渠道",
+      "groupId": "chapter2",
+      "topic": "2 文献获取渠道",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "2 文献获取渠道",
+          "level": 1
+        },
+        {
+          "type": "heading",
+          "text": "2.1 正规数据库渠道",
+          "level": 2
+        },
+        {
+          "type": "paragraph",
+          "text": "通过学校图书馆订阅的数据库获取文献是最正规、最稳定的渠道。主要数据库已在第一章详细介绍，此处不再赘述。使用时注意以下要点："
+        },
+        {
+          "type": "paragraph",
+          "text": "校园网/VPN 访问：大部分数据库需要通过学校 IP 地址访问，在校外时需通过学校 VPN 连接。"
+        },
+        {
+          "type": "paragraph",
+          "text": "图书馆全文链接服务：在 Web of Science 等数据库中，利用学校图书馆配置的全文链接按钮（通常显示为“FindIt”或学校名称），可自动跳转到可获取全文的渠道。"
+        },
+        {
+          "type": "paragraph",
+          "text": "馆际互借：对于学校未订阅的文献，可通过图书馆的馆际互借服务获取，通常免费或收取少量费用。"
+        }
+      ],
+      "id": "section-033",
+      "route": "/guide-packs/part05/read?id=section-033",
+      "searchText": "2 文献获取渠道\n2.1 正规数据库渠道\n通过学校图书馆订阅的数据库获取文献是最正规、最稳定的渠道。主要数据库已在第一章详细介绍，此处不再赘述。使用时注意以下要点：\n校园网/VPN 访问：大部分数据库需要通过学校 IP 地址访问，在校外时需通过学校 VPN 连接。\n图书馆全文链接服务：在 Web of Science 等数据库中，利用学校图书馆配置的全文链接按钮（通常显示为“FindIt”或学校名称），可自动跳转到可获取全文的渠道。\n馆际互借：对于学校未订阅的文献，可通过图书馆的馆际互借服务获取，通常免费或收取少量费用。",
+      "characterCount": 247,
+      "readingMinutes": 1
+    },
+    {
+      "title": "2.2 免费与替代获取渠道",
+      "groupId": "chapter2",
+      "topic": "2 文献获取渠道",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "2.2 免费与替代获取渠道",
+          "level": 2
+        },
+        {
+          "type": "paragraph",
+          "text": "当学校图书馆权限不足或尚未开通时，以下渠道可作为重要的补充获取方式。"
+        },
+        {
+          "type": "heading",
+          "text": "2.2.1 科研通文献互助平台（AbleSci）",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "注册科研通账号（https://www.ablesci.com/），绑定微信；在“发布文献求助”页面，输入文献的DOI号、标题或链接；系统自动识别文献信息，AI机器人或志愿者将快速提供下载；新用户注册时可填写邀请码获得初始积分，通过签到、应助等方式积累积分；积分用于发布求助，积分不足时平台有保护机制（低于30分时签到双倍积分）。",
+          "links": [
+            {
+              "label": "https://www.ablesci.com/",
+              "url": "https://www.ablesci.com/"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "2.2.2 arXiv 预印本平台",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "对于物理、数学、计算机等领域，arXiv是获取最新文献的首选免费渠道。许多发表在付费期刊上的论文，其预印本版本可在arXiv上免费获取。使用时注意预印本可能与正式发表版本存在细微差异。"
+        },
+        {
+          "type": "heading",
+          "text": "2.2.3 Sci-Hub",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "提供学术论文免费下载的网站，覆盖面广，通过 DOI 号即可下载大部分文献的 PDF 全文。"
+        },
+        {
+          "type": "paragraph",
+          "text": "获取文献的DOI号（可在数据库文献详情页找到）；访问 Sci-Hub（https://sci-hub.ee/，域名经常变化，可通过科研通获取可用域名）；在检索框中输入 DOI 号，点击下载。",
+          "links": [
+            {
+              "label": "https://sci-hub.ee/",
+              "url": "https://sci-hub.ee/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "注：请优先使用学校订阅、馆际互借、文献互助、向作者索取等合法渠道，Sci-Hub 等作为最后手段，并提示涉及版权争议；镜像站不要登录个人谷歌账号，谨防仿冒钓鱼站。"
+        },
+        {
+          "type": "heading",
+          "text": "2.2.4 其他途径下载",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "熊猫学术"
+        },
+        {
+          "type": "paragraph",
+          "text": "谷歌镜像"
+        },
+        {
+          "type": "paragraph",
+          "text": "全国图书联盟"
+        },
+        {
+          "type": "heading",
+          "text": "2.2.5 文献获取渠道优先级建议",
+          "level": 3
+        },
+        {
+          "type": "paragraph",
+          "text": "综合考虑合法性、稳定性和效率，建议按以下优先级获取文献："
+        },
+        {
+          "type": "list",
+          "text": "学校图书馆订阅数据库（首选，合法稳定）；",
+          "marker": "•"
+        },
+        {
+          "type": "list",
+          "text": "arXiv预印本（物理/数学领域的重要渠道）；",
+          "marker": "•"
+        },
+        {
+          "type": "list",
+          "text": "MDPI等开放获取期刊（免费合法）；",
+          "marker": "•"
+        },
+        {
+          "type": "list",
+          "text": "开放获取版本（通过Unpaywall等工具查找）；",
+          "marker": "•"
+        },
+        {
+          "type": "list",
+          "text": "ResearchGate全文请求（向作者直接请求）；",
+          "marker": "•"
+        },
+        {
+          "type": "list",
+          "text": "科研通文献互助平台（高效可靠）；",
+          "marker": "•"
+        },
+        {
+          "type": "list",
+          "text": "Sci-Hub/LibraryGenesis（作为最后手段）。",
+          "marker": "•"
+        }
+      ],
+      "id": "section-034",
+      "route": "/guide-packs/part05/read?id=section-034",
+      "searchText": "2.2 免费与替代获取渠道\n当学校图书馆权限不足或尚未开通时，以下渠道可作为重要的补充获取方式。\n2.2.1 科研通文献互助平台（AbleSci）\n注册科研通账号（https://www.ablesci.com/），绑定微信；在“发布文献求助”页面，输入文献的DOI号、标题或链接；系统自动识别文献信息，AI机器人或志愿者将快速提供下载；新用户注册时可填写邀请码获得初始积分，通过签到、应助等方式积累积分；积分用于发布求助，积分不足时平台有保护机制（低于30分时签到双倍积分）。\n2.2.2 arXiv 预印本平台\n对于物理、数学、计算机等领域，arXiv是获取最新文献的首选免费渠道。许多发表在付费期刊上的论文，其预印本版本可在arXiv上免费获取。使用时注意预印本可能与正式发表版本存在细微差异。\n2.2.3 Sci-Hub\n提供学术论文免费下载的网站，覆盖面广，通过 DOI 号即可下载大部分文献的 PDF 全文。\n获取文献的DOI号（可在数据库文献详情页找到）；访问 Sci-Hub（https://sci-hub.ee/，域名经常变化，可通过科研通获取可用域名）；在检索框中输入 DOI 号，点击下载。\n注：请优先使用学校订阅、馆际互借、文献互助、向作者索取等合法渠道，Sci-Hub 等作为最后手段，并提示涉及版权争议；镜像站不要登录个人谷歌账号，谨防仿冒钓鱼站。\n2.2.4 其他途径下载\n熊猫学术\n谷歌镜像\n全国图书联盟\n2.2.5 文献获取渠道优先级建议\n综合考虑合法性、稳定性和效率，建议按以下优先级获取文献：\n学校图书馆订阅数据库（首选，合法稳定）；\narXiv预印本（物理/数学领域的重要渠道）；\nMDPI等开放获取期刊（免费合法）；\n开放获取版本（通过Unpaywall等工具查找）；\nResearchGate全文请求（向作者直接请求）；\n科研通文献互助平台（高效可靠）；\nSci-Hub/LibraryGenesis（作为最后手段）。",
+      "characterCount": 794,
+      "readingMinutes": 2
+    },
+    {
+      "title": "3 文献阅读方法",
+      "groupId": "chapter2",
+      "topic": "3 文献阅读方法",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "3 文献阅读方法",
+          "level": 1
+        },
+        {
+          "type": "paragraph",
+          "text": "注：以下内容来源于网络以及文献【研究生科研第一课：快速进行文献检索与阅读[J].高教学刊,2023,9(6):47-50.】【模块三：学术基础研究方法及论文阅读方法-研究生不同科研阶段应如何阅读文献[Z/OL].(2020-09-22)】整理汇总，可自行下载文献进行学习。"
+        }
+      ],
+      "id": "section-035",
+      "route": "/guide-packs/part05/read?id=section-035",
+      "searchText": "3 文献阅读方法\n注：以下内容来源于网络以及文献【研究生科研第一课：快速进行文献检索与阅读[J].高教学刊,2023,9(6):47-50.】【模块三：学术基础研究方法及论文阅读方法-研究生不同科研阶段应如何阅读文献[Z/OL].(2020-09-22)】整理汇总，可自行下载文献进行学习。",
+      "characterCount": 143,
+      "readingMinutes": 1
+    },
+    {
+      "title": "3.1 文献筛选与分级",
+      "groupId": "chapter2",
+      "topic": "3 文献阅读方法",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "3.1 文献筛选与分级",
+          "level": 2
+        },
+        {
+          "type": "paragraph",
+          "text": "面对大量文献，不可能逐篇精读。需要建立高效的筛选和分级机制："
+        },
+        {
+          "type": "paragraph",
+          "text": "第一级：标题筛选（Title Screening）",
+          "runs": [
+            {
+              "text": "第一级：标题筛选（Title Screening）",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "快速浏览文献标题，判断与研究主题的相关性。不相关的文献直接排除。此阶段每篇文献耗时约5-10秒。"
+        },
+        {
+          "type": "paragraph",
+          "text": "第二级：摘要筛选（Abstract Screening）",
+          "runs": [
+            {
+              "text": "第二级：摘要筛选（Abstract Screening）",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "对通过标题筛选的文献，阅读摘要判断其研究内容、方法和结论是否与自己的研究相关。此阶段每篇文献耗时约1-2分钟。"
+        },
+        {
+          "type": "paragraph",
+          "text": "第三级：引言与结论筛选（Introduction & Conclusion Screening）",
+          "runs": [
+            {
+              "text": "第三级：引言与结论筛选（Introduction & Conclusion Screening）",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "对通过摘要筛选的文献，快速阅读引言（了解研究背景和问题）和结论（了解主要发现和贡献），判断是否值得精读。此阶段每篇文献耗时约5-10分钟。"
+        },
+        {
+          "type": "paragraph",
+          "text": "第四级：全文精读（Full-Text Reading）",
+          "runs": [
+            {
+              "text": "第四级：全文精读（Full-Text Reading）",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "对通过前三级筛选的高相关文献进行全文精读。根据文献的重要性，精读的深度也有所不同。此阶段每篇文献耗时约1-3小时。"
+        },
+        {
+          "type": "paragraph",
+          "text": "AI 辅助筛选：可使用 Kimi（https://kimi.moonshot.cn/）等 AI 工具上传文献 PDF，快速生成摘要和核心观点，辅助筛选判断。但AI生成的摘要必须与原文对照核实。",
+          "links": [
+            {
+              "label": "https://kimi.moonshot.cn/",
+              "url": "https://kimi.moonshot.cn/"
+            }
+          ]
+        }
+      ],
+      "id": "section-036",
+      "route": "/guide-packs/part05/read?id=section-036",
+      "searchText": "3.1 文献筛选与分级\n面对大量文献，不可能逐篇精读。需要建立高效的筛选和分级机制：\n第一级：标题筛选（Title Screening）\n快速浏览文献标题，判断与研究主题的相关性。不相关的文献直接排除。此阶段每篇文献耗时约5-10秒。\n第二级：摘要筛选（Abstract Screening）\n对通过标题筛选的文献，阅读摘要判断其研究内容、方法和结论是否与自己的研究相关。此阶段每篇文献耗时约1-2分钟。\n第三级：引言与结论筛选（Introduction & Conclusion Screening）\n对通过摘要筛选的文献，快速阅读引言（了解研究背景和问题）和结论（了解主要发现和贡献），判断是否值得精读。此阶段每篇文献耗时约5-10分钟。\n第四级：全文精读（Full-Text Reading）\n对通过前三级筛选的高相关文献进行全文精读。根据文献的重要性，精读的深度也有所不同。此阶段每篇文献耗时约1-3小时。\nAI 辅助筛选：可使用 Kimi（https://kimi.moonshot.cn/）等 AI 工具上传文献 PDF，快速生成摘要和核心观点，辅助筛选判断。但AI生成的摘要必须与原文对照核实。",
+      "characterCount": 482,
+      "readingMinutes": 2
+    },
+    {
+      "title": "3.2 精读方法：三遍阅读法",
+      "groupId": "chapter2",
+      "topic": "3 文献阅读方法",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "3.2 精读方法：三遍阅读法",
+          "level": 2
+        },
+        {
+          "type": "paragraph",
+          "text": "对于需要精读的文献，推荐采用“三遍阅读法”（Three-Pass Approach），这是新加坡国立大学 S. Keshav 教授提出的经典文献阅读方法："
+        },
+        {
+          "type": "paragraph",
+          "text": "第一遍：快速浏览（5-10 分钟）",
+          "runs": [
+            {
+              "text": "第一遍：快速浏览（5-10 分钟）",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "目标：了解文献的大致内容和价值判断。"
+        },
+        {
+          "type": "paragraph",
+          "text": "操作："
+        },
+        {
+          "type": "list",
+          "text": "阅读标题、摘要和引言",
+          "marker": "1."
+        },
+        {
+          "type": "list",
+          "text": "阅读章节标题和小标题，了解文章结构",
+          "marker": "2."
+        },
+        {
+          "type": "list",
+          "text": "阅读结论",
+          "marker": "3."
+        },
+        {
+          "type": "list",
+          "text": "浏览参考文献，看是否有你熟悉的文献",
+          "marker": "4."
+        },
+        {
+          "type": "paragraph",
+          "text": "第一遍结束后，应该能回答以下问题："
+        },
+        {
+          "type": "list",
+          "text": "这篇文献研究的是什么问题？",
+          "marker": "•"
+        },
+        {
+          "type": "list",
+          "text": "与自己的研究有什么关系？",
+          "marker": "•"
+        },
+        {
+          "type": "list",
+          "text": "是否需要继续精读？",
+          "marker": "•"
+        },
+        {
+          "type": "paragraph",
+          "text": "第二遍：掌握内容（约1小时）",
+          "runs": [
+            {
+              "text": "第二遍：掌握内容（约1小时）",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "目标：掌握文献的核心内容和方法。"
+        },
+        {
+          "type": "paragraph",
+          "text": "操作："
+        },
+        {
+          "type": "list",
+          "text": "仔细阅读全文，但暂时跳过复杂的数学推导细节",
+          "marker": "1."
+        },
+        {
+          "type": "list",
+          "text": "关注图表，理解每个图表的含义和说明",
+          "marker": "2."
+        },
+        {
+          "type": "list",
+          "text": "标记关键术语和概念",
+          "marker": "3."
+        },
+        {
+          "type": "list",
+          "text": "记录不理解的地方",
+          "marker": "4."
+        },
+        {
+          "type": "paragraph",
+          "text": "第二遍结束后，应该能回答以下问题："
+        },
+        {
+          "type": "list",
+          "text": "作者用了什么方法解决这个问题？",
+          "marker": "•"
+        },
+        {
+          "type": "list",
+          "text": "主要结果是什么？",
+          "marker": "•"
+        },
+        {
+          "type": "list",
+          "text": "方法有什么创新点？",
+          "marker": "•"
+        },
+        {
+          "type": "list",
+          "text": "还有哪些地方不理解？",
+          "marker": "•"
+        },
+        {
+          "type": "paragraph",
+          "text": "第三遍：深度理解（对核心文献，约2-3小时）",
+          "runs": [
+            {
+              "text": "第三遍：深度理解（对核心文献，约2-3小时）",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "目标：深入理解文献的细节，能够复现研究。"
+        },
+        {
+          "type": "paragraph",
+          "text": "操作："
+        },
+        {
+          "type": "list",
+          "text": "逐行理解数学推导和证明过程",
+          "marker": "1."
+        },
+        {
+          "type": "list",
+          "text": "思考方法的适用条件和局限性",
+          "marker": "2."
+        },
+        {
+          "type": "list",
+          "text": "尝试在脑海中（或实际）复现关键结果",
+          "marker": "3."
+        },
+        {
+          "type": "list",
+          "text": "思考该方法是否可以应用于自己的研究问题",
+          "marker": "4."
+        },
+        {
+          "type": "list",
+          "text": "批判性地分析文献的不足之处",
+          "marker": "5."
+        },
+        {
+          "type": "paragraph",
+          "text": "第三遍结束后，应该能回答以下问题："
+        },
+        {
+          "type": "list",
+          "text": "这个方法的每一个步骤为什么这样设计？",
+          "marker": "•"
+        },
+        {
+          "type": "list",
+          "text": "有什么可能的改进方向？",
+          "marker": "•"
+        },
+        {
+          "type": "list",
+          "text": "如何将这个方法应用到我的研究中？",
+          "marker": "•"
+        },
+        {
+          "type": "list",
+          "text": "这篇文献有哪些局限性？",
+          "marker": "•"
+        }
+      ],
+      "id": "section-037",
+      "route": "/guide-packs/part05/read?id=section-037",
+      "searchText": "3.2 精读方法：三遍阅读法\n对于需要精读的文献，推荐采用“三遍阅读法”（Three-Pass Approach），这是新加坡国立大学 S. Keshav 教授提出的经典文献阅读方法：\n第一遍：快速浏览（5-10 分钟）\n目标：了解文献的大致内容和价值判断。\n操作：\n阅读标题、摘要和引言\n阅读章节标题和小标题，了解文章结构\n阅读结论\n浏览参考文献，看是否有你熟悉的文献\n第一遍结束后，应该能回答以下问题：\n这篇文献研究的是什么问题？\n与自己的研究有什么关系？\n是否需要继续精读？\n第二遍：掌握内容（约1小时）\n目标：掌握文献的核心内容和方法。\n操作：\n仔细阅读全文，但暂时跳过复杂的数学推导细节\n关注图表，理解每个图表的含义和说明\n标记关键术语和概念\n记录不理解的地方\n第二遍结束后，应该能回答以下问题：\n作者用了什么方法解决这个问题？\n主要结果是什么？\n方法有什么创新点？\n还有哪些地方不理解？\n第三遍：深度理解（对核心文献，约2-3小时）\n目标：深入理解文献的细节，能够复现研究。\n操作：\n逐行理解数学推导和证明过程\n思考方法的适用条件和局限性\n尝试在脑海中（或实际）复现关键结果\n思考该方法是否可以应用于自己的研究问题\n批判性地分析文献的不足之处\n第三遍结束后，应该能回答以下问题：\n这个方法的每一个步骤为什么这样设计？\n有什么可能的改进方向？\n如何将这个方法应用到我的研究中？\n这篇文献有哪些局限性？",
+      "characterCount": 562,
+      "readingMinutes": 2
+    },
+    {
+      "title": "3.3 阅读中的批判性思维",
+      "groupId": "chapter2",
+      "topic": "3 文献阅读方法",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "3.3 阅读中的批判性思维",
+          "level": 2
+        },
+        {
+          "type": "paragraph",
+          "text": "文献阅读不应是被动的接收，而应是主动的批判性思考。在阅读过程中，应持续追问以下问题："
+        },
+        {
+          "type": "list",
+          "text": "前提假设：作者的研究基于什么假设？这些假设是否合理？在什么情况下可能不成立？",
+          "runs": [
+            {
+              "text": "前提假设",
+              "bold": true
+            },
+            {
+              "text": "：作者的研究基于什么假设？这些假设是否合理？在什么情况下可能不成立？"
+            }
+          ],
+          "marker": "1."
+        },
+        {
+          "type": "list",
+          "text": "方法适当性：所用的方法是否适合解决提出的问题？有没有更好的替代方法？",
+          "runs": [
+            {
+              "text": "方法适当性",
+              "bold": true
+            },
+            {
+              "text": "：所用的方法是否适合解决提出的问题？有没有更好的替代方法？"
+            }
+          ],
+          "marker": "2."
+        },
+        {
+          "type": "list",
+          "text": "数据可靠性：实验/仿真数据是否充分？参数设置是否合理？是否有对照实验？",
+          "runs": [
+            {
+              "text": "数据可靠性",
+              "bold": true
+            },
+            {
+              "text": "：实验/仿真数据是否充分？参数设置是否合理？是否有对照实验？"
+            }
+          ],
+          "marker": "3."
+        },
+        {
+          "type": "list",
+          "text": "结论合理性：结论是否由数据充分支撑？是否存在过度解读？",
+          "runs": [
+            {
+              "text": "结论合理性",
+              "bold": true
+            },
+            {
+              "text": "：结论是否由数据充分支撑？是否存在过度解读？"
+            }
+          ],
+          "marker": "4."
+        },
+        {
+          "type": "list",
+          "text": "可推广性：研究结论是否可以推广到其他情境？有什么局限？",
+          "runs": [
+            {
+              "text": "可推广性",
+              "bold": true
+            },
+            {
+              "text": "：研究结论是否可以推广到其他情境？有什么局限？"
+            }
+          ],
+          "marker": "5."
+        },
+        {
+          "type": "list",
+          "text": "与已有工作的关系：这项工作与前人工作有何异同？增量贡献在哪里？",
+          "runs": [
+            {
+              "text": "与已有工作的关系",
+              "bold": true
+            },
+            {
+              "text": "：这项工作与前人工作有何异同？增量贡献在哪里？"
+            }
+          ],
+          "marker": "6."
+        }
+      ],
+      "id": "section-038",
+      "route": "/guide-packs/part05/read?id=section-038",
+      "searchText": "3.3 阅读中的批判性思维\n文献阅读不应是被动的接收，而应是主动的批判性思考。在阅读过程中，应持续追问以下问题：\n前提假设：作者的研究基于什么假设？这些假设是否合理？在什么情况下可能不成立？\n方法适当性：所用的方法是否适合解决提出的问题？有没有更好的替代方法？\n数据可靠性：实验/仿真数据是否充分？参数设置是否合理？是否有对照实验？\n结论合理性：结论是否由数据充分支撑？是否存在过度解读？\n可推广性：研究结论是否可以推广到其他情境？有什么局限？\n与已有工作的关系：这项工作与前人工作有何异同？增量贡献在哪里？",
+      "characterCount": 246,
+      "readingMinutes": 1
+    },
+    {
+      "title": "4.1 文献笔记的价值",
+      "groupId": "chapter2",
+      "topic": "4 文献笔记整理",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "4 文献笔记整理",
+          "level": 1
+        },
+        {
+          "type": "heading",
+          "text": "4.1 文献笔记的价值",
+          "level": 2
+        },
+        {
+          "type": "paragraph",
+          "text": "好的文献笔记是科研积累的核心资产。它不仅帮助你记忆和理解文献，更为后续的文献综述写作和研究思路的萌发提供素材。许多研究者阅读了大量文献却收获甚微，根本原因就是没有做好笔记。"
+        }
+      ],
+      "id": "section-039",
+      "route": "/guide-packs/part05/read?id=section-039",
+      "searchText": "4 文献笔记整理\n4.1 文献笔记的价值\n好的文献笔记是科研积累的核心资产。它不仅帮助你记忆和理解文献，更为后续的文献综述写作和研究思路的萌发提供素材。许多研究者阅读了大量文献却收获甚微，根本原因就是没有做好笔记。",
+      "characterCount": 103,
+      "readingMinutes": 1
+    },
+    {
+      "title": "4.2 文献笔记的推荐结构",
+      "groupId": "chapter2",
+      "topic": "4 文献笔记整理",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "4.2 文献笔记的推荐结构",
+          "level": 2
+        },
+        {
+          "type": "paragraph",
+          "text": "每篇精读文献建议按以下结构记录笔记："
+        },
+        {
+          "type": "paragraph",
+          "text": "基本信息：",
+          "runs": [
+            {
+              "text": "基本信息",
+              "bold": true
+            },
+            {
+              "text": "："
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "text": "文献标题、作者、期刊、年份",
+          "marker": "•"
+        },
+        {
+          "type": "list",
+          "text": "DOI 或链接",
+          "marker": "•"
+        },
+        {
+          "type": "list",
+          "text": "关键词",
+          "marker": "•"
+        },
+        {
+          "type": "paragraph",
+          "text": "核心摘要（用自己的话写）：",
+          "runs": [
+            {
+              "text": "核心摘要（用自己的话写）",
+              "bold": true
+            },
+            {
+              "text": "："
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "text": "这篇文献研究什么问题？",
+          "marker": "•"
+        },
+        {
+          "type": "list",
+          "text": "用什么方法解决的？",
+          "marker": "•"
+        },
+        {
+          "type": "list",
+          "text": "主要结果是什么？",
+          "marker": "•"
+        },
+        {
+          "type": "list",
+          "text": "核心贡献是什么？",
+          "marker": "•"
+        },
+        {
+          "type": "paragraph",
+          "text": "方法细节：",
+          "runs": [
+            {
+              "text": "方法细节",
+              "bold": true
+            },
+            {
+              "text": "："
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "text": "方法的核心思想和关键步骤",
+          "marker": "•"
+        },
+        {
+          "type": "list",
+          "text": "关键公式或算法",
+          "marker": "•"
+        },
+        {
+          "type": "list",
+          "text": "参数设置和实验条件",
+          "marker": "•"
+        },
+        {
+          "type": "paragraph",
+          "text": "批判性评价：",
+          "runs": [
+            {
+              "text": "批判性评价",
+              "bold": true
+            },
+            {
+              "text": "："
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "text": "方法的优势和创新点",
+          "marker": "•"
+        },
+        {
+          "type": "list",
+          "text": "方法的局限性和不足",
+          "marker": "•"
+        },
+        {
+          "type": "list",
+          "text": "与相关工作的比较",
+          "marker": "•"
+        },
+        {
+          "type": "paragraph",
+          "text": "与我的研究的关系：",
+          "runs": [
+            {
+              "text": "与我的研究的关系",
+              "bold": true
+            },
+            {
+              "text": "："
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "text": "这篇文献对我的研究有什么启发？",
+          "marker": "•"
+        },
+        {
+          "type": "list",
+          "text": "是否可以应用其方法到我的问题中？",
+          "marker": "•"
+        },
+        {
+          "type": "list",
+          "text": "值得关注的后续方向",
+          "marker": "•"
+        },
+        {
+          "type": "paragraph",
+          "text": "关键引用：",
+          "runs": [
+            {
+              "text": "关键引用",
+              "bold": true
+            },
+            {
+              "text": "："
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "text": "这篇文献引用了哪些值得进一步阅读的文献？",
+          "marker": "•"
+        },
+        {
+          "type": "list",
+          "text": "这篇文献被哪些后续文献引用？",
+          "marker": "•"
+        }
+      ],
+      "id": "section-040",
+      "route": "/guide-packs/part05/read?id=section-040",
+      "searchText": "4.2 文献笔记的推荐结构\n每篇精读文献建议按以下结构记录笔记：\n基本信息：\n文献标题、作者、期刊、年份\nDOI 或链接\n关键词\n核心摘要（用自己的话写）：\n这篇文献研究什么问题？\n用什么方法解决的？\n主要结果是什么？\n核心贡献是什么？\n方法细节：\n方法的核心思想和关键步骤\n关键公式或算法\n参数设置和实验条件\n批判性评价：\n方法的优势和创新点\n方法的局限性和不足\n与相关工作的比较\n与我的研究的关系：\n这篇文献对我的研究有什么启发？\n是否可以应用其方法到我的问题中？\n值得关注的后续方向\n关键引用：\n这篇文献引用了哪些值得进一步阅读的文献？\n这篇文献被哪些后续文献引用？",
+      "characterCount": 259,
+      "readingMinutes": 1
+    },
+    {
+      "title": "4.3 文献笔记的组织方式",
+      "groupId": "chapter2",
+      "topic": "4 文献笔记整理",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "4.3 文献笔记的组织方式",
+          "level": 2
+        },
+        {
+          "type": "paragraph",
+          "text": "建议使用以下两种方式结合组织文献笔记："
+        },
+        {
+          "type": "paragraph",
+          "text": "按主题组织：将文献按研究主题分类，同一主题的笔记放在一起，便于横向比较和综合。",
+          "runs": [
+            {
+              "text": "按主题组织",
+              "bold": true
+            },
+            {
+              "text": "：将文献按研究主题分类，同一主题的笔记放在一起，便于横向比较和综合。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "按时间组织：记录阅读顺序和时间，追踪自己的阅读历程和知识积累过程。",
+          "runs": [
+            {
+              "text": "按时间组织",
+              "bold": true
+            },
+            {
+              "text": "：记录阅读顺序和时间，追踪自己的阅读历程和知识积累过程。"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "工具选择：推荐使用 Obsidian 或 Zotero 的笔记功能。Zotero 的优势是笔记与文献条目直接关联，Obsidian 的优势是双向链接便于发现知识关联。两者可通过插件实现联动。",
+          "runs": [
+            {
+              "text": "工具选择",
+              "bold": true
+            },
+            {
+              "text": "：推荐使用 Obsidian 或 Zotero 的笔记功能。Zotero 的优势是笔记与文献条目直接关联，Obsidian 的优势是双向链接便于发现知识关联。两者可通过插件实现联动。"
+            }
+          ]
+        }
+      ],
+      "id": "section-041",
+      "route": "/guide-packs/part05/read?id=section-041",
+      "searchText": "4.3 文献笔记的组织方式\n建议使用以下两种方式结合组织文献笔记：\n按主题组织：将文献按研究主题分类，同一主题的笔记放在一起，便于横向比较和综合。\n按时间组织：记录阅读顺序和时间，追踪自己的阅读历程和知识积累过程。\n工具选择：推荐使用 Obsidian 或 Zotero 的笔记功能。Zotero 的优势是笔记与文献条目直接关联，Obsidian 的优势是双向链接便于发现知识关联。两者可通过插件实现联动。",
+      "characterCount": 192,
+      "readingMinutes": 1
+    },
+    {
+      "title": "5.1 文献综述的目的与定位",
+      "groupId": "chapter2",
+      "topic": "5 文献综述写作",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "5 文献综述写作",
+          "level": 1
+        },
+        {
+          "type": "heading",
+          "text": "5.1 文献综述的目的与定位",
+          "level": 2
+        },
+        {
+          "type": "paragraph",
+          "text": "文献综述不是简单的文献罗列或摘要堆砌，而是对某一研究领域的研究现状、主要成果、存在问题和未来方向的系统性分析和评述。一篇好的文献综述应当："
+        },
+        {
+          "type": "list",
+          "text": "勾勒研究全貌：让读者快速了解该领域的研究脉络和整体图景",
+          "runs": [
+            {
+              "text": "勾勒研究全貌",
+              "bold": true
+            },
+            {
+              "text": "：让读者快速了解该领域的研究脉络和整体图景"
+            }
+          ],
+          "marker": "1."
+        },
+        {
+          "type": "list",
+          "text": "识别研究空白：明确指出当前研究尚未解决的问题或尚未探索的方向",
+          "runs": [
+            {
+              "text": "识别研究空白",
+              "bold": true
+            },
+            {
+              "text": "：明确指出当前研究尚未解决的问题或尚未探索的方向"
+            }
+          ],
+          "marker": "2."
+        },
+        {
+          "type": "list",
+          "text": "定位自己的研究：说明自己的研究在整个领域中的位置和贡献",
+          "runs": [
+            {
+              "text": "定位自己的研究",
+              "bold": true
+            },
+            {
+              "text": "：说明自己的研究在整个领域中的位置和贡献"
+            }
+          ],
+          "marker": "3."
+        }
+      ],
+      "id": "section-042",
+      "route": "/guide-packs/part05/read?id=section-042",
+      "searchText": "5 文献综述写作\n5.1 文献综述的目的与定位\n文献综述不是简单的文献罗列或摘要堆砌，而是对某一研究领域的研究现状、主要成果、存在问题和未来方向的系统性分析和评述。一篇好的文献综述应当：\n勾勒研究全貌：让读者快速了解该领域的研究脉络和整体图景\n识别研究空白：明确指出当前研究尚未解决的问题或尚未探索的方向\n定位自己的研究：说明自己的研究在整个领域中的位置和贡献",
+      "characterCount": 173,
+      "readingMinutes": 1
+    },
+    {
+      "title": "5.2 文献综述的写作步骤",
+      "groupId": "chapter2",
+      "topic": "5 文献综述写作",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "5.2 文献综述的写作步骤",
+          "level": 2
+        },
+        {
+          "type": "paragraph",
+          "text": "第一步：确定综述范围与结构",
+          "runs": [
+            {
+              "text": "第一步：确定综述范围与结构",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "text": "明确综述的主题和范围，避免过于宽泛或过于狭窄",
+          "marker": "1."
+        },
+        {
+          "type": "list",
+          "text": "确定综述的组织结构，常见的有：",
+          "marker": "2."
+        },
+        {
+          "type": "list",
+          "text": "按时间脉络：梳理研究的发展历程",
+          "marker": "3."
+        },
+        {
+          "type": "list",
+          "text": "按方法分类：比较不同研究方法的优劣",
+          "marker": "4."
+        },
+        {
+          "type": "list",
+          "text": "按问题维度：围绕核心问题的不同方面展开",
+          "marker": "5."
+        },
+        {
+          "type": "list",
+          "text": "按主题层次：从宏观到微观逐层深入",
+          "marker": "6."
+        },
+        {
+          "type": "paragraph",
+          "text": "第二步：文献的分类与归纳",
+          "runs": [
+            {
+              "text": "第二步：文献的分类与归纳",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "text": "将收集的文献按主题或方法分类",
+          "marker": "1."
+        },
+        {
+          "type": "list",
+          "text": "提取每类文献的核心观点和方法",
+          "marker": "2."
+        },
+        {
+          "type": "list",
+          "text": "比较不同文献之间的异同和递进关系",
+          "marker": "3."
+        },
+        {
+          "type": "list",
+          "text": "识别研究趋势和发展脉络",
+          "marker": "4."
+        },
+        {
+          "type": "paragraph",
+          "text": "第三步：撰写综述",
+          "runs": [
+            {
+              "text": "第三步：撰写综述",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "text": "引言部分：介绍研究背景、综述的目的和范围、组织结构",
+          "runs": [
+            {
+              "text": "引言部分",
+              "bold": true
+            },
+            {
+              "text": "：介绍研究背景、综述的目的和范围、组织结构"
+            }
+          ],
+          "marker": "1."
+        },
+        {
+          "type": "list",
+          "text": "主体部分：按既定结构展开评述，注意以下原则：",
+          "runs": [
+            {
+              "text": "主体部分",
+              "bold": true
+            },
+            {
+              "text": "：按既定结构展开评述，注意以下原则："
+            }
+          ],
+          "marker": "2."
+        },
+        {
+          "type": "list",
+          "text": "以“观点”为线索组织，而非以“文献”为单位罗列",
+          "marker": "3."
+        },
+        {
+          "type": "list",
+          "text": "使用过渡性语言展现文献之间的逻辑关系（如“与此不同”“在此基础上”“然而”）",
+          "marker": "4."
+        },
+        {
+          "type": "list",
+          "text": "对重要文献详细评述，对次要文献简要提及",
+          "marker": "5."
+        },
+        {
+          "type": "list",
+          "text": "适当使用表格归纳比较不同方法的特征",
+          "marker": "6."
+        },
+        {
+          "type": "list",
+          "text": "总结与展望部分：总结当前研究的主要成就，指出存在的不足和研究空白，展望未来方向",
+          "runs": [
+            {
+              "text": "总结与展望部分",
+              "bold": true
+            },
+            {
+              "text": "：总结当前研究的主要成就，指出存在的不足和研究空白，展望未来方向"
+            }
+          ],
+          "marker": "7."
+        },
+        {
+          "type": "paragraph",
+          "text": "第四步：检查与修改",
+          "runs": [
+            {
+              "text": "第四步：检查与修改",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "text": "检查文献覆盖面是否全面，是否遗漏了重要文献",
+          "marker": "1."
+        },
+        {
+          "type": "list",
+          "text": "检查评述是否客观公正，避免主观偏见",
+          "marker": "2."
+        },
+        {
+          "type": "list",
+          "text": "检查引用格式是否规范",
+          "marker": "3."
+        },
+        {
+          "type": "list",
+          "text": "检查逻辑是否连贯，结构是否清晰",
+          "marker": "4."
+        }
+      ],
+      "id": "section-043",
+      "route": "/guide-packs/part05/read?id=section-043",
+      "searchText": "5.2 文献综述的写作步骤\n第一步：确定综述范围与结构\n明确综述的主题和范围，避免过于宽泛或过于狭窄\n确定综述的组织结构，常见的有：\n按时间脉络：梳理研究的发展历程\n按方法分类：比较不同研究方法的优劣\n按问题维度：围绕核心问题的不同方面展开\n按主题层次：从宏观到微观逐层深入\n第二步：文献的分类与归纳\n将收集的文献按主题或方法分类\n提取每类文献的核心观点和方法\n比较不同文献之间的异同和递进关系\n识别研究趋势和发展脉络\n第三步：撰写综述\n引言部分：介绍研究背景、综述的目的和范围、组织结构\n主体部分：按既定结构展开评述，注意以下原则：\n以“观点”为线索组织，而非以“文献”为单位罗列\n使用过渡性语言展现文献之间的逻辑关系（如“与此不同”“在此基础上”“然而”）\n对重要文献详细评述，对次要文献简要提及\n适当使用表格归纳比较不同方法的特征\n总结与展望部分：总结当前研究的主要成就，指出存在的不足和研究空白，展望未来方向\n第四步：检查与修改\n检查文献覆盖面是否全面，是否遗漏了重要文献\n检查评述是否客观公正，避免主观偏见\n检查引用格式是否规范\n检查逻辑是否连贯，结构是否清晰",
+      "characterCount": 459,
+      "readingMinutes": 2
+    },
+    {
+      "title": "5.3 文献综述的常见问题",
+      "groupId": "chapter2",
+      "topic": "5 文献综述写作",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "5.3 文献综述的常见问题",
+          "level": 2
+        },
+        {
+          "type": "list",
+          "text": "流水账式罗列：逐篇文献列举摘要，缺乏分析和归纳。应改为以观点为主线组织。",
+          "marker": "1."
+        },
+        {
+          "type": "list",
+          "text": "有述无评：只介绍文献内容，不评价其贡献和不足。应增加批判性分析。",
+          "marker": "2."
+        },
+        {
+          "type": "list",
+          "text": "避重就轻：只引用支持自己观点的文献，回避反面证据。应客观呈现不同观点。",
+          "marker": "3."
+        },
+        {
+          "type": "list",
+          "text": "引用过时：大量引用多年前的文献，缺乏最新研究。应确保近 3 年文献的比例。",
+          "marker": "4."
+        },
+        {
+          "type": "list",
+          "text": "缺乏自己的观点：综述完全是他人观点的拼凑。应在归纳的基础上提出自己的见解。",
+          "marker": "5."
+        }
+      ],
+      "id": "section-044",
+      "route": "/guide-packs/part05/read?id=section-044",
+      "searchText": "5.3 文献综述的常见问题\n流水账式罗列：逐篇文献列举摘要，缺乏分析和归纳。应改为以观点为主线组织。\n有述无评：只介绍文献内容，不评价其贡献和不足。应增加批判性分析。\n避重就轻：只引用支持自己观点的文献，回避反面证据。应客观呈现不同观点。\n引用过时：大量引用多年前的文献，缺乏最新研究。应确保近 3 年文献的比例。\n缺乏自己的观点：综述完全是他人观点的拼凑。应在归纳的基础上提出自己的见解。",
+      "characterCount": 187,
+      "readingMinutes": 1
+    },
+    {
+      "title": "附录A：科研工具与资源分类速查表",
+      "groupId": "appendixA",
+      "topic": "附录A：科研工具与资源分类速查表",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "附录A：科研工具与资源分类速查表",
+          "level": 1
+        },
+        {
+          "type": "paragraph",
+          "text": "说明：红色字体代表推荐优先使用，黑色仅为备选。",
+          "runs": [
+            {
+              "text": "说明：红色字体代表推荐优先使用，黑色仅为备选。",
+              "recommended": true
+            }
+          ]
+        }
+      ],
+      "id": "section-045",
+      "route": "/guide-packs/part05/read?id=section-045",
+      "searchText": "附录A：科研工具与资源分类速查表\n说明：红色字体代表推荐优先使用，黑色仅为备选。",
+      "characterCount": 39,
+      "readingMinutes": 1
+    },
+    {
+      "title": "A.1 中文文献数据库",
+      "groupId": "appendixA",
+      "topic": "附录A：科研工具与资源分类速查表",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "A.1 中文文献数据库",
+          "level": 2
+        },
+        {
+          "type": "table",
+          "headers": [
+            "序号",
+            "工具名称",
+            "访问网址",
+            "主要用途",
+            "获取方式"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1",
+                "中国知网（CNKI）",
+                "https://www.cnki.net/",
+                "中文文献检索",
+                "校园网/VPN"
+              ],
+              "recommended": true,
+              "links": [
+                {
+                  "label": "https://www.cnki.net/",
+                  "url": "https://www.cnki.net/"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "2",
+                "万方数据",
+                "https://www.wanfangdata.com.cn/",
+                "中文学位论文检索",
+                "校园网/VPN"
+              ],
+              "recommended": false,
+              "links": [
+                {
+                  "label": "https://www.wanfangdata.com.cn/",
+                  "url": "https://www.wanfangdata.com.cn/"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "3",
+                "维普中文期刊",
+                "https://lib.cqvip.com/",
+                "中文期刊检索",
+                "校园网/VPN"
+              ],
+              "recommended": false,
+              "links": [
+                {
+                  "label": "https://lib.cqvip.com/",
+                  "url": "https://lib.cqvip.com/"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "4",
+                "PubScholar",
+                "https://pubscholar.cn",
+                "中科院公益学术平台",
+                "免费"
+              ],
+              "recommended": false,
+              "links": [
+                {
+                  "label": "https://pubscholar.cn",
+                  "url": "https://pubscholar.cn"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "5",
+                "ChinaXiv",
+                "https://chinaxiv.org/home.htm",
+                "中文预印本",
+                "免费"
+              ],
+              "recommended": false,
+              "links": [
+                {
+                  "label": "https://chinaxiv.org/home.htm",
+                  "url": "https://chinaxiv.org/home.htm"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "id": "section-046",
+      "route": "/guide-packs/part05/read?id=section-046",
+      "searchText": "A.1 中文文献数据库\n序号工具名称访问网址主要用途获取方式1中国知网（CNKI）https://www.cnki.net/中文文献检索校园网/VPN2万方数据https://www.wanfangdata.com.cn/中文学位论文检索校园网/VPN3维普中文期刊https://lib.cqvip.com/中文期刊检索校园网/VPN4PubScholarhttps://pubscholar.cn中科院公益学术平台免费5ChinaXivhttps://chinaxiv.org/home.htm中文预印本免费",
+      "characterCount": 254,
+      "readingMinutes": 1
+    },
+    {
+      "title": "A.2 英文文献数据库",
+      "groupId": "appendixA",
+      "topic": "附录A：科研工具与资源分类速查表",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "A.2 英文文献数据库",
+          "level": 2
+        },
+        {
+          "type": "table",
+          "headers": [
+            "序号",
+            "工具名称",
+            "访问网址",
+            "主要用途",
+            "获取方式"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1",
+                "Web of Science",
+                "https://access.clarivate.com/wos",
+                "英文文献检索与引文分析",
+                "校园网/VPN"
+              ],
+              "recommended": true,
+              "links": [
+                {
+                  "label": "https://access.clarivate.com/wos",
+                  "url": "https://access.clarivate.com/wos"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "2",
+                "Nature",
+                "https://www.nature.com/",
+                "顶级期刊文献",
+                "校园网/VPN"
+              ],
+              "recommended": false,
+              "links": [
+                {
+                  "label": "https://www.nature.com/",
+                  "url": "https://www.nature.com/"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "3",
+                "ScienceDirect",
+                "https://www.sciencedirect.com/",
+                "Elsevier全文数据库",
+                "校园网/VPN"
+              ],
+              "recommended": false,
+              "links": [
+                {
+                  "label": "https://www.sciencedirect.com/",
+                  "url": "https://www.sciencedirect.com/"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "4",
+                "MDPI",
+                "https://www.mdpi.com",
+                "开放获取期刊",
+                "免费"
+              ],
+              "recommended": false,
+              "links": [
+                {
+                  "label": "https://www.mdpi.com",
+                  "url": "https://www.mdpi.com"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "5",
+                "Springer",
+                "https://link.springer.com",
+                "学术期刊与图书",
+                "校园网/VPN"
+              ],
+              "recommended": false,
+              "links": [
+                {
+                  "label": "https://link.springer.com",
+                  "url": "https://link.springer.com"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "6",
+                "IEEEXplore",
+                "https://ieeexplore.ieee.org/",
+                "控制工程文献",
+                "校园网/VPN"
+              ],
+              "recommended": false,
+              "links": [
+                {
+                  "label": "https://ieeexplore.ieee.org/",
+                  "url": "https://ieeexplore.ieee.org/"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "7",
+                "MathSciNet",
+                "https://mathscinet.ams.org/",
+                "数学文献检索与评论",
+                "校园网/VPN"
+              ],
+              "recommended": true,
+              "links": [
+                {
+                  "label": "https://mathscinet.ams.org/",
+                  "url": "https://mathscinet.ams.org/"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "id": "section-047",
+      "route": "/guide-packs/part05/read?id=section-047",
+      "searchText": "A.2 英文文献数据库\n序号工具名称访问网址主要用途获取方式1Web of Sciencehttps://access.clarivate.com/wos英文文献检索与引文分析校园网/VPN2Naturehttps://www.nature.com/顶级期刊文献校园网/VPN3ScienceDirecthttps://www.sciencedirect.com/Elsevier全文数据库校园网/VPN4MDPIhttps://www.mdpi.com开放获取期刊免费5Springerhttps://link.springer.com学术期刊与图书校园网/VPN6IEEEXplorehttps://ieeexplore.ieee.org/控制工程文献校园网/VPN7MathSciNethttps://mathscinet.ams.org/数学文献检索与评论校园网/VPN",
+      "characterCount": 385,
+      "readingMinutes": 1
+    },
+    {
+      "title": "A.3 预印本与文献检索",
+      "groupId": "appendixA",
+      "topic": "附录A：科研工具与资源分类速查表",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "A.3 预印本与文献检索",
+          "level": 2
+        },
+        {
+          "type": "table",
+          "headers": [
+            "序号",
+            "工具名称",
+            "访问网址",
+            "主要用途",
+            "获取方式"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1",
+                "arXiv",
+                "https://arxiv.org/",
+                "预印本获取",
+                "免费"
+              ],
+              "recommended": false,
+              "links": [
+                {
+                  "label": "https://arxiv.org/",
+                  "url": "https://arxiv.org/"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "2",
+                "百度学术",
+                "https://xueshu.baidu.com/",
+                "跨库学术检索",
+                "免费"
+              ],
+              "recommended": false,
+              "links": [
+                {
+                  "label": "https://xueshu.baidu.com/",
+                  "url": "https://xueshu.baidu.com/"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "3",
+                "GoogleScholar",
+                "https://scholar.google.com/",
+                "跨库检索与引用追踪",
+                "免费（需VPN）"
+              ],
+              "recommended": true,
+              "links": [
+                {
+                  "label": "https://scholar.google.com/",
+                  "url": "https://scholar.google.com/"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "4",
+                "熊猫学术",
+                "https://sc.panda985.com/index.html",
+                "谷歌学术镜像+一键下载",
+                "免费"
+              ],
+              "recommended": true,
+              "links": [
+                {
+                  "label": "https://sc.panda985.com/index.html",
+                  "url": "https://sc.panda985.com/index.html"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "5",
+                "Sci-Hub",
+                "https://sci-hub.ee/",
+                "文献免费下载",
+                "免费"
+              ],
+              "recommended": false,
+              "links": [
+                {
+                  "label": "https://sci-hub.ee/",
+                  "url": "https://sci-hub.ee/"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "id": "section-048",
+      "route": "/guide-packs/part05/read?id=section-048",
+      "searchText": "A.3 预印本与文献检索\n序号工具名称访问网址主要用途获取方式1arXivhttps://arxiv.org/预印本获取免费2百度学术https://xueshu.baidu.com/跨库学术检索免费3GoogleScholarhttps://scholar.google.com/跨库检索与引用追踪免费（需VPN）4熊猫学术https://sc.panda985.com/index.html谷歌学术镜像+一键下载免费5Sci-Hubhttps://sci-hub.ee/文献免费下载免费",
+      "characterCount": 243,
+      "readingMinutes": 1
+    },
+    {
+      "title": "A.4 专利检索",
+      "groupId": "appendixA",
+      "topic": "附录A：科研工具与资源分类速查表",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "A.4 专利检索",
+          "level": 2
+        },
+        {
+          "type": "table",
+          "headers": [
+            "序号",
+            "工具名称",
+            "访问网址",
+            "主要用途",
+            "获取方式"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1",
+                "国家知识产权局",
+                "https://www.cnipa.gov.cn/",
+                "中国专利检索",
+                "免费"
+              ],
+              "recommended": true,
+              "links": [
+                {
+                  "label": "https://www.cnipa.gov.cn/",
+                  "url": "https://www.cnipa.gov.cn/"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "2",
+                "专利之星检索",
+                "https://cprs.patentstar.com.cn/",
+                "中外专利检索",
+                "免费注册"
+              ],
+              "recommended": true,
+              "links": [
+                {
+                  "label": "https://cprs.patentstar.com.cn/",
+                  "url": "https://cprs.patentstar.com.cn/"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "3",
+                "中国专利下载",
+                "https://www.drugfuture.com/cnpat/cn_patent.asp",
+                "专利全文下载",
+                "免费"
+              ],
+              "recommended": false,
+              "links": [
+                {
+                  "label": "https://www.drugfuture.com/cnpat/cn_patent.asp",
+                  "url": "https://www.drugfuture.com/cnpat/cn_patent.asp"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "4",
+                "佰腾专利",
+                "https://www.baiten.cn/",
+                "全球专利检索分析",
+                "免费注册"
+              ],
+              "recommended": false,
+              "links": [
+                {
+                  "label": "https://www.baiten.cn/",
+                  "url": "https://www.baiten.cn/"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "id": "section-049",
+      "route": "/guide-packs/part05/read?id=section-049",
+      "searchText": "A.4 专利检索\n序号工具名称访问网址主要用途获取方式1国家知识产权局https://www.cnipa.gov.cn/中国专利检索免费2专利之星检索https://cprs.patentstar.com.cn/中外专利检索免费注册3中国专利下载https://www.drugfuture.com/cnpat/cn_patent.asp专利全文下载免费4佰腾专利https://www.baiten.cn/全球专利检索分析免费注册",
+      "characterCount": 214,
+      "readingMinutes": 1
+    },
+    {
+      "title": "A.5 期刊检索与科研网站",
+      "groupId": "appendixA",
+      "topic": "附录A：科研工具与资源分类速查表",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "A.5 期刊检索与科研网站",
+          "level": 2
+        },
+        {
+          "type": "table",
+          "headers": [
+            "序号",
+            "工具名称",
+            "访问网址",
+            "主要用途",
+            "获取方式"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1",
+                "JCR分区",
+                "https://jcr.clarivate.com/jcr/home",
+                "期刊影响因子查询",
+                "校园网/VPN"
+              ],
+              "recommended": false,
+              "links": [
+                {
+                  "label": "https://jcr.clarivate.com/jcr/home",
+                  "url": "https://jcr.clarivate.com/jcr/home"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "2",
+                "LetPub",
+                "https://www.letpub.com.cn/index.php",
+                "期刊查询与投稿经验",
+                "免费"
+              ],
+              "recommended": true,
+              "links": [
+                {
+                  "label": "https://www.letpub.com.cn/index.php",
+                  "url": "https://www.letpub.com.cn/index.php"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "3",
+                "期刊分区表",
+                "https://www.fenqubiao.com/",
+                "中科院分区查询",
+                "校园网/VPN"
+              ],
+              "recommended": false,
+              "links": [
+                {
+                  "label": "https://www.fenqubiao.com/",
+                  "url": "https://www.fenqubiao.com/"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "4",
+                "科研通",
+                "https://www.ablesci.com/",
+                "文献互助与期刊查询",
+                "免费注册"
+              ],
+              "recommended": false,
+              "links": [
+                {
+                  "label": "https://www.ablesci.com/",
+                  "url": "https://www.ablesci.com/"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "5",
+                "熊猫学术",
+                "https://sc.panda985.com/index.html",
+                "期刊排行查询",
+                "免费"
+              ],
+              "recommended": false,
+              "links": [
+                {
+                  "label": "https://sc.panda985.com/index.html",
+                  "url": "https://sc.panda985.com/index.html"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "6",
+                "科研导航",
+                "https://nav.research.top/",
+                "科研导航网站集合",
+                "免费"
+              ],
+              "recommended": true,
+              "links": [
+                {
+                  "label": "https://nav.research.top/",
+                  "url": "https://nav.research.top/"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "7",
+                "科研废物",
+                "https://www.yanweb.top/",
+                "科研导航网站集合",
+                "免费"
+              ],
+              "recommended": true,
+              "links": [
+                {
+                  "label": "https://www.yanweb.top/",
+                  "url": "https://www.yanweb.top/"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "id": "section-050",
+      "route": "/guide-packs/part05/read?id=section-050",
+      "searchText": "A.5 期刊检索与科研网站\n序号工具名称访问网址主要用途获取方式1JCR分区https://jcr.clarivate.com/jcr/home期刊影响因子查询校园网/VPN2LetPubhttps://www.letpub.com.cn/index.php期刊查询与投稿经验免费3期刊分区表https://www.fenqubiao.com/中科院分区查询校园网/VPN4科研通https://www.ablesci.com/文献互助与期刊查询免费注册5熊猫学术https://sc.panda985.com/index.html期刊排行查询免费6科研导航https://nav.research.top/科研导航网站集合免费7科研废物https://www.yanweb.top/科研导航网站集合免费",
+      "characterCount": 350,
+      "readingMinutes": 1
+    },
+    {
+      "title": "A.6 文献管理",
+      "groupId": "appendixA",
+      "topic": "附录A：科研工具与资源分类速查表",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "A.6 文献管理",
+          "level": 2
+        },
+        {
+          "type": "table",
+          "headers": [
+            "序号",
+            "工具名称",
+            "访问网址",
+            "主要用途",
+            "获取方式"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1",
+                "Zotero",
+                "https://www.zotero.org/",
+                "文献管理与引用插入",
+                "免费开源"
+              ],
+              "recommended": true,
+              "links": [
+                {
+                  "label": "https://www.zotero.org/",
+                  "url": "https://www.zotero.org/"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "2",
+                "EndNote",
+                "https://endnote.com/",
+                "文献管理",
+                "学校许可证"
+              ],
+              "recommended": false,
+              "links": [
+                {
+                  "label": "https://endnote.com/",
+                  "url": "https://endnote.com/"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "3",
+                "NoteExpress",
+                "http://www.inoteexpress.com/",
+                "国产文献管理",
+                "学校许可证"
+              ],
+              "recommended": true,
+              "links": [
+                {
+                  "label": "http://www.inoteexpress.com/",
+                  "url": "http://www.inoteexpress.com/"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "4",
+                "Mendeley",
+                "https://www.mendeley.com/",
+                "免费文献管理",
+                "免费"
+              ],
+              "recommended": false,
+              "links": [
+                {
+                  "label": "https://www.mendeley.com/",
+                  "url": "https://www.mendeley.com/"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "id": "section-051",
+      "route": "/guide-packs/part05/read?id=section-051",
+      "searchText": "A.6 文献管理\n序号工具名称访问网址主要用途获取方式1Zoterohttps://www.zotero.org/文献管理与引用插入免费开源2EndNotehttps://endnote.com/文献管理学校许可证3NoteExpresshttp://www.inoteexpress.com/国产文献管理学校许可证4Mendeleyhttps://www.mendeley.com/免费文献管理免费",
+      "characterCount": 198,
+      "readingMinutes": 1
+    },
+    {
+      "title": "A.7 数据分析与计算",
+      "groupId": "appendixA",
+      "topic": "附录A：科研工具与资源分类速查表",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "A.7 数据分析与计算",
+          "level": 2
+        },
+        {
+          "type": "table",
+          "headers": [
+            "序号",
+            "工具名称",
+            "访问网址",
+            "主要用途",
+            "获取方式"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1",
+                "MATLAB",
+                "https://www.mathworks.com/",
+                "数值计算与控制系统分析",
+                "学校许可证"
+              ],
+              "recommended": true,
+              "links": [
+                {
+                  "label": "https://www.mathworks.com/",
+                  "url": "https://www.mathworks.com/"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "2",
+                "Mathematica",
+                "https://www.wolfram.com/mathematica/",
+                "符号计算与数学推导",
+                "学校许可证"
+              ],
+              "recommended": false,
+              "links": [
+                {
+                  "label": "https://www.wolfram.com/mathematica/",
+                  "url": "https://www.wolfram.com/mathematica/"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "3",
+                "Python",
+                "https://www.python.org/",
+                "科学计算与数据分析",
+                "免费开源"
+              ],
+              "recommended": false,
+              "links": [
+                {
+                  "label": "https://www.python.org/",
+                  "url": "https://www.python.org/"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "4",
+                "AUTO",
+                "https://github.com/auto-07p/auto-07p",
+                "分岔分析与稳定性分析",
+                "免费开源"
+              ],
+              "recommended": false,
+              "links": [
+                {
+                  "label": "https://github.com/auto-07p/auto-07p",
+                  "url": "https://github.com/auto-07p/auto-07p"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "5",
+                "XPPAUT",
+                "http://www.math.pitt.edu/~bard/xpp/xpp.html",
+                "ODE数值模拟与分岔分析",
+                "免费"
+              ],
+              "recommended": false,
+              "links": [
+                {
+                  "label": "http://www.math.pitt.edu/~bard/xpp/xpp.html",
+                  "url": "http://www.math.pitt.edu/~bard/xpp/xpp.html"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "id": "section-052",
+      "route": "/guide-packs/part05/read?id=section-052",
+      "searchText": "A.7 数据分析与计算\n序号工具名称访问网址主要用途获取方式1MATLABhttps://www.mathworks.com/数值计算与控制系统分析学校许可证2Mathematicahttps://www.wolfram.com/mathematica/符号计算与数学推导学校许可证3Pythonhttps://www.python.org/科学计算与数据分析免费开源4AUTOhttps://github.com/auto-07p/auto-07p分岔分析与稳定性分析免费开源5XPPAUThttp://www.math.pitt.edu/~bard/xpp/xpp.htmlODE数值模拟与分岔分析免费",
+      "characterCount": 301,
+      "readingMinutes": 1
+    },
+    {
+      "title": "A.8 写作排版",
+      "groupId": "appendixA",
+      "topic": "附录A：科研工具与资源分类速查表",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "A.8 写作排版",
+          "level": 2
+        },
+        {
+          "type": "table",
+          "headers": [
+            "序号",
+            "工具名称",
+            "访问网址",
+            "主要用途",
+            "获取方式"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1",
+                "LaTeX/Overleaf",
+                "https://www.overleaf.com/",
+                "学术论文排版",
+                "在线访问"
+              ],
+              "recommended": false,
+              "links": [
+                {
+                  "label": "https://www.overleaf.com/",
+                  "url": "https://www.overleaf.com/"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "2",
+                "OnlineLaTeX",
+                "https://onlinelatex.com/login",
+                "学术论文排版",
+                "中文在线免费"
+              ],
+              "recommended": true,
+              "links": [
+                {
+                  "label": "https://onlinelatex.com/login",
+                  "url": "https://onlinelatex.com/login"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "id": "section-053",
+      "route": "/guide-packs/part05/read?id=section-053",
+      "searchText": "A.8 写作排版\n序号工具名称访问网址主要用途获取方式1LaTeX/Overleafhttps://www.overleaf.com/学术论文排版在线访问2OnlineLaTeXhttps://onlinelatex.com/login学术论文排版中文在线免费",
+      "characterCount": 128,
+      "readingMinutes": 1
+    },
+    {
+      "title": "A.9 科研社区",
+      "groupId": "appendixA",
+      "topic": "附录A：科研工具与资源分类速查表",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "A.9 科研社区",
+          "level": 2
+        },
+        {
+          "type": "table",
+          "headers": [
+            "序号",
+            "工具名称",
+            "访问网址",
+            "主要用途",
+            "获取方式"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1",
+                "知乎",
+                "https://www.zhihu.com/",
+                "科研经验问答",
+                "免费"
+              ],
+              "recommended": true,
+              "links": [
+                {
+                  "label": "https://www.zhihu.com/",
+                  "url": "https://www.zhihu.com/"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "2",
+                "小木虫",
+                "https://muchong.com/bbs/",
+                "学术互动与文献互助",
+                "免费注册"
+              ],
+              "recommended": false,
+              "links": [
+                {
+                  "label": "https://muchong.com/bbs/",
+                  "url": "https://muchong.com/bbs/"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "3",
+                "GitHub",
+                "https://github.com/",
+                "代码托管与开源协作",
+                "免费"
+              ],
+              "recommended": true,
+              "links": [
+                {
+                  "label": "https://github.com/",
+                  "url": "https://github.com/"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "4",
+                "ResearchGate",
+                "https://www.researchgate.net/",
+                "学术档案与全文请求",
+                "免费注册"
+              ],
+              "recommended": false,
+              "links": [
+                {
+                  "label": "https://www.researchgate.net/",
+                  "url": "https://www.researchgate.net/"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "5",
+                "Git",
+                "https://git-scm.com/",
+                "科研代码版本管理",
+                "免费开源"
+              ],
+              "recommended": true,
+              "links": [
+                {
+                  "label": "https://git-scm.com/",
+                  "url": "https://git-scm.com/"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "6",
+                "中国科学网",
+                "https://www.sciencenet.cn/",
+                "科研资讯与学术博客",
+                "免费"
+              ],
+              "recommended": false,
+              "links": [
+                {
+                  "label": "https://www.sciencenet.cn/",
+                  "url": "https://www.sciencenet.cn/"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "id": "section-054",
+      "route": "/guide-packs/part05/read?id=section-054",
+      "searchText": "A.9 科研社区\n序号工具名称访问网址主要用途获取方式1知乎https://www.zhihu.com/科研经验问答免费2小木虫https://muchong.com/bbs/学术互动与文献互助免费注册3GitHubhttps://github.com/代码托管与开源协作免费4ResearchGatehttps://www.researchgate.net/学术档案与全文请求免费注册5Githttps://git-scm.com/科研代码版本管理免费开源6中国科学网https://www.sciencenet.cn/科研资讯与学术博客免费",
+      "characterCount": 270,
+      "readingMinutes": 1
+    },
+    {
+      "title": "A.10 AI辅助工具",
+      "groupId": "appendixA",
+      "topic": "附录A：科研工具与资源分类速查表",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "A.10 AI辅助工具",
+          "level": 2
+        },
+        {
+          "type": "table",
+          "headers": [
+            "序号",
+            "工具名称",
+            "访问网址",
+            "主要用途",
+            "获取方式"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1",
+                "ChatGPT",
+                "https://chatgpt.com/",
+                "文献阅读/代码调试/润色",
+                "免费/付费"
+              ],
+              "recommended": false,
+              "links": [
+                {
+                  "label": "https://chatgpt.com/",
+                  "url": "https://chatgpt.com/"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "2",
+                "WorkBuddy",
+                "https://www.workbuddy.cn/",
+                "文档创作/数据分析",
+                "免费"
+              ],
+              "recommended": true,
+              "links": [
+                {
+                  "label": "https://www.workbuddy.cn/",
+                  "url": "https://www.workbuddy.cn/"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "3",
+                "DeepSeek",
+                "https://www.deepseek.com/",
+                "代码/数学/推理",
+                "免费"
+              ],
+              "recommended": true,
+              "links": [
+                {
+                  "label": "https://www.deepseek.com/",
+                  "url": "https://www.deepseek.com/"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "4",
+                "豆包",
+                "https://www.doubao.com/",
+                "文档阅读/翻译",
+                "免费"
+              ],
+              "recommended": false,
+              "links": [
+                {
+                  "label": "https://www.doubao.com/",
+                  "url": "https://www.doubao.com/"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "5",
+                "Kimi",
+                "https://kimi.moonshot.cn/",
+                "长文献阅读/多文档分析",
+                "免费"
+              ],
+              "recommended": false,
+              "links": [
+                {
+                  "label": "https://kimi.moonshot.cn/",
+                  "url": "https://kimi.moonshot.cn/"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "id": "section-055",
+      "route": "/guide-packs/part05/read?id=section-055",
+      "searchText": "A.10 AI辅助工具\n序号工具名称访问网址主要用途获取方式1ChatGPThttps://chatgpt.com/文献阅读/代码调试/润色免费/付费2WorkBuddyhttps://www.workbuddy.cn/文档创作/数据分析免费3DeepSeekhttps://www.deepseek.com/代码/数学/推理免费4豆包https://www.doubao.com/文档阅读/翻译免费5Kimihttps://kimi.moonshot.cn/长文献阅读/多文档分析免费",
+      "characterCount": 241,
+      "readingMinutes": 1
+    },
+    {
+      "title": "A.11 翻译工具",
+      "groupId": "appendixA",
+      "topic": "附录A：科研工具与资源分类速查表",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "A.11 翻译工具",
+          "level": 2
+        },
+        {
+          "type": "table",
+          "headers": [
+            "序号",
+            "工具名称",
+            "访问网址",
+            "主要用途",
+            "获取方式"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1",
+                "百度翻译",
+                "https://fanyi.baidu.com/",
+                "文本/文档翻译",
+                "免费"
+              ],
+              "recommended": false,
+              "links": [
+                {
+                  "label": "https://fanyi.baidu.com/",
+                  "url": "https://fanyi.baidu.com/"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "2",
+                "谷歌翻译",
+                "https://translate.google.com/",
+                "多语种翻译",
+                "免费（需VPN）"
+              ],
+              "recommended": true,
+              "links": [
+                {
+                  "label": "https://translate.google.com/",
+                  "url": "https://translate.google.com/"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "3",
+                "有道词典",
+                "https://dict.youdao.com/",
+                "即时查词/屏幕取词",
+                "免费"
+              ],
+              "recommended": false,
+              "links": [
+                {
+                  "label": "https://dict.youdao.com/",
+                  "url": "https://dict.youdao.com/"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "4",
+                "DeepL",
+                "https://www.deepl.com/",
+                "学术文本翻译",
+                "免费/付费"
+              ],
+              "recommended": false,
+              "links": [
+                {
+                  "label": "https://www.deepl.com/",
+                  "url": "https://www.deepl.com/"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "id": "section-056",
+      "route": "/guide-packs/part05/read?id=section-056",
+      "searchText": "A.11 翻译工具\n序号工具名称访问网址主要用途获取方式1百度翻译https://fanyi.baidu.com/文本/文档翻译免费2谷歌翻译https://translate.google.com/多语种翻译免费（需VPN）3有道词典https://dict.youdao.com/即时查词/屏幕取词免费4DeepLhttps://www.deepl.com/学术文本翻译免费/付费",
+      "characterCount": 190,
+      "readingMinutes": 1
+    },
+    {
+      "title": "A.12 基金项目查询",
+      "groupId": "appendixA",
+      "topic": "附录A：科研工具与资源分类速查表",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "A.12 基金项目查询",
+          "level": 2
+        },
+        {
+          "type": "table",
+          "headers": [
+            "序号",
+            "工具名称",
+            "访问网址",
+            "主要用途",
+            "获取方式"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1",
+                "国自然查询",
+                "http://fund.keyanzhiku.com/",
+                "已获批项目查询",
+                "免费注册"
+              ],
+              "recommended": false,
+              "links": [
+                {
+                  "label": "http://fund.keyanzhiku.com/",
+                  "url": "http://fund.keyanzhiku.com/"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "2",
+                "国家自然科学基金委",
+                "https://www.nsfc.gov.cn/",
+                "政策与申请指南",
+                "免费"
+              ],
+              "recommended": false,
+              "links": [
+                {
+                  "label": "https://www.nsfc.gov.cn/",
+                  "url": "https://www.nsfc.gov.cn/"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "3",
+                "NSF",
+                "https://www.nsf.gov/",
+                "美国科研项目查询",
+                "免费"
+              ],
+              "recommended": false,
+              "links": [
+                {
+                  "label": "https://www.nsf.gov/",
+                  "url": "https://www.nsf.gov/"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "id": "section-057",
+      "route": "/guide-packs/part05/read?id=section-057",
+      "searchText": "A.12 基金项目查询\n序号工具名称访问网址主要用途获取方式1国自然查询http://fund.keyanzhiku.com/已获批项目查询免费注册2国家自然科学基金委https://www.nsfc.gov.cn/政策与申请指南免费3NSFhttps://www.nsf.gov/美国科研项目查询免费",
+      "characterCount": 149,
+      "readingMinutes": 1
+    },
+    {
+      "title": "A.13 在线学习",
+      "groupId": "appendixA",
+      "topic": "附录A：科研工具与资源分类速查表",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "A.13 在线学习",
+          "level": 2
+        },
+        {
+          "type": "table",
+          "headers": [
+            "序号",
+            "工具名称",
+            "访问网址",
+            "主要用途",
+            "获取方式"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1",
+                "中国大学MOOC",
+                "https://www.icourse163.org/",
+                "中文高校课程",
+                "免费"
+              ],
+              "recommended": true,
+              "links": [
+                {
+                  "label": "https://www.icourse163.org/",
+                  "url": "https://www.icourse163.org/"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "2",
+                "学堂在线",
+                "https://www.xuetangx.com/",
+                "清华等高校课程",
+                "免费"
+              ],
+              "recommended": false,
+              "links": [
+                {
+                  "label": "https://www.xuetangx.com/",
+                  "url": "https://www.xuetangx.com/"
+                }
+              ]
+            },
+            {
+              "cells": [
+                "3",
+                "edX",
+                "https://www.edx.org/",
+                "国际顶尖大学课程",
+                "免费/付费"
+              ],
+              "recommended": false,
+              "links": [
+                {
+                  "label": "https://www.edx.org/",
+                  "url": "https://www.edx.org/"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "id": "section-058",
+      "route": "/guide-packs/part05/read?id=section-058",
+      "searchText": "A.13 在线学习\n序号工具名称访问网址主要用途获取方式1中国大学MOOChttps://www.icourse163.org/中文高校课程免费2学堂在线https://www.xuetangx.com/清华等高校课程免费3edXhttps://www.edx.org/国际顶尖大学课程免费/付费",
+      "characterCount": 146,
+      "readingMinutes": 1
+    },
+    {
+      "title": "A.14 电脑常用工具软件",
+      "groupId": "appendixA",
+      "topic": "附录A：科研工具与资源分类速查表",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "A.14 电脑常用工具软件",
+          "level": 2
+        },
+        {
+          "type": "table",
+          "headers": [
+            "序号",
+            "工具名称",
+            "访问网址",
+            "主要用途",
+            "获取方式"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1",
+                "Geek Uninstaller",
+                "本地安装包（见附录C.5）",
+                "软件卸载与残留清理",
+                "免费"
+              ],
+              "recommended": false
+            },
+            {
+              "cells": [
+                "2",
+                "Bandizip",
+                "本地安装包（见附录C.5）",
+                "压缩与解压",
+                "免费"
+              ],
+              "recommended": false
+            },
+            {
+              "cells": [
+                "3",
+                "Everything",
+                "本地安装包（见附录C.5）",
+                "全盘文件秒搜",
+                "免费"
+              ],
+              "recommended": true
+            },
+            {
+              "cells": [
+                "4",
+                "PotPlayer",
+                "本地安装包（见附录C.5）",
+                "本地视频播放",
+                "免费"
+              ],
+              "recommended": false
+            },
+            {
+              "cells": [
+                "5",
+                "Honeyview",
+                "本地安装包（见附录C.5）",
+                "快速看图",
+                "免费"
+              ],
+              "recommended": false
+            },
+            {
+              "cells": [
+                "6",
+                "Snipaste",
+                "本地安装包（见附录C.5）",
+                "截图与标注",
+                "免费"
+              ],
+              "recommended": false
+            },
+            {
+              "cells": [
+                "7",
+                "WizTree",
+                "本地安装包（见附录C.5）",
+                "磁盘空间分析清理",
+                "免费"
+              ],
+              "recommended": false
+            }
+          ]
+        }
+      ],
+      "id": "section-059",
+      "route": "/guide-packs/part05/read?id=section-059",
+      "searchText": "A.14 电脑常用工具软件\n序号工具名称访问网址主要用途获取方式1Geek Uninstaller本地安装包（见附录C.5）软件卸载与残留清理免费2Bandizip本地安装包（见附录C.5）压缩与解压免费3Everything本地安装包（见附录C.5）全盘文件秒搜免费4PotPlayer本地安装包（见附录C.5）本地视频播放免费5Honeyview本地安装包（见附录C.5）快速看图免费6Snipaste本地安装包（见附录C.5）截图与标注免费7WizTree本地安装包（见附录C.5）磁盘空间分析清理免费",
+      "characterCount": 251,
+      "readingMinutes": 1
+    },
+    {
+      "title": "附录B：arXiv相关分类速查",
+      "groupId": "appendixB",
+      "topic": "附录B：arXiv相关分类速查",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "附录B：arXiv相关分类速查",
+          "level": 1
+        },
+        {
+          "type": "table",
+          "headers": [
+            "分类号",
+            "分类名称",
+            "适用方向"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "math.DS",
+                "Dynamical Systems",
+                "动力系统理论"
+              ],
+              "recommended": false
+            },
+            {
+              "cells": [
+                "nlin.CD",
+                "Chaotic Dynamics",
+                "混沌动力学"
+              ],
+              "recommended": false
+            },
+            {
+              "cells": [
+                "nlin.SI",
+                "Exactly Solvable and Integrable Systems",
+                "可积系统"
+              ],
+              "recommended": false
+            },
+            {
+              "cells": [
+                "nlin.AO",
+                "Adaptation and Self-Organizing Systems",
+                "自适应与自组织系统"
+              ],
+              "recommended": false
+            },
+            {
+              "cells": [
+                "eess.SY",
+                "Systems and Control",
+                "系统与控制"
+              ],
+              "recommended": false
+            },
+            {
+              "cells": [
+                "physics.math-ph",
+                "Mathematical Physics",
+                "数学物理"
+              ],
+              "recommended": false
+            },
+            {
+              "cells": [
+                "math.OC",
+                "Optimization and Control",
+                "优化与控制"
+              ],
+              "recommended": false
+            },
+            {
+              "cells": [
+                "cs.SY",
+                "Systems and Control（计算机科学分类）",
+                "系统与控制"
+              ],
+              "recommended": false
+            }
+          ]
+        }
+      ],
+      "id": "section-060",
+      "route": "/guide-packs/part05/read?id=section-060",
+      "searchText": "附录B：arXiv相关分类速查\n分类号分类名称适用方向math.DSDynamical Systems动力系统理论nlin.CDChaotic Dynamics混沌动力学nlin.SIExactly Solvable and Integrable Systems可积系统nlin.AOAdaptation and Self-Organizing Systems自适应与自组织系统eess.SYSystems and Control系统与控制physics.math-phMathematical Physics数学物理math.OCOptimization and Control优化与控制cs.SYSystems and Control（计算机科学分类）系统与控制",
+      "characterCount": 316,
+      "readingMinutes": 1
+    },
+    {
+      "title": "C.1 MATLAB学习资源",
+      "groupId": "appendixC",
+      "topic": "附录C：推荐学习资源",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "附录C：推荐学习资源",
+          "level": 1
+        },
+        {
+          "type": "heading",
+          "text": "C.1 MATLAB学习资源",
+          "level": 2
+        },
+        {
+          "type": "paragraph",
+          "text": "MATLABOnramp（https://www.mathworks.com/learn/tutorials/matlab-onramp）—官方免费入门课程",
+          "links": [
+            {
+              "label": "https://www.mathworks.com/learn/tutorials/matlab-onramp",
+              "url": "https://www.mathworks.com/learn/tutorials/matlab-onramp"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "MATLAB官方文档（https://www.mathworks.com/help/matlab/）—最权威的参考文档",
+          "links": [
+            {
+              "label": "https://www.mathworks.com/help/matlab/",
+              "url": "https://www.mathworks.com/help/matlab/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "《MATLAB程序设计教程》—系统学习MATLAB编程"
+        }
+      ],
+      "id": "section-061",
+      "route": "/guide-packs/part05/read?id=section-061",
+      "searchText": "附录C：推荐学习资源\nC.1 MATLAB学习资源\nMATLABOnramp（https://www.mathworks.com/learn/tutorials/matlab-onramp）—官方免费入门课程\nMATLAB官方文档（https://www.mathworks.com/help/matlab/）—最权威的参考文档\n《MATLAB程序设计教程》—系统学习MATLAB编程",
+      "characterCount": 187,
+      "readingMinutes": 1
+    },
+    {
+      "title": "C.2 Python学习资源",
+      "groupId": "appendixC",
+      "topic": "附录C：推荐学习资源",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "C.2 Python学习资源",
+          "level": 2
+        },
+        {
+          "type": "paragraph",
+          "text": "Python官方教程（https://docs.python.org/3/tutorial/）",
+          "links": [
+            {
+              "label": "https://docs.python.org/3/tutorial/",
+              "url": "https://docs.python.org/3/tutorial/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "SciPy讲座（https://scipy-lectures.org/）—科学计算专项教程",
+          "links": [
+            {
+              "label": "https://scipy-lectures.org/",
+              "url": "https://scipy-lectures.org/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "《Python科学计算》—NumPy/SciPy/Matplotlib系统学习"
+        }
+      ],
+      "id": "section-062",
+      "route": "/guide-packs/part05/read?id=section-062",
+      "searchText": "C.2 Python学习资源\nPython官方教程（https://docs.python.org/3/tutorial/）\nSciPy讲座（https://scipy-lectures.org/）—科学计算专项教程\n《Python科学计算》—NumPy/SciPy/Matplotlib系统学习",
+      "characterCount": 144,
+      "readingMinutes": 1
+    },
+    {
+      "title": "C.3 LaTeX学习资源",
+      "groupId": "appendixC",
+      "topic": "附录C：推荐学习资源",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "C.3 LaTeX学习资源",
+          "level": 2
+        },
+        {
+          "type": "paragraph",
+          "text": "Overleaf官方文档（https://www.overleaf.com/learn）—最实用的在线教程",
+          "links": [
+            {
+              "label": "https://www.overleaf.com/learn",
+              "url": "https://www.overleaf.com/learn"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "《一份不太简短的LaTeX2e介绍》—经典入门文档"
+        },
+        {
+          "type": "paragraph",
+          "text": "LearnLaTeX.org—交互式LaTeX教程"
+        }
+      ],
+      "id": "section-063",
+      "route": "/guide-packs/part05/read?id=section-063",
+      "searchText": "C.3 LaTeX学习资源\nOverleaf官方文档（https://www.overleaf.com/learn）—最实用的在线教程\n《一份不太简短的LaTeX2e介绍》—经典入门文档\nLearnLaTeX.org—交互式LaTeX教程",
+      "characterCount": 115,
+      "readingMinutes": 1
+    },
+    {
+      "title": "C.4 文献阅读与科研方法",
+      "groupId": "appendixC",
+      "topic": "附录C：推荐学习资源",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "C.4 文献阅读与科研方法",
+          "level": 2
+        },
+        {
+          "type": "paragraph",
+          "text": "S. Keshav, “How to Read a Paper”——三遍阅读法的原始文献"
+        },
+        {
+          "type": "paragraph",
+          "text": "科研通使用技巧（https://www.ablesci.com/）—科研通平台的详细使用指南",
+          "links": [
+            {
+              "label": "https://www.ablesci.com/",
+              "url": "https://www.ablesci.com/"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "科研通科研导航（https://www.ablesci.com/daohang）—一站式科研工具导航",
+          "links": [
+            {
+              "label": "https://www.ablesci.com/daohang",
+              "url": "https://www.ablesci.com/daohang"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "科研导航（https://nav.research.top/）—综合科研工具导航平台",
+          "links": [
+            {
+              "label": "https://nav.research.top/",
+              "url": "https://nav.research.top/"
+            }
+          ]
+        }
+      ],
+      "id": "section-064",
+      "route": "/guide-packs/part05/read?id=section-064",
+      "searchText": "C.4 文献阅读与科研方法\nS. Keshav, “How to Read a Paper”——三遍阅读法的原始文献\n科研通使用技巧（https://www.ablesci.com/）—科研通平台的详细使用指南\n科研通科研导航（https://www.ablesci.com/daohang）—一站式科研工具导航\n科研导航（https://nav.research.top/）—综合科研工具导航平台",
+      "characterCount": 188,
+      "readingMinutes": 1
+    },
+    {
+      "title": "C.5 所有相关软件下载链接及安装教程",
+      "groupId": "appendixC",
+      "topic": "附录C：推荐学习资源",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "C.5 所有相关软件下载链接及安装教程",
+          "level": 2
+        },
+        {
+          "type": "paragraph",
+          "text": "本节中的网盘分享地址与提取码未在公开版提供。软件安装包、官方文档与学习课程，请通过指南前文列出的官方网站获取。"
+        }
+      ],
+      "id": "section-065",
+      "route": "/guide-packs/part05/read?id=section-065",
+      "searchText": "C.5 所有相关软件下载链接及安装教程\n本节中的网盘分享地址与提取码未在公开版提供。软件安装包、官方文档与学习课程，请通过指南前文列出的官方网站获取。",
+      "characterCount": 73,
+      "readingMinutes": 1
+    }
+  ],
+  "stats": {
+    "sections": 65,
+    "groups": 5,
+    "blocks": 628,
+    "images": 34,
+    "tables": 15,
+    "tableRows": 75,
+    "explicitLinks": 158,
+    "characters": 26456,
+    "readingMinutes": 67
+  },
+  "publicEdition": {
+    "omittedPrivateDownloads": true,
+    "affectedSections": [
+      "section-065"
+    ],
+    "resourceAccess": "official-websites"
+  }
+}
